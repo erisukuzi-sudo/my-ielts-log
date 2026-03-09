@@ -92,3 +92,4 @@
 | **56** | **fade** (vi. 逐渐消失 / 褪色)<br>**fake** (adj. 假的 / 伪造的; n. 赝品) | As the physical evidence begins to **fade** over time, investigators must be cautious not to rely on **fake** testimonies. |
 | **57** | **acceptance** (n. 接受 / 认可)<br>**attendance** (n. 出席 / 参加) | The university's **acceptance** rate plummeted this year, although overall **attendance** at the open-day events reached a record high. |
 | **58** | **definite** (adj. 确定的 / 清楚的)<br>**infinite** (adj. 无限的 / 极大的) | There is a **definite** limit to fossil fuel reserves, unlike the practically **infinite** energy provided by solar and wind power. |
+| **59** | **deny** (vt. 否认 / 拒绝给予)<br>**defy** (vt. 违抗 / 蔑视 / 使成为不可能) | Despite the overwhelming evidence, some corporations continue to **deny** their responsibility for pollution and **defy** international environmental regulations. |
