@@ -28,7 +28,7 @@
 
 <div class="floating-widget">
   <a href="#">⬆️ 顶部 (Top)</a>
-  <a href="vocabulary.md">⬅️ 目录 (Index)</a>
+<a href="vocabulary">⬅️ 目录 (Index)</a>
  <a href="index.html">🏠 主页 (Home)</a> 
 </div>
 
