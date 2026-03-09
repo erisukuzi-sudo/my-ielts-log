@@ -1,6 +1,6 @@
-<div align="center">
-
 $$\color{hotpink}{\text{Sasha's IELTS Blossom 🌸}}$$
+
+<div align="center">
 
 ![Sasha's Journey](https://img.shields.io/badge/Sasha's_IELTS-In_Progress-ff69b4?style=flat-square&logo=twice)
 ![Member](https://img.shields.io/badge/Favorite-Sana-orange?style=flat-square&logo=k-pop)
@@ -8,6 +8,7 @@ $$\color{hotpink}{\text{Sasha's IELTS Blossom 🌸}}$$
 </div>
 
 ---
+
 
 # my-ielts-log
 mobile-oriented IELTS learning
