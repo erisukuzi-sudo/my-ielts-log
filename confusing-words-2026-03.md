@@ -2,6 +2,36 @@
 
 > **Study Tip:** Memorizing words with their accurate parts of speech and specific contexts (e.g., Environment, Technology, Society) is the most effective strategy to boost your Lexical Resource and Grammatical Range in IELTS.
 
+<style>
+  .floating-widget {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    background-color: #ffffff;
+    border: 1px solid #eaecef;
+    border-radius: 12px;
+    padding: 10px 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .floating-widget a {
+    text-decoration: none;
+    color: #0969da;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+  }
+</style>
+
+<div class="floating-widget">
+  <a href="#">⬆️ 顶部 (Top)</a>
+  <a href="vocabulary.md">⬅️ 目录 (Index)</a>
+  <a href="README.md">🏠 主页 (Home)</a>
+</div>
+
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
 | **01** | **radical** (adj. 根本的 / 激进的; n. 激进分子)<br>**racial** (adj. 种族的)<br>**rational** (adj. 合理的 / 理性的) | To achieve **racial** equality, society needs a **rational** debate rather than **radical** reforms that might cause further division. |
