@@ -1,14 +1,13 @@
-$$\color{hotpink}{\text{Sasha's IELTS Blossom 🌸}}$$
+<h1 align="center">
+  <font color="hotpink">Sasha's IELTS Blossom 🌸</font>
+</h1>
 
-<div align="center">
-
-![Sasha's Journey](https://img.shields.io/badge/Sasha's_IELTS-In_Progress-ff69b4?style=flat-square&logo=twice)
-![Member](https://img.shields.io/badge/Favorite-Sana-orange?style=flat-square&logo=k-pop)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sasha's_IELTS-In_Progress-ff69b4?style=flat-square&logo=twice" alt="Sasha's Journey">
+  <img src="https://img.shields.io/badge/Favorite-Sana-orange?style=flat-square&logo=k-pop" alt="Member">
+</p>
 
 ---
-
 
 # my-ielts-log
 mobile-oriented IELTS learning
