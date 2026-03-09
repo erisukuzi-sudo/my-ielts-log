@@ -4,7 +4,7 @@
 
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
-| **01** | **radical** (adj. 根本的 / 激进的; n. 激进分子)<br>**racial** (adj. 种族的)<br>**rational** (adj. 合理的 / 理性的) | To achieve **racial** equality, society needs a **rational** debate rather than **radical** reforms that might cause further division.<br>*(场景:社会议题)* |
+| **01** | **radical** (adj. 根本的 / 激进的; n. 激进分子)<br>**racial** (adj. 种族的)<br>**rational** (adj. 合理的 / 理性的) | To achieve **racial** equality, society needs a **rational** debate rather than **radical** reforms that might cause further division. |
 | **02** | **magnificent** (adj. 宏伟的 / 壮丽的)<br>**significant** (adj. 重大的 / 显著的 / 重要的) | While the museum's **magnificent** architecture attracts tourists, its **significant** contribution to historical preservation is what truly matters. |
 | **03** | **journalist** (n. 记者)<br>**journey** (n. 旅程; v. 旅行) | An investigative **journalist** often embarks on a dangerous **journey** to uncover the truth behind political corruption. |
 | **04** | **magnify** (v. 放大 / 夸大)<br>**signify** (v. 表示 / 意味着) | The economic crisis tends to **magnify** existing social inequalities, which may **signify** a need for urgent policy changes. |
