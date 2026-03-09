@@ -1,103 +1,44 @@
 # 📖 IELTS Lexical Items Prone to Confusion (雅思易混淆词汇)
 
-> **Study Tip:** Pay close attention to the subtle differences in spelling and meaning. Precision is key to achieving a high band score in IELTS Writing and Listening.
+> **Study Tip:** Memorizing words with their accurate parts of speech and specific contexts (e.g., Environment, Technology, Society) is the most effective strategy to boost your Lexical Resource and Grammatical Range in IELTS.
 
-| 组别 (Group) | 易混淆单词 (Vocabulary) | 中文释义 (Definition) |
+| 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
-| **01** | **radical** | 根本的 / 激进的 |
-| | **racial** | 种族的 |
-| | **rational** | 合理的 / 理性的 |
-| **02** | **magnificent** | 宏伟的 |
-| | **significant** | 重大的 / 显著的 |
-| **03** | **journalist** | 记者 |
-| | **journey** | 旅程 |
-| **04** | **magnify** | 放大 |
-| | **signify** | 表示 / 意味着 |
-| **05** | **objective** | 客观的 / 目标 |
-| | **subjective** | 主观的 |
-| **06** | **latter** | 后者的 |
-| | **later** | 后来 |
-| **07** | **qualify** | 使具备资格 |
-| | **quantify** | 量化 |
-| | **quality** | 质量 / 品质 |
-| **08** | **ceremony** | 仪式 |
-| | **cemetery** | 墓地 |
-| **09** | **aboard** | 在船、机、车上 |
-| | **abroad** | 在国外 |
-| **10** | **board** | 木板 / 董事会 |
-| | **broad** | 宽阔的 / 广泛的 |
-| **11** | **deed** | 行为 |
-| | **deem** | 认为 |
-| **12** | **abolish** | 废止 / 废除 |
-| | **polish** | 抛光 / 擦亮 |
-| **13** | **stretch** | 拉长 / 延伸 |
-| | **sketch** | 素描 / 梗概 |
-| **14** | **scratch** | 抓 / 挠 |
-| | **snatch** | 夺取 / 一把抓起 |
-| **15** | **delay** | 延误 |
-| | **defy** | 违抗 |
-| | **decay** | 腐烂 / 衰退 |
-| | **relay** | 传递 / 接力 |
-| | **rely** | 依靠 |
-| **16** | **figure** | 数字 / 人物 / 图形 |
-| | **feature** | 特征 / 特色 |
-| **17** | **fit** | 适合 |
-| | **kit** | 成套工具 |
-| | **wit** | 机智 / 风趣 |
-| | **wet** | 潮湿的 |
-| **18** | **field** | 田野 / 领域 |
-| | **yield** | 出产 / 产量 / 屈服 |
-| **19** | **incentive** | 激励 / 动机 |
-| | **intensive** | 密集的 / 强化的 |
-| **20** | **update** | 更新 |
-| | **upgrade** | 升级 |
-| **21** | **accept** | 接受 / 认可 |
-| | **concept** | 概念 |
-| | **except** | 除...之外 |
-| **22** | **defend** | 防御 / 辩护 |
-| | **offend** | 冒犯 |
-| | **depend** | 取决于 |
-| | **expend** | 花费 |
-| **23** | **embarrass** | 使尴尬 |
-| | **embrace** | 拥抱 / 欣然接受 |
-| **24** | **fierce** | 激烈的 / 凶猛的 |
-| | **pierce** | 刺入 / 穿透 |
-| **25** | **elite** | 精英 |
-| | **elicit** | 引出 / 诱出 |
-| | **exile** | 流放 |
-| **26** | **behave** | 表现 |
-| | **behalf** | 代表 / 利益 |
-| **27** | **category** | 种类 / 范畴 |
-| | **catalog** | 目录 |
-| **28** | **deduce** | 推断 |
-| | **induce** | 引诱 / 导致 |
-| | **reduce** | 减少 |
-| | **deduct** | 扣除 |
-| **29** | **hire** | 雇用 / 租用 |
-| | **heir** | 继承人 |
-| **30** | **eccentric** | 古怪的 |
-| | **essence** | 本质 / 精华 |
-| **31** | **bare** | 赤裸的 / 仅仅 |
-| | **rare** | 罕见的 |
-| | **mere** | 仅仅 / 只不过 |
-| **32** | **eliminate** | 消除 / 淘汰 |
-| | **illuminate** | 照亮 / 阐明 |
-| **33** | **decline** | 下降 / 拒绝 |
-| | **incline** | 倾向于 |
-| **34** | **dedicate** | 致力 / 献身 |
-| | **delicate** | 微妙的 / 精致的 |
-| | **dictate** | 口述 / 命令 |
-| | **indicate** | 表明 |
-| **35** | **through** | 穿过 |
-| | **thorough** | 彻底的 |
-| | **throughout**| 遍及 |
-| | **thoughtful**| 体贴的 / 深思的 |
-| **36** | **though** | 尽管 |
-| | **rough** | 粗糙的 / 艰难的 |
-| | **tough** | 强硬的 / 艰苦的 |
-| | **thought** | 想法 |
-| **37** | **define** | 下定义 |
-| | **confine** | 限制 |
-| | **refine** | 提炼 / 完善 |
-| **38** | **incident** | 事件 |
-| | **incidence** | 发生率 |
+| **01** | **radical** (adj. 根本的 / 激进的; n. 激进分子)<br>**racial** (adj. 种族的)<br>**rational** (adj. 合理的 / 理性的) | [span_0](start_span)To achieve racial equality, society needs a rational debate rather than radical reforms that might cause further division.[span_0](end_span)[span_1](start_span)<br>*(场景:社会议题)*[span_1](end_span) |
+| **02** | **magnificent** (adj. 宏伟的 / 壮丽的)<br>**significant** (adj. 重大的 / 显著的 / 重要的) | [span_2](start_span)While the museum's magnificent architecture attracts tourists, its significant contribution to historical preservation is what truly matters.[span_2](end_span) |
+| **03** | **journalist** (n. 记者)<br>**journey** (n. 旅程; v. 旅行) | [span_3](start_span)An investigative journalist often embarks on a dangerous journey to uncover the truth behind political corruption.[span_3](end_span) |
+| **04** | **magnify** (v. 放大 / 夸大)<br>**signify** (v. 表示 / 意味着) | [span_4](start_span)The economic crisis tends to magnify existing social inequalities, which may signify a need for urgent policy changes.[span_4](end_span) |
+| **05** | **objective** (adj. 客观的; n. 目标)<br>**subjective** (adj. 主观的) | [span_5](start_span)Scientific research must remain objective, although the interpretation of data can sometimes be influenced by subjective bias.[span_5](end_span) |
+| **06** | **latter** (adj. / n. 后者的 / 后半期的)<br>**later** (adv. 后来 / 稍后; adj. 更晚的) | [span_6](start_span)Both urban expansion and rural development are essential; however, the latter is often neglected until later stages of national planning.[span_6](end_span) |
+| **07** | **qualify** (v. 使具备资格 / 限制)<br>**quantify** (v. 量化 / 确定数量)<br>**quality** (n. 质量 / 品质; adj. 优质的) | [span_7](start_span)It is difficult to quantify the quality of life, but having a stable job is one factor that helps individuals qualify for social security benefits.[span_7](end_span) |
+| **08** | **ceremony** (n. 仪式 / 典礼)<br>**cemetery** (n. 墓地 / 公墓) | [span_8](start_span)A solemn memorial ceremony was held at the national cemetery to honor those who fought for their country.[span_8](end_span) |
+| **09** | **aboard** (adv. / prep. 在船、机、车上)<br>**abroad** (adv. 在国外 / 到海外) | [span_9](start_span)Passengers aboard the international flight were excited about their opportunities to study and work abroad.[span_9](end_span) |
+| **10** | **board** (n. 木板 / 董事会 / 膳食; v. 登机/船)<br>**broad** (adj. 宽阔的 / 广泛的) | [span_10](start_span)The school board decided to implement a broad curriculum that covers both arts and sciences.[span_10](end_span) |
+| **11** | **deed** (n. 行为 / 契约)<br>**deem** (v. 认为 / 视作) | [span_11](start_span)Many people deem volunteering to be a noble deed that fosters a sense of community responsibility.[span_11](end_span) |
+| **12** | **abolish** (v. 废止 / 废除)<br>**polish** (v. 抛光 / 擦亮 / 润色; n. 光泽) | [span_12](start_span)The government plans to abolish outdated trade barriers to polish its image as a leader in free trade.[span_12](end_span)[span_13](start_span)<br>*(场景:政府政策与国际贸易)*[span_13](end_span) |
+| **13** | **stretch** (v. / n. 拉长 / 延伸 / 伸展)<br>**sketch** (n. 素描 / 梗概; v. 概述) | [span_14](start_span)Before developers stretch the city limits further, they must provide a detailed sketch of the proposed infrastructure.[span_14](end_span) |
+| **14** | **scratch** (v. / n. 抓 / 挠 / 划痕)<br>**snatch** (v. / n. 夺取 / 一把抓起) | [span_15](start_span)In the competitive job market, some candidates have to start from scratch, while others snatch every opportunity to advance their careers.[span_15](end_span) |
+| **15** | **delay** (v. / n. 延误 / 推迟)<br>**defy** (v. 违抗 / 蔑视)<br>**decay** (v. / n. 腐烂 / 衰退)<br>**relay** (v. 传递 / 转发; n. 接力)<br>**rely** (v. 依靠 / 依赖) | [span_16](start_span)Although scientists rely on modern technology to relay urgent warnings about environmental decay, governments often delay taking action and defy international climate agreements.[span_16](end_span)[span_17](start_span)<br>*(场景:环境保护与政府决策)*[span_17](end_span) |
+| **16** | **figure** (n. 数字 / 人物 / 图形; v. 计算)<br>**feature** (n. 特征 / 特色; v. 以...为特色) | [span_18](start_span)A key feature of the new economic report is that the unemployment figure has reached an unprecedented low.[span_18](end_span) |
+| **17** | **fit** (adj. 适合的; v. 合适; n. 合身)<br>**kit** (n. 成套工具 / 装备)<br>**wit** (n. 机智 / 风趣 / 智力)<br>**wet** (adj. 潮湿的; v. 弄湿) | [span_19](start_span)When trying to survive in a wet rainforest environment, one must rely on their wit to make the best use of the survival kit and find protective clothing that can fit the extreme conditions.[span_19](end_span) |
+| **18** | **field** (n. 田野 / 领域 / 场地)<br>**yield** (v. 出产 / 屈服; n. 产量) | [span_20](start_span)Recent advancements in the agricultural field have enabled crops to yield more grain without requiring additional land.[span_20](end_span) |
+| **19** | **incentive** (n. 激励 / 动机)<br>**intensive** (adj. 密集的 / 强化的) | [span_21](start_span)An intensive training program alone is not enough; companies must also provide a financial incentive to retain their top talent.[span_21](end_span) |
+| **20** | **update** (v. / n. 更新 / 最新消息)<br>**upgrade** (v. / n. 升级 / 提升) | [span_22](start_span)To update the city's outdated transportation network, the local council has decided to significantly upgrade the entire railway system.[span_22](end_span) |
+| **21** | **accept** (v. 接受 / 认可)<br>**concept** (n. 概念 / 观念)<br>**except** (prep. / conj. 除...之外) | [span_23](start_span)Most scientists accept the core concept of climate change, except for a few skeptics who continue to demand more empirical evidence.[span_23](end_span) |
+| **22** | **defend** (v. 防御 / 辩护)<br>**offend** (v. 冒犯 / 触犯)<br>**depend** (v. 取决于 / 依赖)<br>**expend** (v. 花费 / 耗尽) | [span_24](start_span)How effectively a nation can defend its borders will largely depend on how much of its budget it is willing to expend on advanced military technology, though overly aggressive policies might offend neighboring countries.[span_24](end_span) |
+| **23** | **embarrass** (v. 使尴尬 / 使局促不安)<br>**embrace** (v. / n. 拥抱 / 欣然接受) | [span_25](start_span)Rather than allowing past failures to embarrass them, successful individuals tend to embrace challenges as valuable opportunities for personal growth.[span_25](end_span) |
+| **24** | **fierce** (adj. 激烈的 / 凶猛的)<br>**pierce** (v. 刺入 / 穿透) | [span_26](start_span)The eagle, known for its fierce nature, possesses sharp talons that can easily pierce the skin of its prey.[span_26](end_span) |
+| **25** | **elite** (n. 精英; adj. 精英的)<br>**elicit** (v. 引出 / 诱出)<br>**exile** (n. / v. 流放 / 充军) | [span_27](start_span)The decision to exile the controversial leader failed to elicit fear among the public; instead, it strengthened the resolve of the intellectual elite.[span_27](end_span) |
+| **26** | **behave** (v. 表现 / 运转)<br>**behalf** (n. 代表 / 利益) | [span_28](start_span)The lawyer, speaking on behalf of the environmental organization, urged the corporations to behave more responsibly regarding their carbon footprint.[span_28](end_span) |
+| **27** | **category** (n. 种类 / 范畴)<br>**catalog** (n. 目录; v. 编目录) | [span_29](start_span)When organizing an extensive library catalog, librarians must carefully classify each ancient manuscript into the appropriate historical category.[span_29](end_span) |
+| **28** | **deduce** (v. 推断 / 演绎)<br>**induce** (v. 引诱 / 导致 / 引起)<br>**reduce** (v. 减少 / 缩小)<br>**deduct** (v. 扣除 / 减去) | [span_30](start_span)To reduce the margin of error, researchers must deduct anomalous data; only then can they deduce valid conclusions rather than induce a false sense of certainty among the public.[span_30](end_span) |
+| **29** | **hire** (v. / n. 雇用 / 租用)<br>**heir** (n. 继承人 / 嗣子) | [span_31](start_span)The wealthy heir decided to hire a team of financial advisors to manage the family's philanthropic foundation.[span_31](end_span) |
+| **30** | **eccentric** (adj. 古怪的; n. 古怪的人)<br>**essence** (n. 本质 / 精华 / 香精) | [span_32](start_span)Although the artist's behavior was considered eccentric by his peers, the true essence of his work profoundly influenced modern graphic design.[span_32](end_span) |
+| **31** | **bare** (adj. 赤裸的 / 仅仅的)<br>**rare** (adj. 罕见的 / 半熟的)<br>**mere** (adj. 仅仅的 / 只不过的) | [span_33](start_span)In the bare landscapes of the Arctic, the survival of rare species relies on complex evolutionary adaptations rather than mere chance.[span_33](end_span) |
+| **32** | **eliminate** (v. 消除 / 淘汰 / 剔除)<br>**illuminate** (v. 照亮 / 阐明 / 启迪) | [span_34](start_span)The primary goal of this educational initiative is to illuminate the root causes of poverty and ultimately eliminate social inequality.[span_34](end_span) |
+| **33** | **decline** (v. / n. 下降 / 衰退 / 婉拒)<br>**incline** (v. 倾向于 / 倾斜; n. 斜坡) | [span_35](start_span)As reading habits continue to decline among adolescents, educators incline to incorporate more interactive digital media into the curriculum.[span_35](end_span) |
+| **34** | **dedicate** (v. 致力 / 献身)<br>**delicate** (adj. 微妙的 / 精致的)<br>**dictate** (v. / n. 口述 / 命令)<br>**indicate** (v. 表明 / 指示 / 象征) | [span_36](start_span)Environmentalists who dedicate themselves to protecting delicate marine ecosystems emphasize that funding should not dictate research outcomes, as current data clearly indicate a need for immediate conservation efforts.[span_36](end_span) |
+| **35** | **through** (prep. / adv. 穿过 / 通过)<br>**thorough** (adj. 彻底的 / 全面的)<br>**throughout** (prep. / adv. 遍及 / 贯穿)<br>**thoughtful** (adj. 体贴的 / 深思的)<br>**thought** (n. 想法 / 思想) | [span_37](start_span)Throughout the historical period, scholars conducted a thorough analysis through examining classic literature, reflecting a thoughtful approach that challenged traditional thought.[span_37](end_span) |
+| **36** | **though** (conj. / adv. 尽管 / 虽然)<br>**rough** (adj. 粗糙的 / 艰难的)<br>**tough** (adj. 强硬的 / 艰苦的) | [span_38](start_span)Though the initial transition to renewable energy may be a rough process, governments must implement tough regulations to ensure long-term sustainability.[span_38](end_span) |
+| **37** | **define** (v. 下定义 / 明确)<br>**confine** (v. 限制 / 禁闭)<br>**refine** (v. 提炼 / 完善 / 改进) | [span_39](start_span)Instead of allowing rigid standardized tests to confine their potential, students should be encouraged to refine their practical skills and redefine how society attempts to define academic success.[span_39](end_span) |
+| **38** | **incident** (n. 事件 / 事变)<br>**incidence** (n. 发生率 / 影响范围) | [span_40](start_span)Following a severe incident of water contamination, authorities conducted a nationwide survey to monitor the incidence of waterborne diseases.[span_40](end_span) |
