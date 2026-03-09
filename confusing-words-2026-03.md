@@ -29,7 +29,7 @@
 <div class="floating-widget">
   <a href="#">⬆️ 顶部 (Top)</a>
   <a href="vocabulary.md">⬅️ 目录 (Index)</a>
-  <a href="README.md">🏠 主页 (Home)</a>
+ <a href="index.html">🏠 主页 (Home)</a> 
 </div>
 
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
