@@ -4,6 +4,36 @@
   </h1>
 </div>
 
+<style>
+  .floating-widget {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    background-color: #ffffff;
+    border: 1px solid #eaecef;
+    border-radius: 12px;
+    padding: 10px 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .floating-widget a {
+    text-decoration: none;
+    color: #0969da;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+  }
+</style>
+
+<div class="floating-widget">
+  <a href="#">⬆️ 顶部 (Top)</a>
+<a href="vocabulary">⬅️ 目录 (Index)</a>
+ <a href="index.html">🏠 主页 (Home)</a> 
+</div>
+
 <div align="center" style="margin-bottom: 20px;">
   <input type="text" id="searchInput" onkeyup="searchTable()" placeholder="🔍 搜索中文或英文单词 (Search...)" style="padding: 10px; width: 80%; border-radius: 20px; border: 2px solid #FFB6C1; outline: none;">
 </div>
