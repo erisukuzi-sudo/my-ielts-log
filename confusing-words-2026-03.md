@@ -32,6 +32,36 @@
  <a href="index.html">🏠 主页 (Home)</a> 
 </div>
 
+<div align="center" style="margin-bottom: 20px;">
+  <input type="text" id="searchInput" onkeyup="searchTable()" placeholder="🔍 输入单词搜索 (Search for words...)" style="padding: 10px; width: 80%; border-radius: 20px; border: 2px solid #FFB6C1; outline: none;">
+</div>
+
+<script>
+function searchTable() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("searchInput");
+  filter = input.value.toUpperCase();
+  table = document.querySelector("table");
+  tr = table.getElementsByTagName("tr");
+
+  for (i = 1; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td");
+    if (td) {
+      // 同时搜索“组别”、“单词”和“例句”列
+      txtValue = (td[0].textContent || td[0].innerText) + 
+                 (td[1].textContent || td[1].innerText) + 
+                 (td[2].textContent || td[2].innerText);
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+
+
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
 | **01** | **radical** (adj. 根本的 / 激进的; n. 激进分子)<br>**racial** (adj. 种族的)<br>**rational** (adj. 合理的 / 理性的) | To achieve **racial** equality, society needs a **rational** debate rather than **radical** reforms that might cause further division. |
