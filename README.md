@@ -1,3 +1,23 @@
+<script>
+  // Erica 的专属访问凭证
+  var correctPassword = "1229"; 
+  
+  // 弹出密码输入框
+  var userPassword = prompt("🔒 Welcome to Erica's IELTS log！\n请输入访问密码 (Enter Password):");
+  
+  // 验证逻辑
+  if (userPassword !== correctPassword) {
+    // 如果密码错误，清空网页内容并显示拒绝访问
+    document.body.innerHTML = `
+      <div align="center" style="margin-top: 20%; font-family: sans-serif;">
+        <h1 style="color: #FF69B4;">⛔ Access Denied</h1>
+        <p style="color: #C71585;">很抱歉，访问凭证错误。您暂时无权访问。</p>
+        <p style="font-size: 12px; color: #999;">Please refresh the page to try again.</p>
+      </div>
+    `;
+  }
+</script>
+
 <div align="center">
 
 <h1 style="color: #FF69B4; border-bottom: 2px solid #FFB6C1; padding-bottom: 10px;">
