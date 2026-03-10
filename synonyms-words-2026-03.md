@@ -4,6 +4,12 @@
   </h1>
 </div>
 
+<div class="floating-widget">
+  <a href="#">⬆️ 顶部 (Top)</a>
+<a href="vocabulary">⬅️ 目录 (Index)</a>
+ <a href="index.html">🏠 主页 (Home)</a> 
+</div>
+
 <div align="center" style="margin-bottom: 20px;">
   <input type="text" id="searchInput" onkeyup="searchTable()" placeholder="🔍 搜索中文或英文单词 (Search...)" style="padding: 10px; width: 80%; border-radius: 20px; border: 2px solid #FFB6C1; outline: none;">
 </div>
