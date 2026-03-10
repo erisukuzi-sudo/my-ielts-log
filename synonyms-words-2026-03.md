@@ -1,11 +1,3 @@
-<div style="background-color: #FFF0F5; padding: 10px 15px; border-radius: 8px; font-size: 14px; margin-bottom: 20px;">
-  🏠 <a href="README.md" style="color: #FF69B4; text-decoration: none; font-weight: bold;">Home (主页)</a> 
-  <span style="color: #FFB6C1; margin: 0 8px;">/</span> 
-  📖 <a href="vocabulary.md" style="color: #FF69B4; text-decoration: none; font-weight: bold;">Vocabulary (词汇目录)</a> 
-  <span style="color: #FFB6C1; margin: 0 8px;">/</span> 
-  🔄 <span style="color: #C71585; font-weight: bold;">Synonym Replacements (同义替换)</span>
-</div>
-
 <div align="center">
   <h1 style="color: #FF69B4; border-bottom: 2px solid #FFB6C1; padding-bottom: 10px;">
     🔄 IELTS Synonym Upgrades
@@ -40,7 +32,7 @@ function searchTable() {
 }
 </script>
 
-| 核心含义 (Meaning) | 你的基础表达 (Your Foundation) | 💎 雅思高阶替换 (Advanced Synonyms) |
+| 核心含义 (Meaning) | 你的基础表达 (Your Foundation) | 💎 高阶替换 (Advanced Synonyms) |
 | :--- | :--- | :--- |
 | **解决（问题）** | solve | **resolve / address / tackle** |
 | **改善 / 提高** | improve | **enhance / elevate / ameliorate** |
