@@ -99,4 +99,12 @@ function searchTable() {
 | **合作** | collaborate | **cooperate / join forces / work in partnership** |
 | **挑战** | challenge | **hurdle / obstacle / demanding task** |
 | **机会 / 契机** | chance | **prospect / golden opportunity / stepping stone** |
+| **明显的 / 显著的** | obvious | **conspicuous / evident / prominent / notable** |
+| **不可避免的** | inevitable | **unavoidable / inescapable / bound to happen** |
+| **必不可少的 / 关键的** | integral | **indispensable / pivotal / crucial / essential** |
+| **普遍的 / 广泛的** | widespread | **prevalent / ubiquitous / pervasive / commonplace** |
+| **根深蒂固的** | deep-rooted | **deep-seated / ingrained / entrenched** |
+| **随之而来的** | attendant | **ensuing / accompanying / consequent** |
+| **有益的 / 有利的** | beneficial | **advantageous / instrumental / favorable / rewarding** |
+| **有害的 / 破坏性的** | harmful | **detrimental / destructive / devastating / pernicious** |
 
