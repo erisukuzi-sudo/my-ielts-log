@@ -107,4 +107,11 @@ function searchTable() {
 | **随之而来的** | attendant | **ensuing / accompanying / consequent** |
 | **有益的 / 有利的** | beneficial | **advantageous / instrumental / favorable / rewarding** |
 | **有害的 / 破坏性的** | harmful | **detrimental / destructive / devastating / pernicious** |
+| **毫无疑问地** | undoubtedly | **indisputably / undeniably / beyond a shadow of a doubt** |
+| **相比之下** | by contrast | **conversely / on the contrary / in comparison** |
+| **考虑到 / 鉴于** | considering | **given that / taking into account / in light of** |
+| **换句话说** | in other words | **to put it differently / that is to say / namely** |
+| **最终 / 归根结底** | ultimately | **eventually / fundamentally / in the final analysis** |
+| **尤其是 / 特别是** | especially | **particularly / notably / in particular** |
+| **因此 / 结果** | hence | **consequently / therefore / accordingly** |
 
