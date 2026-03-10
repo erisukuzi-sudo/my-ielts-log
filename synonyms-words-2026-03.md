@@ -82,4 +82,21 @@ function searchTable() {
 | **优先考虑** | prioritize | **give priority to / attach importance to / put... first** |
 | **投资于...** | invest in | **allocate funds to / pour money into / finance** |
 | **引起了广泛关注** | arouse huge publicity | **draw widespread attention / spark public debate / capture the headlines** |
+| **优势 / 好处** | advantage | **merit / upside / competitive edge** |
+| **劣势 / 缺点** | disadvantage | **drawback / downside / shortcoming** |
+| **影响 / 冲击** | impact / influence | **repercussions / implications / profound effect** |
+| **责任 / 义务** | responsibility | **obligation / duty / accountability** |
+| **意识（如：环保意识）** | awareness | **consciousness / realization / cognitive grasp** |
+| **资源（如：自然资源）** | resource | **assets / reserves / provisions** |
+| **多样性** | diversity | **multiplicity / heterogeneity / a rich array of** |
+| **创新** | innovation | **ingenuity / breakthrough / novelty** |
+| **效率** | efficiency | **productivity / efficacy / proficiency** |
+| **稳定 / 稳定性** | stability | **steadiness / equilibrium / consistency** |
+| **平等 / 公平** | equality | **parity / impartiality / egalitarianism** |
+| **现象** | phenomenon | **occurrence / manifestation / prevailing trend** |
+| **趋势** | trend / tendency | **inclination / propensity / trajectory** |
+| **竞争** | compete | **rivalry / contend / vie for** |
+| **合作** | collaborate | **cooperate / join forces / work in partnership** |
+| **挑战** | challenge | **hurdle / obstacle / demanding task** |
+| **机会 / 契机** | chance | **prospect / golden opportunity / stepping stone** |
 
