@@ -1,6 +1,8 @@
-# 📖 IELTS Lexical Items Prone to Confusion (雅思易混淆词汇)
-
-> **Study Tip:** Memorizing words with their accurate parts of speech and specific contexts (e.g., Environment, Technology, Society) is the most effective strategy to boost your Lexical Resource and Grammatical Range in IELTS.
+<div align="center">
+  <h1 style="color: #FF69B4; border-bottom: 2px solid #FFB6C1; padding-bottom: 10px;">
+    📦 IELTS Confusing Words 
+  </h1>
+</div>
 
 <style>
   .floating-widget {
