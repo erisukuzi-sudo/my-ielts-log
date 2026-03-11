@@ -86,6 +86,60 @@ function searchTable() {
   });
 </script>
 
+<script>
+  // 自动为表格第一列添加“收藏爱心”按钮的代码
+  window.addEventListener('load', function() {
+    var table = document.querySelector("table");
+    if (!table) return; // 如果找不到表格则跳过
+    var trs = table.getElementsByTagName("tr");
+    
+    for (var i = 1; i < trs.length; i++) {
+      var td1 = trs[i].getElementsByTagName("td")[0]; // 编号列
+      var td2 = trs[i].getElementsByTagName("td")[1]; // 单词列
+      var td3 = trs[i].getElementsByTagName("td")[2]; // 例句列
+      
+      if (td1 && td2 && td3) {
+        // 提取纯数字编号作为唯一标识
+        var rowId = td1.innerText.replace(/[^0-9]/g, ''); 
+        if (!rowId) continue;
+        
+        var btn = document.createElement("span");
+        var favs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
+        
+        // 检查该词是否已被收藏，显示不同的爱心
+        btn.innerHTML = favs[rowId] ? " 💖" : " 🤍";
+        btn.style.cursor = "pointer";
+        btn.style.float = "right"; // 让爱心靠右排列，更加美观
+        btn.setAttribute("data-id", rowId);
+        
+        // 预存当前行的内容
+        btn.rowHTML2 = td2.innerHTML;
+        btn.rowHTML3 = td3.innerHTML;
+        
+        // 点击爱心时的动作
+        btn.onclick = function() {
+          var id = this.getAttribute("data-id");
+          var currentFavs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
+          
+          if (currentFavs[id]) {
+            delete currentFavs[id]; // 再次点击取消收藏
+            this.innerHTML = " 🤍";
+          } else {
+            // 首次点击添加收藏，保存整行数据
+            currentFavs[id] = {
+              col2: this.rowHTML2,
+              col3: this.rowHTML3
+            };
+            this.innerHTML = " 💖";
+          }
+          localStorage.setItem('erica_favorites', JSON.stringify(currentFavs));
+        };
+        td1.appendChild(btn);
+      }
+    }
+  });
+</script>
+
 
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
