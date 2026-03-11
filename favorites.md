@@ -40,9 +40,9 @@
 
 <div style="position: fixed; bottom: 30px; right: 20px; background-color: #FF69B4; border-radius: 30px; padding: 15px 10px; display: flex; flex-direction: column; gap: 18px; box-shadow: 0 6px 16px rgba(255,105,180,0.4); z-index: 999;">
 
-  <span onclick="window.location.href='README.md'" style="font-size: 22px; cursor: pointer; text-align: center; display: block; filter: drop-shadow(0 2px 2px rgba(0,0,0,0.1));" title="回到主页">🏠</span>
+  <span onclick="window.location.href='./'" style="font-size: 22px; cursor: pointer; text-align: center; display: block; filter: drop-shadow(0 2px 2px rgba(0,0,0,0.1));" title="回到主页">🏠</span>
 
-  <span onclick="window.location.href='vocabulary.md'" style="font-size: 22px; cursor: pointer; text-align: center; display: block; filter: drop-shadow(0 2px 2px rgba(0,0,0,0.1));" title="回到词汇目录">📖</span>
+  <span onclick="window.location.href='vocabulary'" style="font-size: 22px; cursor: pointer; text-align: center; display: block; filter: drop-shadow(0 2px 2px rgba(0,0,0,0.1));" title="回到词汇目录">📖</span>
 
   <span onclick="window.scrollTo({top: 0, behavior: 'smooth'})" style="font-size: 22px; cursor: pointer; text-align: center; display: block; filter: drop-shadow(0 2px 2px rgba(0,0,0,0.1));" title="回到顶部">⬆️</span>
 
