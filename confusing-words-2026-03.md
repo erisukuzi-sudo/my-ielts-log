@@ -63,6 +63,29 @@ function searchTable() {
 }
 </script>
 
+<script>
+  // 1. 当页面加载完成时，寻找你的“隐形书签”并平滑滚动到那里
+  window.addEventListener('load', function() {
+    var lastScrollPosition = localStorage.getItem('erica_confusing_words_scroll');
+    if (lastScrollPosition) {
+      window.scrollTo({
+        top: parseInt(lastScrollPosition),
+        behavior: 'smooth' // 加入平滑滚动效果，视觉更舒服
+      });
+    }
+  });
+
+  // 2. 当你滑动屏幕时，自动更新书签位置 (使用防抖技术，避免手机卡顿)
+  var scrollTimeout;
+  window.addEventListener('scroll', function() {
+    clearTimeout(scrollTimeout);
+    scrollTimeout = setTimeout(function() {
+      // 停止滑动 200 毫秒后，悄悄记录当前高度
+      localStorage.setItem('erica_confusing_words_scroll', window.scrollY);
+    }, 200);
+  });
+</script>
+
 
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
