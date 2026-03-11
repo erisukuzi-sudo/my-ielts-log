@@ -24,7 +24,6 @@
 ---
 
 ### [📖 雅思词汇突破 (Vocabulary Strategies)](vocabulary.md)
----
 ### [📰 雅思阅读精进 (Reading Strategies)](reading.md)
 
 
