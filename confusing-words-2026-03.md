@@ -87,48 +87,42 @@ function searchTable() {
 </script>
 
 <script>
-  // 自动为表格第一列添加“收藏爱心”按钮的代码
+  // 核心修改：设置当前页面属于哪个板块 (例如: 'synonyms', 'confusing', 'new')
+  const pageType = 'confusing'; // 如果在同义替换页，就改写为 'synonyms'
+
   window.addEventListener('load', function() {
     var table = document.querySelector("table");
-    if (!table) return; // 如果找不到表格则跳过
+    if (!table) return;
     var trs = table.getElementsByTagName("tr");
     
     for (var i = 1; i < trs.length; i++) {
-      var td1 = trs[i].getElementsByTagName("td")[0]; // 编号列
-      var td2 = trs[i].getElementsByTagName("td")[1]; // 单词列
-      var td3 = trs[i].getElementsByTagName("td")[2]; // 例句列
+      var td1 = trs[i].getElementsByTagName("td")[0];
+      var td2 = trs[i].getElementsByTagName("td")[1];
+      var td3 = trs[i].getElementsByTagName("td")[2];
       
       if (td1 && td2 && td3) {
-        // 提取纯数字编号作为唯一标识
-        var rowId = td1.innerText.replace(/[^0-9]/g, ''); 
-        if (!rowId) continue;
-        
+        var rowId = pageType + "_" + td1.innerText.replace(/[^0-9]/g, ''); // 加上前缀防止ID冲突
         var btn = document.createElement("span");
         var favs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
         
-        // 检查该词是否已被收藏，显示不同的爱心
         btn.innerHTML = favs[rowId] ? " 💖" : " 🤍";
-        btn.style.cursor = "pointer";
-        btn.style.float = "right"; // 让爱心靠右排列，更加美观
+        btn.style = "cursor:pointer; float:right;";
         btn.setAttribute("data-id", rowId);
+        btn.setAttribute("data-type", pageType); // 记录分类
         
-        // 预存当前行的内容
-        btn.rowHTML2 = td2.innerHTML;
-        btn.rowHTML3 = td3.innerHTML;
-        
-        // 点击爱心时的动作
         btn.onclick = function() {
           var id = this.getAttribute("data-id");
+          var type = this.getAttribute("data-type");
           var currentFavs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
           
           if (currentFavs[id]) {
-            delete currentFavs[id]; // 再次点击取消收藏
+            delete currentFavs[id];
             this.innerHTML = " 🤍";
           } else {
-            // 首次点击添加收藏，保存整行数据
             currentFavs[id] = {
-              col2: this.rowHTML2,
-              col3: this.rowHTML3
+              type: type, // 保存分类信息
+              col2: td2.innerHTML,
+              col3: td3.innerHTML
             };
             this.innerHTML = " 💖";
           }
@@ -139,7 +133,6 @@ function searchTable() {
     }
   });
 </script>
-
 
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
