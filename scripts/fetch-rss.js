@@ -4,59 +4,45 @@ const parser = new Parser();
 
 (async () => {
   try {
-    // 1. 抓取 BBC RSS 
     const feed = await parser.parseURL('http://feeds.bbci.co.uk/news/education/rss.xml');
     const articles = feed.items.slice(0, 2);
     
     if (!fs.existsSync('reading')) fs.mkdirSync('reading');
 
-    let newLinks = ""; // 存放生成的链接列表
+    // 1. 读取旧的索引内容，如果不存在则创建
+    const libraryPath = 'reading/index.md';
+    let libraryContent = fs.existsSync(libraryPath) 
+        ? fs.readFileSync(libraryPath, 'utf8') 
+        : "# 🌍 Extensive Reading Library\n\nWelcome to your daily BBC archive.\n\n";
 
-    // 2. 生成每一篇文章的 MD 文件
+    let newLinks = "";
+
+    // 2. 处理每一篇文章
     for (const item of articles) {
       const safeTitle = item.title.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase().substring(0, 50);
       const date = new Date(item.pubDate).toISOString().split('T')[0];
-      const fileName = `reading/${date}-bbc-${safeTitle}.md`;
+      const fileName = `${date}-bbc-${safeTitle}.md`;
+      const filePath = `reading/${fileName}`;
       
-      const content = `---
-title: "${item.title}"
-date: ${date}
-source: BBC News
----
-# ${item.title}
-**Original Link:** [Read on BBC](${item.link})
-
-${item.contentSnippet || item.content || ""}
-`;
+      const content = `---\ntitle: "${item.title}"\ndate: ${date}\n---\n# ${item.title}\n\n[Original Article](${item.link})\n\n${item.contentSnippet || ""}`;
       
-      fs.writeFileSync(fileName, content);
-      newLinks += `  * [${date} - ${item.title}](./${fileName})\n`;
-    }
+      fs.writeFileSync(filePath, content);
 
-    // 3. 关键：把链接插入 reading.md 的锚点位置
-    const indexFilePath = 'reading.md';
-    if (fs.existsSync(indexFilePath)) {
-      let indexContent = fs.readFileSync(indexFilePath, 'utf8');
-      
-      const startTag = '';
-      const endTag = '';
-
-      // 如果能在 reading.md 里找到这两个暗号
-      if (indexContent.includes(startTag) && indexContent.includes(endTag)) {
-        const parts = indexContent.split(startTag);
-        const secondPart = parts[1].split(endTag);
-        
-        // 拼装：前半部分 + 开始暗号 + 新链接 + 结束暗号 + 后半部分
-        const newContent = parts[0] + startTag + "\n" + newLinks + endTag + secondPart[1];
-        
-        fs.writeFileSync(indexFilePath, newContent);
-        console.log('Successfully nested links in reading.md!');
-      } else {
-        console.log('Missing anchor tags in reading.md. Please add them first!');
+      // 检查这篇文章是否已经在索引里了，避免重复添加
+      if (!libraryContent.includes(fileName)) {
+        newLinks += `* [${date} - ${item.title}](./${fileName})\n`;
       }
     }
+
+    // 3. 将新文章链接追加到索引页的顶部（在标题之后插入）
+    const headerEnd = libraryContent.indexOf('\n\n') + 2;
+    const updatedLibrary = libraryContent.slice(0, headerEnd) + newLinks + libraryContent.slice(headerEnd);
+    
+    fs.writeFileSync(libraryPath, updatedLibrary);
+    console.log('Library index updated successfully!');
+
   } catch (error) {
-    console.error('Error details:', error);
+    console.error(error);
     process.exit(1);
   }
 })();
