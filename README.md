@@ -24,17 +24,3 @@
 ---
 
 ### [📖 雅思词汇突破 (Vocabulary Strategies)](vocabulary.md)
----
-
-### 📰 雅思阅读进阶 (Reading Strategies)
-
-### 🌍 泛读积累 (Extensive Reading: Daily News)
-*Consistency is key. Daily authentic materials from BBC News to build up reading speed and vocabulary.*
-
-- 📂 [Browse Daily Articles Directory](./reading/) (点击此处查看每日自动抓取的 BBC 阅读文章)
-
-### 🎯 真题精读 (Intensive Reading: IELTS Practice)
-*Cambridge IELTS reading drills, error analysis, and long-sentence breakdowns.*
-
-- 📝 [My Reading Practice Log](./reading-practice.md) (我的剑雅阅读刷题与错题分析记录)
-
