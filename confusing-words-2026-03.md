@@ -87,8 +87,8 @@ function searchTable() {
 </script>
 
 <script>
-  // 核心修改：设置当前页面属于哪个板块 (例如: 'synonyms', 'confusing', 'new')
-  const pageType = 'confusing'; // 如果在同义替换页，就改写为 'synonyms'
+  // 核心分类标签：已自动为你设定为“易混辨析 (confusing)”
+  const pageType = 'confusing'; 
 
   window.addEventListener('load', function() {
     var table = document.querySelector("table");
@@ -101,28 +101,35 @@ function searchTable() {
       var td3 = trs[i].getElementsByTagName("td")[2];
       
       if (td1 && td2 && td3) {
-        var rowId = pageType + "_" + td1.innerText.replace(/[^0-9]/g, ''); // 加上前缀防止ID冲突
+        var rowId = pageType + "_" + td1.innerText.replace(/[^0-9]/g, ''); 
         var btn = document.createElement("span");
         var favs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
         
         btn.innerHTML = favs[rowId] ? " 💖" : " 🤍";
         btn.style = "cursor:pointer; float:right;";
         btn.setAttribute("data-id", rowId);
-        btn.setAttribute("data-type", pageType); // 记录分类
+        btn.setAttribute("data-type", pageType);
         
+        // 点击动作：精准抓取当前行
         btn.onclick = function() {
           var id = this.getAttribute("data-id");
           var type = this.getAttribute("data-type");
           var currentFavs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
           
+          // 【🎯 修复点】：精准锁定当前点击的这一行的数据，告别重复
+          var currentRow = this.closest('tr'); 
+          var currentTd2 = currentRow.getElementsByTagName("td")[1].innerHTML;
+          var currentTd3 = currentRow.getElementsByTagName("td")[2].innerHTML;
+          
           if (currentFavs[id]) {
-            delete currentFavs[id];
+            delete currentFavs[id]; // 取消收藏
             this.innerHTML = " 🤍";
           } else {
+            // 存入收藏夹
             currentFavs[id] = {
-              type: type, // 保存分类信息
-              col2: td2.innerHTML,
-              col3: td3.innerHTML
+              type: type,
+              col2: currentTd2,
+              col3: currentTd3
             };
             this.innerHTML = " 💖";
           }
@@ -133,6 +140,7 @@ function searchTable() {
     }
   });
 </script>
+
 
 | 组别 | 易混淆单词及释义 (Vocabulary & Meaning) | 雅思高分例句与场景 (IELTS Example & Context) |
 | :---: | :--- | :--- |
