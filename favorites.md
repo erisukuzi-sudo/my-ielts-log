@@ -11,7 +11,21 @@
   window.addEventListener('load', function() {
     var favs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
     var types = ['confusing', 'synonyms', 'new'];
+    var needsUpdate = false; 
+
+    // 🌟 核心清洗逻辑：无情抹杀 undefined 幽灵！
+    for (var key in favs) {
+      if (key.includes('undefined') || key === 'undefined' || favs[key].col2 === 'undefined' || !favs[key].col2) {
+        delete favs[key];
+        needsUpdate = true; 
+      }
+    }
     
+    // 如果清理了垃圾，重新保存干净的数据
+    if (needsUpdate) {
+      localStorage.setItem('erica_favorites', JSON.stringify(favs));
+    }
+
     types.forEach(function(type) {
       var container = document.getElementById('fav-' + type);
       var html = '<table><thead><tr><th>No.</th><th>Vocabulary</th><th>Example</th></tr></thead><tbody>';
@@ -19,7 +33,9 @@
 
       for (var id in favs) {
         if (favs[id].type === type) {
-          html += '<tr><td>' + id.split('_')[1] + '</td><td>' + favs[id].col2 + '</td><td>' + favs[id].col3 + '</td></tr>';
+          // 兼容显示：去掉长串的 ID 前缀，只展示数字
+          var displayId = id.includes('_') ? id.split('_')[1] : id; 
+          html += '<tr><td>' + displayId + '</td><td>' + favs[id].col2 + '</td><td>' + favs[id].col3 + '</td></tr>';
           count++;
         }
       }
