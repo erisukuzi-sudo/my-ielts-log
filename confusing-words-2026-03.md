@@ -86,7 +86,7 @@ function searchTable() {
   });
 </script>
 
-<script>
+ <script>
   // 核心分类标签：已自动为你设定为“易混辨析 (confusing)”
   const pageType = 'confusing'; 
 
@@ -100,6 +100,7 @@ function searchTable() {
       var td2 = trs[i].getElementsByTagName("td")[1];
       var td3 = trs[i].getElementsByTagName("td")[2];
       
+      // 【🎯 防御点1】：确保这三列都真实存在
       if (td1 && td2 && td3) {
         var rowId = pageType + "_" + td1.innerText.replace(/[^0-9]/g, ''); 
         var btn = document.createElement("span");
@@ -110,22 +111,24 @@ function searchTable() {
         btn.setAttribute("data-id", rowId);
         btn.setAttribute("data-type", pageType);
         
-        // 点击动作：精准抓取当前行
         btn.onclick = function() {
           var id = this.getAttribute("data-id");
           var type = this.getAttribute("data-type");
           var currentFavs = JSON.parse(localStorage.getItem('erica_favorites')) || {};
-          
-          // 【🎯 修复点】：精准锁定当前点击的这一行的数据，告别重复
           var currentRow = this.closest('tr'); 
+          
           var currentTd2 = currentRow.getElementsByTagName("td")[1].innerHTML;
           var currentTd3 = currentRow.getElementsByTagName("td")[2].innerHTML;
           
+          // 【🎯 防御点2 (核心净化)】：拦截空数据和 undefined 幽灵
+          if (!currentTd2 || currentTd2 === 'undefined' || !currentTd3 || currentTd3 === 'undefined') {
+              return; // 直接拦截，不保存
+          }
+
           if (currentFavs[id]) {
-            delete currentFavs[id]; // 取消收藏
+            delete currentFavs[id]; 
             this.innerHTML = " 🤍";
           } else {
-            // 存入收藏夹
             currentFavs[id] = {
               type: type,
               col2: currentTd2,
@@ -133,6 +136,14 @@ function searchTable() {
             };
             this.innerHTML = " 💖";
           }
+          
+          // 【🎯 防御点3 (全面大扫除)】：把以前存进来的 undefined 毒瘤全部清理掉！
+          for (let key in currentFavs) {
+              if (currentFavs[key].col2 === 'undefined' || currentFavs[key].col2 === undefined) {
+                  delete currentFavs[key];
+              }
+          }
+
           localStorage.setItem('erica_favorites', JSON.stringify(currentFavs));
         };
         td1.appendChild(btn);
