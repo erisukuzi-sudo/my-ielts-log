@@ -52,31 +52,37 @@ window.exportFavs = function() {
 
 // 导入功能：粘贴同步码
 window.importFavs = function() {
-  var code = prompt("请粘贴同步码：");
-  if (code) {
-    try {
-      // 过滤掉可能存在的换行或空格
-      code = code.replace(/\s/g, ''); 
-      var decodedData = decodeURIComponent(escape(atob(code)));
-      var importedFavs = JSON.parse(decodedData);
-      
-      // 【🎯 核心修复逻辑】：自动为没有分类的旧数据打上标签
-      for (var key in importedFavs) {
-        if (!importedFavs[key].type) {
-          // 如果 ID 包含 confusing，设为 confusing，否则默认设为旧版显示的类别
-          importedFavs[key].type = key.includes('confusing') ? 'confusing' : 'confusing';
-        }
-      }
-      
-      localStorage.setItem('erica_favorites', JSON.stringify(importedFavs));
-      alert("🎉 兼容性同步成功！");
-      location.reload();
-    } catch (e) {
-      alert("❌ 格式错误！请确保复制了完整的字符串（检查末尾是否有 ==）。");
+  var code = prompt("请粘贴来自另一台设备的同步码：");
+  if (!code) return;
+
+  try {
+    // 1. 彻底清理：去除所有空格、换行、制表符
+    code = code.trim().replace(/\s/g, '');
+
+    // 2. 自动补全末尾等号 (Base64 长度必须是 4 的倍数)
+    while (code.length % 4 !== 0) {
+      code += '=';
     }
+
+    // 3. 执行解码
+    var decodedData = decodeURIComponent(escape(atob(code)));
+    var importedFavs = JSON.parse(decodedData);
+    
+    // 4. 数据结构修复逻辑
+    for (var key in importedFavs) {
+      if (!importedFavs[key].type) {
+        importedFavs[key].type = key.includes('confusing') ? 'confusing' : 'confusing';
+      }
+    }
+    
+    localStorage.setItem('erica_favorites', JSON.stringify(importedFavs));
+    alert("🚀 强力同步成功！数据已恢复。");
+    location.reload();
+  } catch (e) {
+    console.error(e);
+    alert("❌ 导入失败。原因可能是：\n1. 复制时中间漏了字符\n2. 软件转发时破坏了编码\n\n建议：尝试分段复制或更换传输工具。");
   }
 };
-
 </script>
 
 
