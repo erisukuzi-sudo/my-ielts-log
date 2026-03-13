@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-13 - [Technology] Games with loot boxes to get minimum 16 age rating across Europe](./2026-03-13-Technology-games-with-loot-boxes-to-get-minimum-16-age-rating.md)
+* [2026-03-13 - [Education] AI toys for children misread emotions and respond inappropriately, researchers warn](./2026-03-13-Education-ai-toys-for-children-misread-emotions-and-respond-.md)
+* [2026-03-13 - [Arts] Harry Styles breaks his own sales record as new album hits number one](./2026-03-13-Arts-harry-styles-breaks-his-own-sales-record-as-new-al.md)
 * [2026-03-12 - [Science] Artemis II: Nasa targets early April for Moon mission](./2026-03-12-Science-artemis-ii--nasa-targets-early-april-for-moon-miss.md)
 * [2026-03-12 - [Technology] Grammarly pulls AI author-impersonation tool after backlash](./2026-03-12-Technology-grammarly-pulls-ai-author-impersonation-tool-after.md)
 * [2026-03-12 - [Education] Student loans inquiry to look at whether system is 'unfair to graduates'](./2026-03-12-Education-student-loans-inquiry-to-look-at-whether-system-is.md)
