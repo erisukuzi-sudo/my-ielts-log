@@ -52,18 +52,31 @@ window.exportFavs = function() {
 
 // 导入功能：粘贴同步码
 window.importFavs = function() {
-  var code = prompt("请粘贴来自另一台设备的同步码：");
+  var code = prompt("请粘贴同步码：");
   if (code) {
     try {
+      // 过滤掉可能存在的换行或空格
+      code = code.replace(/\s/g, ''); 
       var decodedData = decodeURIComponent(escape(atob(code)));
-      localStorage.setItem('erica_favorites', decodedData);
-      alert("🎉 同步大成功！正在刷新...");
+      var importedFavs = JSON.parse(decodedData);
+      
+      // 【🎯 核心修复逻辑】：自动为没有分类的旧数据打上标签
+      for (var key in importedFavs) {
+        if (!importedFavs[key].type) {
+          // 如果 ID 包含 confusing，设为 confusing，否则默认设为旧版显示的类别
+          importedFavs[key].type = key.includes('confusing') ? 'confusing' : 'confusing';
+        }
+      }
+      
+      localStorage.setItem('erica_favorites', JSON.stringify(importedFavs));
+      alert("🎉 兼容性同步成功！");
       location.reload();
     } catch (e) {
-      alert("❌ 同步码格式错误，请检查是否复制完整。");
+      alert("❌ 格式错误！请确保复制了完整的字符串（检查末尾是否有 ==）。");
     }
   }
 };
+
 </script>
 
 
