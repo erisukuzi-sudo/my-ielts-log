@@ -1,6 +1,7 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-14 - [Arts] Claudia Winkleman's new chat show splits critics](./2026-03-14-Arts-claudia-winkleman-s-new-chat-show-splits-critics.md)
 * [2026-03-13 - [Technology] Games with loot boxes to get minimum 16 age rating across Europe](./2026-03-13-Technology-games-with-loot-boxes-to-get-minimum-16-age-rating.md)
 * [2026-03-13 - [Education] AI toys for children misread emotions and respond inappropriately, researchers warn](./2026-03-13-Education-ai-toys-for-children-misread-emotions-and-respond-.md)
 * [2026-03-13 - [Arts] Harry Styles breaks his own sales record as new album hits number one](./2026-03-13-Arts-harry-styles-breaks-his-own-sales-record-as-new-al.md)
