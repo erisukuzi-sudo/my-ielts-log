@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-16 - [Science] Farmers 'hammered' by fertiliser and fuel rises](./2026-03-16-Science-farmers--hammered--by-fertiliser-and-fuel-rises.md)
+* [2026-03-16 - [Technology] Firms urged to check if other users edited their data on Companies House](./2026-03-16-Technology-firms-urged-to-check-if-other-users-edited-their-d.md)
+* [2026-03-15 - [Education] Uni student among two dead in Kent meningitis outbreak](./2026-03-15-Education-uni-student-among-two-dead-in-kent-meningitis-outb.md)
+* [2026-03-16 - [Arts] BBC urges court to dismiss Trump Panorama lawsuit](./2026-03-16-Arts-bbc-urges-court-to-dismiss-trump-panorama-lawsuit.md)
 * [2026-03-15 - [Arts] Oscars red carpet: Stars and fashion in pictures](./2026-03-15-Arts-oscars-red-carpet--stars-and-fashion-in-pictures.md)
 * [2026-03-14 - [Arts] Claudia Winkleman's new chat show splits critics](./2026-03-14-Arts-claudia-winkleman-s-new-chat-show-splits-critics.md)
 * [2026-03-13 - [Technology] Games with loot boxes to get minimum 16 age rating across Europe](./2026-03-13-Technology-games-with-loot-boxes-to-get-minimum-16-age-rating.md)
