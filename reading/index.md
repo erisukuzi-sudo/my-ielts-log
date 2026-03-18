@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-18 - [Science] Fly tippers face clearing up own rubbish as punishment](./2026-03-18-Science-fly-tippers-face-clearing-up-own-rubbish-as-punish.md)
+* [2026-03-18 - [Technology] Government backtracks on AI and copyright after outcry from major artists](./2026-03-18-Technology-government-backtracks-on-ai-and-copyright-after-ou.md)
+* [2026-03-18 - [Education] School phone bans not enough to cut screen time alone, researchers say](./2026-03-18-Education-school-phone-bans-not-enough-to-cut-screen-time-al.md)
+* [2026-03-18 - [Arts] Government increases BBC World Service funding by £33m over three years](./2026-03-18-Arts-government-increases-bbc-world-service-funding-by-.md)
 * [2026-03-17 - [Science] Mayors to gain more spending power under Reeves tax plans](./2026-03-17-Science-mayors-to-gain-more-spending-power-under-reeves-ta.md)
 * [2026-03-17 - [Technology] Nvidia faces gamer backlash over 'breakthrough' AI graphics feature](./2026-03-17-Technology-nvidia-faces-gamer-backlash-over--breakthrough--ai.md)
 * [2026-03-17 - [Education] 'Explosive' meningitis outbreak unprecedented – officials](./2026-03-17-Education--explosive--meningitis-outbreak-unprecedented---of.md)
