@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-22 - [Technology] AI videos of sexualised black women removed from TikTok after BBC investigation](./2026-03-22-Technology-ai-videos-of-sexualised-black-women-removed-from-t.md)
+* [2026-03-21 - [Arts] Pop megastars BTS electrify historic centre of Seoul with comeback concert](./2026-03-21-Arts-pop-megastars-bts-electrify-historic-centre-of-seo.md)
 * [2026-03-21 - [Arts] Saturday Night Live UK is here - but can it make you laugh?](./2026-03-21-Arts-saturday-night-live-uk-is-here---but-can-it-make-y.md)
 * [2026-03-20 - [Science] Nasa's Artemis Moon rocket rolls back to pad for possible April launch](./2026-03-20-Science-nasa-s-artemis-moon-rocket-rolls-back-to-pad-for-p.md)
 * [2026-03-20 - [Technology] Luke Littler applies to trademark his face to combat AI fakes](./2026-03-20-Technology-luke-littler-applies-to-trademark-his-face-to-comb.md)
