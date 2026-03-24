@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-24 - [Science] Decline in migratory fish populations prompts fight for protection ](./2026-03-24-Science-decline-in-migratory-fish-populations-prompts-figh.md)
+* [2026-03-24 - [Technology] Social media bans and digital curfews to be trialled on UK teenagers](./2026-03-24-Technology-social-media-bans-and-digital-curfews-to-be-triall.md)
+* [2026-03-24 - [Education] Schools pioneer SEND student inclusion scheme](./2026-03-24-Education-schools-pioneer-send-student-inclusion-scheme.md)
+* [2026-03-24 - [Arts] 'Truly magical woman': Tributes to Married at First Sight's Mel Schilling](./2026-03-24-Arts--truly-magical-woman---tributes-to-married-at-firs.md)
 * [2026-03-23 - [Science] UN issues new climate warning as El Niño looms](./2026-03-23-Science-un-issues-new-climate-warning-as-el-ni-o-looms.md)
 * [2026-03-23 - [Education] White working class boys being left behind says MP](./2026-03-23-Education-white-working-class-boys-being-left-behind-says-mp.md)
 * [2026-03-23 - [Arts] Is ex-Google boss Matt Brittin the right person to steer the BBC?](./2026-03-23-Arts-is-ex-google-boss-matt-brittin-the-right-person-to.md)
