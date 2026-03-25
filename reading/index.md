@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-25 - [Technology] Meta and YouTube found liable in landmark social media addiction trial](./2026-03-25-Technology-meta-and-youtube-found-liable-in-landmark-social-m.md)
+* [2026-03-25 - [Arts] Harry Potter TV show trailer: Everything we know so far](./2026-03-25-Arts-harry-potter-tv-show-trailer--everything-we-know-s.md)
 * [2026-03-24 - [Science] Decline in migratory fish populations prompts fight for protection ](./2026-03-24-Science-decline-in-migratory-fish-populations-prompts-figh.md)
 * [2026-03-24 - [Technology] Social media bans and digital curfews to be trialled on UK teenagers](./2026-03-24-Technology-social-media-bans-and-digital-curfews-to-be-triall.md)
 * [2026-03-24 - [Education] Schools pioneer SEND student inclusion scheme](./2026-03-24-Education-schools-pioneer-send-student-inclusion-scheme.md)
