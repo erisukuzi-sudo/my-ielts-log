@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-27 - [Technology] PS5 price hiked by £90 due to global 'pressures'](./2026-03-27-Technology-ps5-price-hiked-by--90-due-to-global--pressures-.md)
+* [2026-03-27 - [Education] Screen time for under-fives should be limited to one hour a day, parents told](./2026-03-27-Education-screen-time-for-under-fives-should-be-limited-to-o.md)
+* [2026-03-27 - [Arts] Raye comes out swinging on her new album, This Music May Contain Hope](./2026-03-27-Arts-raye-comes-out-swinging-on-her-new-album--this-mus.md)
 * [2026-03-26 - [Science] Trail hunt ban moves closer as consultation begins](./2026-03-26-Science-trail-hunt-ban-moves-closer-as-consultation-begins.md)
 * [2026-03-26 - [Technology] Elon Musk's X advertising boycott lawsuit dismissed by US judge](./2026-03-26-Technology-elon-musk-s-x-advertising-boycott-lawsuit-dismisse.md)
 * [2026-03-26 - [Education] Screen time for under-fives should be limited to one hour a day, parents told](./2026-03-26-Education-screen-time-for-under-fives-should-be-limited-to-o.md)
