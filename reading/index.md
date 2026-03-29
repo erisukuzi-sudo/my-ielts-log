@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-29 - [Technology] Tech CEOs suddenly love blaming AI for mass job cuts. Why?](./2026-03-29-Technology-tech-ceos-suddenly-love-blaming-ai-for-mass-job-cu.md)
+* [2026-03-29 - [Education] Schools do not have enough staff to make SEND reforms work, union warns](./2026-03-29-Education-schools-do-not-have-enough-staff-to-make-send-refo.md)
+* [2026-03-29 - [Arts] Freya Ridings on buying a plane ticket and reclaiming her career: 'I felt like a naughty schoolchild'](./2026-03-29-Arts-freya-ridings-on-buying-a-plane-ticket-and-reclaim.md)
 * [2026-03-28 - [Arts] Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'](./2026-03-28-Arts-noah-wyle-is-back-in-a-e-with-new-drama-the-pitt--.md)
 * [2026-03-27 - [Technology] PS5 price hiked by £90 due to global 'pressures'](./2026-03-27-Technology-ps5-price-hiked-by--90-due-to-global--pressures-.md)
 * [2026-03-27 - [Education] Screen time for under-fives should be limited to one hour a day, parents told](./2026-03-27-Education-screen-time-for-under-fives-should-be-limited-to-o.md)
