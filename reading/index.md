@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-29 - [Science] First stop, the Moon. Next stop, Mars? Why Nasa's mission matters ](./2026-03-29-Science-first-stop--the-moon--next-stop--mars--why-nasa-s-.md)
+* [2026-03-30 - [Technology] Kris Jenner's image spreads in Chinese social media good luck trend](./2026-03-30-Technology-kris-jenner-s-image-spreads-in-chinese-social-medi.md)
+* [2026-03-30 - [Education] Teaching union votes against plans for new Year 8 reading test](./2026-03-30-Education-teaching-union-votes-against-plans-for-new-year-8-.md)
+* [2026-03-30 - [Arts] Scott Mills' abrupt sacking creates another headache for the BBC](./2026-03-30-Arts-scott-mills--abrupt-sacking-creates-another-headac.md)
 * [2026-03-29 - [Technology] Tech CEOs suddenly love blaming AI for mass job cuts. Why?](./2026-03-29-Technology-tech-ceos-suddenly-love-blaming-ai-for-mass-job-cu.md)
 * [2026-03-29 - [Education] Schools do not have enough staff to make SEND reforms work, union warns](./2026-03-29-Education-schools-do-not-have-enough-staff-to-make-send-refo.md)
 * [2026-03-29 - [Arts] Freya Ridings on buying a plane ticket and reclaiming her career: 'I felt like a naughty schoolchild'](./2026-03-29-Arts-freya-ridings-on-buying-a-plane-ticket-and-reclaim.md)
