@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-03-31 - [Science] The personal items the Artemis II crew are taking to the Moon](./2026-03-31-Science-the-personal-items-the-artemis-ii-crew-are-taking-.md)
+* [2026-03-31 - [Technology] Tech giant Oracle makes 'significant' job cuts](./2026-03-31-Technology-tech-giant-oracle-makes--significant--job-cuts.md)
+* [2026-03-31 - [Education] British billionaire to donate £190m to Cambridge University](./2026-03-31-Education-british-billionaire-to-donate--190m-to-cambridge-u.md)
+* [2026-03-31 - [Arts] Teenage boy at centre of Scott Mills sexual offences investigation was under 16, police say](./2026-03-31-Arts-teenage-boy-at-centre-of-scott-mills-sexual-offenc.md)
 * [2026-03-29 - [Science] First stop, the Moon. Next stop, Mars? Why Nasa's mission matters ](./2026-03-29-Science-first-stop--the-moon--next-stop--mars--why-nasa-s-.md)
 * [2026-03-30 - [Technology] Kris Jenner's image spreads in Chinese social media good luck trend](./2026-03-30-Technology-kris-jenner-s-image-spreads-in-chinese-social-medi.md)
 * [2026-03-30 - [Education] Teaching union votes against plans for new Year 8 reading test](./2026-03-30-Education-teaching-union-votes-against-plans-for-new-year-8-.md)
