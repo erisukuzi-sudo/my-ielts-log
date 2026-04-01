@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-01 - [Science] What it's like to be on Florida's Space Coast ahead of Artemis launch](./2026-04-01-Science-what-it-s-like-to-be-on-florida-s-space-coast-ahea.md)
+* [2026-04-01 - [Technology] Elon Musk's SpaceX moves to become a publicly traded company](./2026-04-01-Technology-elon-musk-s-spacex-moves-to-become-a-publicly-trad.md)
+* [2026-04-01 - [Arts] BBC sacked Scott Mills after learning alleged victim in police investigation was under 16](./2026-04-01-Arts-bbc-sacked-scott-mills-after-learning-alleged-vict.md)
 * [2026-03-31 - [Science] The personal items the Artemis II crew are taking to the Moon](./2026-03-31-Science-the-personal-items-the-artemis-ii-crew-are-taking-.md)
 * [2026-03-31 - [Technology] Tech giant Oracle makes 'significant' job cuts](./2026-03-31-Technology-tech-giant-oracle-makes--significant--job-cuts.md)
 * [2026-03-31 - [Education] British billionaire to donate £190m to Cambridge University](./2026-03-31-Education-british-billionaire-to-donate--190m-to-cambridge-u.md)
