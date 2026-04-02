@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-02 - [Science] Artemis II is in orbit - what happens next?](./2026-04-02-Science-artemis-ii-is-in-orbit---what-happens-next-.md)
+* [2026-04-02 - [Technology] Fewer UK adults posting on social media, Ofcom finds](./2026-04-02-Technology-fewer-uk-adults-posting-on-social-media--ofcom-fin.md)
+* [2026-04-01 - [Education] Teachers vow to 'fight censorship' after school book row](./2026-04-01-Education-teachers-vow-to--fight-censorship--after-school-bo.md)
+* [2026-04-02 - [Arts] BBC boss Tim Davie says it was 'very clear' Scott Mills had to go](./2026-04-02-Arts-bbc-boss-tim-davie-says-it-was--very-clear--scott-.md)
 * [2026-04-01 - [Science] What it's like to be on Florida's Space Coast ahead of Artemis launch](./2026-04-01-Science-what-it-s-like-to-be-on-florida-s-space-coast-ahea.md)
 * [2026-04-01 - [Technology] Elon Musk's SpaceX moves to become a publicly traded company](./2026-04-01-Technology-elon-musk-s-spacex-moves-to-become-a-publicly-trad.md)
 * [2026-04-01 - [Arts] BBC sacked Scott Mills after learning alleged victim in police investigation was under 16](./2026-04-01-Arts-bbc-sacked-scott-mills-after-learning-alleged-vict.md)
