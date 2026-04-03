@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-03 - [Science] Artemis II crew take 'spectacular' image of Earth](./2026-04-03-Science-artemis-ii-crew-take--spectacular--image-of-earth.md)
+* [2026-04-03 - [Arts] Raye tops album charts with This Music May Contain Hope](./2026-04-03-Arts-raye-tops-album-charts-with-this-music-may-contain.md)
 * [2026-04-02 - [Science] Artemis II is in orbit - what happens next?](./2026-04-02-Science-artemis-ii-is-in-orbit---what-happens-next-.md)
 * [2026-04-02 - [Technology] Fewer UK adults posting on social media, Ofcom finds](./2026-04-02-Technology-fewer-uk-adults-posting-on-social-media--ofcom-fin.md)
 * [2026-04-01 - [Education] Teachers vow to 'fight censorship' after school book row](./2026-04-01-Education-teachers-vow-to--fight-censorship--after-school-bo.md)
