@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-04 - [Science] Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth ](./2026-04-04-Science-artemis-ii-crew-now-halfway-to-moon-as-they-take--.md)
+* [2026-04-04 - [Technology] Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs](./2026-04-04-Technology-power-washing--pool-cleaning-and-mowing--why-milli.md)
+* [2026-04-04 - [Education] Teachers' union warns of 'masculinity crisis brewing' in schools](./2026-04-04-Education-teachers--union-warns-of--masculinity-crisis-brewi.md)
+* [2026-04-04 - [Arts] Our new reality show leaves nothing out](./2026-04-04-Arts-our-new-reality-show-leaves-nothing-out.md)
 * [2026-04-03 - [Science] Artemis II crew take 'spectacular' image of Earth](./2026-04-03-Science-artemis-ii-crew-take--spectacular--image-of-earth.md)
 * [2026-04-03 - [Arts] Raye tops album charts with This Music May Contain Hope](./2026-04-03-Arts-raye-tops-album-charts-with-this-music-may-contain.md)
 * [2026-04-02 - [Science] Artemis II is in orbit - what happens next?](./2026-04-02-Science-artemis-ii-is-in-orbit---what-happens-next-.md)
