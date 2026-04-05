@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-05 - [Science] Artemis's stunning Moon pictures - science or holiday photos?](./2026-04-05-Science-artemis-s-stunning-moon-pictures---science-or-holi.md)
+* [2026-04-05 - [Technology] How China fell for a lobster: What an AI assistant tells us about Beijing's ambition](./2026-04-05-Technology-how-china-fell-for-a-lobster--what-an-ai-assistant.md)
+* [2026-04-05 - [Arts] Pepsi withdraws as UK festival sponsor after Kanye West backlash](./2026-04-05-Arts-pepsi-withdraws-as-uk-festival-sponsor-after-kanye.md)
 * [2026-04-04 - [Science] Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth ](./2026-04-04-Science-artemis-ii-crew-now-halfway-to-moon-as-they-take--.md)
 * [2026-04-04 - [Technology] Power-washing, pool-cleaning and mowing: Why millions are playing games about mundane jobs](./2026-04-04-Technology-power-washing--pool-cleaning-and-mowing--why-milli.md)
 * [2026-04-04 - [Education] Teachers' union warns of 'masculinity crisis brewing' in schools](./2026-04-04-Education-teachers--union-warns-of--masculinity-crisis-brewi.md)
