@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-05 - [Science] The 40 minutes when the Artemis crew loses contact with the Earth](./2026-04-05-Science-the-40-minutes-when-the-artemis-crew-loses-contact.md)
+* [2026-04-06 - [Arts] Wireless Festival boss defends Kanye West appearance](./2026-04-06-Arts-wireless-festival-boss-defends-kanye-west-appearan.md)
 * [2026-04-05 - [Science] Artemis's stunning Moon pictures - science or holiday photos?](./2026-04-05-Science-artemis-s-stunning-moon-pictures---science-or-holi.md)
 * [2026-04-05 - [Technology] How China fell for a lobster: What an AI assistant tells us about Beijing's ambition](./2026-04-05-Technology-how-china-fell-for-a-lobster--what-an-ai-assistant.md)
 * [2026-04-05 - [Arts] Pepsi withdraws as UK festival sponsor after Kanye West backlash](./2026-04-05-Arts-pepsi-withdraws-as-uk-festival-sponsor-after-kanye.md)
