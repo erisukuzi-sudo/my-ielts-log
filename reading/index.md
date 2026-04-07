@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-07 - [Science] Artemis II crew head for home after travelling further from Earth than anyone before](./2026-04-07-Science-artemis-ii-crew-head-for-home-after-travelling-fur.md)
+* [2026-04-07 - [Technology] Ex-Meta worker investigated for downloading 30,000 private Facebook photos](./2026-04-07-Technology-ex-meta-worker-investigated-for-downloading-30-000.md)
+* [2026-04-07 - [Education] Plan 2 student loan interest rates capped at 6% in England](./2026-04-07-Education-plan-2-student-loan-interest-rates-capped-at-6--in.md)
+* [2026-04-07 - [Arts] Wireless Festival cancelled after Kanye West blocked from coming to UK](./2026-04-07-Arts-wireless-festival-cancelled-after-kanye-west-block.md)
 * [2026-04-05 - [Science] The 40 minutes when the Artemis crew loses contact with the Earth](./2026-04-05-Science-the-40-minutes-when-the-artemis-crew-loses-contact.md)
 * [2026-04-06 - [Arts] Wireless Festival boss defends Kanye West appearance](./2026-04-06-Arts-wireless-festival-boss-defends-kanye-west-appearan.md)
 * [2026-04-05 - [Science] Artemis's stunning Moon pictures - science or holiday photos?](./2026-04-05-Science-artemis-s-stunning-moon-pictures---science-or-holi.md)
