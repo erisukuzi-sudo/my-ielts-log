@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-08 - [Science] Pioneering wildlife cameraman Doug Allan dies in Nepal](./2026-04-08-Science-pioneering-wildlife-cameraman-doug-allan-dies-in-n.md)
+* [2026-04-08 - [Technology] Brit says he is not elusive Bitcoin creator named by New York Times](./2026-04-08-Technology-brit-says-he-is-not-elusive-bitcoin-creator-named-.md)
+* [2026-04-08 - [Arts] 'Ketamine Queen' sentenced to 15 years in Matthew Perry overdose death](./2026-04-08-Arts--ketamine-queen--sentenced-to-15-years-in-matthew-.md)
 * [2026-04-07 - [Science] Artemis II crew head for home after travelling further from Earth than anyone before](./2026-04-07-Science-artemis-ii-crew-head-for-home-after-travelling-fur.md)
 * [2026-04-07 - [Technology] Ex-Meta worker investigated for downloading 30,000 private Facebook photos](./2026-04-07-Technology-ex-meta-worker-investigated-for-downloading-30-000.md)
 * [2026-04-07 - [Education] Plan 2 student loan interest rates capped at 6% in England](./2026-04-07-Education-plan-2-student-loan-interest-rates-capped-at-6--in.md)
