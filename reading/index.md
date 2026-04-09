@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-09 - [Science] Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries](./2026-04-09-Science-artemis-crew-returning-to-earth-with--all-the-good.md)
+* [2026-04-09 - [Technology] Amazon to end support for older Kindles, prompting user outcry](./2026-04-09-Technology-amazon-to-end-support-for-older-kindles--prompting.md)
+* [2026-04-09 - [Education] 22,000 students told to pay back 'mis-sold' maintenance loans](./2026-04-09-Education-22-000-students-told-to-pay-back--mis-sold--mainte.md)
+* [2026-04-09 - [Arts] Best-selling The Housemaid author Freida McFadden reveals true identity](./2026-04-09-Arts-best-selling-the-housemaid-author-freida-mcfadden-.md)
 * [2026-04-08 - [Science] Pioneering wildlife cameraman Doug Allan dies in Nepal](./2026-04-08-Science-pioneering-wildlife-cameraman-doug-allan-dies-in-n.md)
 * [2026-04-08 - [Technology] Brit says he is not elusive Bitcoin creator named by New York Times](./2026-04-08-Technology-brit-says-he-is-not-elusive-bitcoin-creator-named-.md)
 * [2026-04-08 - [Arts] 'Ketamine Queen' sentenced to 15 years in Matthew Perry overdose death](./2026-04-08-Arts--ketamine-queen--sentenced-to-15-years-in-matthew-.md)
