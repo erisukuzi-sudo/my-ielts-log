@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-10 - [Science] How the Artemis crew will splash down on Earth](./2026-04-10-Science-how-the-artemis-crew-will-splash-down-on-earth.md)
+* [2026-04-10 - [Technology] Dancer with MND performs on stage again through digital avatar](./2026-04-10-Technology-dancer-with-mnd-performs-on-stage-again-through-di.md)
+* [2026-04-10 - [Arts] Bafta fell short in duty of care when racial slur was shouted, review finds](./2026-04-10-Arts-bafta-fell-short-in-duty-of-care-when-racial-slur-.md)
 * [2026-04-09 - [Science] Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries](./2026-04-09-Science-artemis-crew-returning-to-earth-with--all-the-good.md)
 * [2026-04-09 - [Technology] Amazon to end support for older Kindles, prompting user outcry](./2026-04-09-Technology-amazon-to-end-support-for-older-kindles--prompting.md)
 * [2026-04-09 - [Education] 22,000 students told to pay back 'mis-sold' maintenance loans](./2026-04-09-Education-22-000-students-told-to-pay-back--mis-sold--mainte.md)
