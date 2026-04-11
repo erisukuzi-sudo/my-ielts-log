@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-11 - [Science] Back to Earth: What happens to the Artemis II astronauts now?](./2026-04-11-Science-back-to-earth--what-happens-to-the-artemis-ii-astr.md)
+* [2026-04-11 - [Arts] Eamonn Holmes recovering in hospital after stroke](./2026-04-11-Arts-eamonn-holmes-recovering-in-hospital-after-stroke.md)
 * [2026-04-10 - [Science] How the Artemis crew will splash down on Earth](./2026-04-10-Science-how-the-artemis-crew-will-splash-down-on-earth.md)
 * [2026-04-10 - [Technology] Dancer with MND performs on stage again through digital avatar](./2026-04-10-Technology-dancer-with-mnd-performs-on-stage-again-through-di.md)
 * [2026-04-10 - [Arts] Bafta fell short in duty of care when racial slur was shouted, review finds](./2026-04-10-Arts-bafta-fell-short-in-duty-of-care-when-racial-slur-.md)
