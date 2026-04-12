@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-12 - [Education] Deep-fried food banned in new plans for school dinners](./2026-04-12-Education-deep-fried-food-banned-in-new-plans-for-school-din.md)
+* [2026-04-12 - [Arts] Paddington musical dominates Olivier Awards](./2026-04-12-Arts-paddington-musical-dominates-olivier-awards.md)
 * [2026-04-11 - [Science] Back to Earth: What happens to the Artemis II astronauts now?](./2026-04-11-Science-back-to-earth--what-happens-to-the-artemis-ii-astr.md)
 * [2026-04-11 - [Arts] Eamonn Holmes recovering in hospital after stroke](./2026-04-11-Arts-eamonn-holmes-recovering-in-hospital-after-stroke.md)
 * [2026-04-10 - [Science] How the Artemis crew will splash down on Earth](./2026-04-10-Science-how-the-artemis-crew-will-splash-down-on-earth.md)
