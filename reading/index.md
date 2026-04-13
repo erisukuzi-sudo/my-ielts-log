@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-11 - [Science] From blast off to splashdown: My days following Nasa's historic mission to the Moon](./2026-04-11-Science-from-blast-off-to-splashdown--my-days-following-na.md)
+* [2026-04-13 - [Technology] Roblox defends expanded age‑checks after parents raise concerns over errors](./2026-04-13-Technology-roblox-defends-expanded-age-checks-after-parents-r.md)
+* [2026-04-13 - [Education] Deep-fried food banned in new plans for school dinners](./2026-04-13-Education-deep-fried-food-banned-in-new-plans-for-school-din.md)
+* [2026-04-13 - [Arts] Euphoria is back with more shock and scandal, but mixed reviews](./2026-04-13-Arts-euphoria-is-back-with-more-shock-and-scandal--but-.md)
 * [2026-04-12 - [Education] Deep-fried food banned in new plans for school dinners](./2026-04-12-Education-deep-fried-food-banned-in-new-plans-for-school-din.md)
 * [2026-04-12 - [Arts] Paddington musical dominates Olivier Awards](./2026-04-12-Arts-paddington-musical-dominates-olivier-awards.md)
 * [2026-04-11 - [Science] Back to Earth: What happens to the Artemis II astronauts now?](./2026-04-11-Science-back-to-earth--what-happens-to-the-artemis-ii-astr.md)
