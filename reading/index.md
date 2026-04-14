@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-14 - [Science] New footage shows moment Orion capsule hatch is opened at sea](./2026-04-14-Science-new-footage-shows-moment-orion-capsule-hatch-is-op.md)
+* [2026-04-14 - [Technology] Man charged with attempted murder over attack on home of OpenAI's Sam Altman](./2026-04-14-Technology-man-charged-with-attempted-murder-over-attack-on-h.md)
+* [2026-04-14 - [Education] Why one school has banned phones for some pupils - but not others](./2026-04-14-Education-why-one-school-has-banned-phones-for-some-pupils--.md)
+* [2026-04-14 - [Arts] Oasis among record number of Brits entering Rock & Roll Hall of Fame](./2026-04-14-Arts-oasis-among-record-number-of-brits-entering-rock--.md)
 * [2026-04-11 - [Science] From blast off to splashdown: My days following Nasa's historic mission to the Moon](./2026-04-11-Science-from-blast-off-to-splashdown--my-days-following-na.md)
 * [2026-04-13 - [Technology] Roblox defends expanded age‑checks after parents raise concerns over errors](./2026-04-13-Technology-roblox-defends-expanded-age-checks-after-parents-r.md)
 * [2026-04-13 - [Education] Deep-fried food banned in new plans for school dinners](./2026-04-13-Education-deep-fried-food-banned-in-new-plans-for-school-din.md)
