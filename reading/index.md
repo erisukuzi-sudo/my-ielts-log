@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-14 - [Science] Butterfly numbers are dropping but here are five species you may see more of](./2026-04-14-Science-butterfly-numbers-are-dropping-but-here-are-five-s.md)
+* [2026-04-15 - [Technology] Social media leaders called to Downing Street over children's safety](./2026-04-15-Technology-social-media-leaders-called-to-downing-street-over.md)
+* [2026-04-15 - [Education] 'Children with maths dyslexia are set up to fail'](./2026-04-15-Education--children-with-maths-dyslexia-are-set-up-to-fail-.md)
+* [2026-04-15 - [Arts] Madonna announces sequel to Confessions On A Dancefloor album](./2026-04-15-Arts-madonna-announces-sequel-to-confessions-on-a-dance.md)
 * [2026-04-14 - [Science] New footage shows moment Orion capsule hatch is opened at sea](./2026-04-14-Science-new-footage-shows-moment-orion-capsule-hatch-is-op.md)
 * [2026-04-14 - [Technology] Man charged with attempted murder over attack on home of OpenAI's Sam Altman](./2026-04-14-Technology-man-charged-with-attempted-murder-over-attack-on-h.md)
 * [2026-04-14 - [Education] Why one school has banned phones for some pupils - but not others](./2026-04-14-Education-why-one-school-has-banned-phones-for-some-pupils--.md)
