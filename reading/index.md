@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-15 - [Science] Why cheap power could matter more than clean power in the push for net zero](./2026-04-15-Science-why-cheap-power-could-matter-more-than-clean-power.md)
+* [2026-04-16 - [Technology] Could a digital twin make you into a 'superworker'?](./2026-04-16-Technology-could-a-digital-twin-make-you-into-a--superworker-.md)
+* [2026-04-16 - [Education] Things can't go on like this with online safety, Starmer tells tech bosses](./2026-04-16-Education-things-can-t-go-on-like-this-with-online-safety--s.md)
+* [2026-04-16 - [Arts] Beckhams have 'always tried to be best parents', Victoria says after Brooklyn row](./2026-04-16-Arts-beckhams-have--always-tried-to-be-best-parents---v.md)
 * [2026-04-14 - [Science] Butterfly numbers are dropping but here are five species you may see more of](./2026-04-14-Science-butterfly-numbers-are-dropping-but-here-are-five-s.md)
 * [2026-04-15 - [Technology] Social media leaders called to Downing Street over children's safety](./2026-04-15-Technology-social-media-leaders-called-to-downing-street-over.md)
 * [2026-04-15 - [Education] 'Children with maths dyslexia are set up to fail'](./2026-04-15-Education--children-with-maths-dyslexia-are-set-up-to-fail-.md)
