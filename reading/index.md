@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-16 - [Science] Artemis II crew: 'We left as friends - we came back as best friends'](./2026-04-16-Science-artemis-ii-crew---we-left-as-friends---we-came-bac.md)
+* [2026-04-17 - [Technology] Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI](./2026-04-17-Technology-tinder-and-zoom-offer--proof-of-humanity--eye-scan.md)
+* [2026-04-17 - [Arts] Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66](./2026-04-17-Arts-former-radio-1-dj-and-live-aid-presenter-andy-kers.md)
 * [2026-04-15 - [Science] Why cheap power could matter more than clean power in the push for net zero](./2026-04-15-Science-why-cheap-power-could-matter-more-than-clean-power.md)
 * [2026-04-16 - [Technology] Could a digital twin make you into a 'superworker'?](./2026-04-16-Technology-could-a-digital-twin-make-you-into-a--superworker-.md)
 * [2026-04-16 - [Education] Things can't go on like this with online safety, Starmer tells tech bosses](./2026-04-16-Education-things-can-t-go-on-like-this-with-online-safety--s.md)
