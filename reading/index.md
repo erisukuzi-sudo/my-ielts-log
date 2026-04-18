@@ -1,6 +1,7 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-18 - [Technology] White House and Anthropic hold 'productive' meeting amid fears over Mythos model](./2026-04-18-Technology-white-house-and-anthropic-hold--productive--meetin.md)
 * [2026-04-16 - [Science] Artemis II crew: 'We left as friends - we came back as best friends'](./2026-04-16-Science-artemis-ii-crew---we-left-as-friends---we-came-bac.md)
 * [2026-04-17 - [Technology] Tinder and Zoom offer 'proof of humanity' eye-scans to combat AI](./2026-04-17-Technology-tinder-and-zoom-offer--proof-of-humanity--eye-scan.md)
 * [2026-04-17 - [Arts] Former Radio 1 DJ and Live Aid presenter Andy Kershaw dies aged 66](./2026-04-17-Arts-former-radio-1-dj-and-live-aid-presenter-andy-kers.md)
