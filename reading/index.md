@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-20 - [Science] Fears for 1,000 breeding toads after reservoir drained by water company](./2026-04-20-Science-fears-for-1-000-breeding-toads-after-reservoir-dra.md)
+* [2026-04-20 - [Technology] The 'dumb machine' promising a clean energy breakthrough](./2026-04-20-Technology-the--dumb-machine--promising-a-clean-energy-breakt.md)
+* [2026-04-20 - [Education] Phones to be banned in schools by law in England under government plans](./2026-04-20-Education-phones-to-be-banned-in-schools-by-law-in-england-u.md)
+* [2026-04-20 - [Arts] US singer D4vd pleads not guilty to murder in death of missing teen girl](./2026-04-20-Arts-us-singer-d4vd-pleads-not-guilty-to-murder-in-deat.md)
 * [2026-04-19 - [Arts] Singer appeals after car with medical equipment is stolen](./2026-04-19-Arts-singer-appeals-after-car-with-medical-equipment-is.md)
 * [2026-04-18 - [Technology] White House and Anthropic hold 'productive' meeting amid fears over Mythos model](./2026-04-18-Technology-white-house-and-anthropic-hold--productive--meetin.md)
 * [2026-04-16 - [Science] Artemis II crew: 'We left as friends - we came back as best friends'](./2026-04-16-Science-artemis-ii-crew---we-left-as-friends---we-came-bac.md)
