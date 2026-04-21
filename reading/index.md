@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-21 - [Science] Electricity bills targeted in planned shakeup to energy pricing](./2026-04-21-Science-electricity-bills-targeted-in-planned-shakeup-to-e.md)
+* [2026-04-21 - [Technology] UK gaming icon Peter Molyneux on AI, his final creation and a changing industry](./2026-04-21-Technology-uk-gaming-icon-peter-molyneux-on-ai--his-final-cre.md)
+* [2026-04-21 - [Education] Phones to be banned in schools by law in England under government plans](./2026-04-21-Education-phones-to-be-banned-in-schools-by-law-in-england-u.md)
+* [2026-04-21 - [Arts] Michael Jackson film is a 'whitewash' and 'ghoulish', critics say](./2026-04-21-Arts-michael-jackson-film-is-a--whitewash--and--ghoulis.md)
 * [2026-04-20 - [Science] Fears for 1,000 breeding toads after reservoir drained by water company](./2026-04-20-Science-fears-for-1-000-breeding-toads-after-reservoir-dra.md)
 * [2026-04-20 - [Technology] The 'dumb machine' promising a clean energy breakthrough](./2026-04-20-Technology-the--dumb-machine--promising-a-clean-energy-breakt.md)
 * [2026-04-20 - [Education] Phones to be banned in schools by law in England under government plans](./2026-04-20-Education-phones-to-be-banned-in-schools-by-law-in-england-u.md)
