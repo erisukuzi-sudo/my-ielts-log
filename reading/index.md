@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-22 - [Science] Ban 'forever chemicals' in uniforms and frying pans, MPs urge](./2026-04-22-Science-ban--forever-chemicals--in-uniforms-and-frying-pan.md)
+* [2026-04-22 - [Technology] AI is flattening the jobs market for young people, says Sunak](./2026-04-22-Technology-ai-is-flattening-the-jobs-market-for-young-people-.md)
+* [2026-04-22 - [Education] Calls for clarity over schools smartphone ban](./2026-04-22-Education-calls-for-clarity-over-schools-smartphone-ban.md)
+* [2026-04-22 - [Arts] Stars line red carpet at London premiere of Devil Wears Prada 2](./2026-04-22-Arts-stars-line-red-carpet-at-london-premiere-of-devil-.md)
 * [2026-04-21 - [Science] Electricity bills targeted in planned shakeup to energy pricing](./2026-04-21-Science-electricity-bills-targeted-in-planned-shakeup-to-e.md)
 * [2026-04-21 - [Technology] UK gaming icon Peter Molyneux on AI, his final creation and a changing industry](./2026-04-21-Technology-uk-gaming-icon-peter-molyneux-on-ai--his-final-cre.md)
 * [2026-04-21 - [Education] Phones to be banned in schools by law in England under government plans](./2026-04-21-Education-phones-to-be-banned-in-schools-by-law-in-england-u.md)
