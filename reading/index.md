@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-23 - [Science] Meet the 19-metre octopus that prowled the ancient seas ](./2026-04-23-Science-meet-the-19-metre-octopus-that-prowled-the-ancient.md)
+* [2026-04-23 - [Technology] From scientist to silk farmer: India's silk industry renewal](./2026-04-23-Technology-from-scientist-to-silk-farmer--india-s-silk-indust.md)
+* [2026-04-23 - [Arts] Sara Cox replaces Scott Mills on Radio 2 breakfast show](./2026-04-23-Arts-sara-cox-replaces-scott-mills-on-radio-2-breakfast.md)
 * [2026-04-22 - [Science] Ban 'forever chemicals' in uniforms and frying pans, MPs urge](./2026-04-22-Science-ban--forever-chemicals--in-uniforms-and-frying-pan.md)
 * [2026-04-22 - [Technology] AI is flattening the jobs market for young people, says Sunak](./2026-04-22-Technology-ai-is-flattening-the-jobs-market-for-young-people-.md)
 * [2026-04-22 - [Education] Calls for clarity over schools smartphone ban](./2026-04-22-Education-calls-for-clarity-over-schools-smartphone-ban.md)
