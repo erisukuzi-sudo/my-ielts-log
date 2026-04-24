@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-24 - [Science] First ever talks to ditch fossil fuels as UN deadlock deepens](./2026-04-24-Science-first-ever-talks-to-ditch-fossil-fuels-as-un-deadl.md)
+* [2026-04-24 - [Technology] OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account](./2026-04-24-Technology-openai-boss--deeply-sorry--for-not-telling-police-.md)
+* [2026-04-24 - [Arts] I'm A Celebrity 'legend' crowned in heated live final](./2026-04-24-Arts-i-m-a-celebrity--legend--crowned-in-heated-live-fi.md)
 * [2026-04-23 - [Science] Meet the 19-metre octopus that prowled the ancient seas ](./2026-04-23-Science-meet-the-19-metre-octopus-that-prowled-the-ancient.md)
 * [2026-04-23 - [Technology] From scientist to silk farmer: India's silk industry renewal](./2026-04-23-Technology-from-scientist-to-silk-farmer--india-s-silk-indust.md)
 * [2026-04-23 - [Arts] Sara Cox replaces Scott Mills on Radio 2 breakfast show](./2026-04-23-Arts-sara-cox-replaces-scott-mills-on-radio-2-breakfast.md)
