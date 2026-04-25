@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-25 - [Technology] I brought my husband back for his funeral as a hologram](./2026-04-25-Technology-i-brought-my-husband-back-for-his-funeral-as-a-hol.md)
+* [2026-04-25 - [Arts] Tensions flare in heated I'm A Celebrity live final](./2026-04-25-Arts-tensions-flare-in-heated-i-m-a-celebrity-live-fina.md)
 * [2026-04-24 - [Science] First ever talks to ditch fossil fuels as UN deadlock deepens](./2026-04-24-Science-first-ever-talks-to-ditch-fossil-fuels-as-un-deadl.md)
 * [2026-04-24 - [Technology] OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account](./2026-04-24-Technology-openai-boss--deeply-sorry--for-not-telling-police-.md)
 * [2026-04-24 - [Arts] I'm A Celebrity 'legend' crowned in heated live final](./2026-04-24-Arts-i-m-a-celebrity--legend--crowned-in-heated-live-fi.md)
