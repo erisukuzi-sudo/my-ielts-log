@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-26 - [Science] UK's biggest ever environmental pollution claim reaches High Court](./2026-04-26-Science-uk-s-biggest-ever-environmental-pollution-claim-re.md)
+* [2026-04-26 - [Arts] 'We have no sleep': What it's like to run a round-the-clock celebrity fan page](./2026-04-26-Arts--we-have-no-sleep---what-it-s-like-to-run-a-round-.md)
 * [2026-04-25 - [Technology] I brought my husband back for his funeral as a hologram](./2026-04-25-Technology-i-brought-my-husband-back-for-his-funeral-as-a-hol.md)
 * [2026-04-25 - [Arts] Tensions flare in heated I'm A Celebrity live final](./2026-04-25-Arts-tensions-flare-in-heated-i-m-a-celebrity-live-fina.md)
 * [2026-04-24 - [Science] First ever talks to ditch fossil fuels as UN deadlock deepens](./2026-04-24-Science-first-ever-talks-to-ditch-fossil-fuels-as-un-deadl.md)
