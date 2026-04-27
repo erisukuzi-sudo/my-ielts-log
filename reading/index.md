@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-27 - [Technology] Why Spotify has no button to filter out AI music](./2026-04-27-Technology-why-spotify-has-no-button-to-filter-out-ai-music.md)
+* [2026-04-27 - [Arts] When Attenborough met the gorillas - the story behind his iconic TV moment](./2026-04-27-Arts-when-attenborough-met-the-gorillas---the-story-beh.md)
 * [2026-04-26 - [Science] UK's biggest ever environmental pollution claim reaches High Court](./2026-04-26-Science-uk-s-biggest-ever-environmental-pollution-claim-re.md)
 * [2026-04-26 - [Arts] 'We have no sleep': What it's like to run a round-the-clock celebrity fan page](./2026-04-26-Arts--we-have-no-sleep---what-it-s-like-to-run-a-round-.md)
 * [2026-04-25 - [Technology] I brought my husband back for his funeral as a hologram](./2026-04-25-Technology-i-brought-my-husband-back-for-his-funeral-as-a-hol.md)
