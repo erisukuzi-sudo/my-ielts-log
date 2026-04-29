@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-28 - [Science] £20m mystery gift buys London Zoo new hospital where you can watch vets work](./2026-04-28-Science--20m-mystery-gift-buys-london-zoo-new-hospital-whe.md)
+* [2026-04-28 - [Technology] Musk says basis of charitable giving at stake in OpenAI lawsuit](./2026-04-28-Technology-musk-says-basis-of-charitable-giving-at-stake-in-o.md)
+* [2026-04-28 - [Arts] US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump](./2026-04-28-Arts-us-regulator-to-review-disney-broadcast-licences-a.md)
 * [2026-04-27 - [Technology] Why Spotify has no button to filter out AI music](./2026-04-27-Technology-why-spotify-has-no-button-to-filter-out-ai-music.md)
 * [2026-04-27 - [Arts] When Attenborough met the gorillas - the story behind his iconic TV moment](./2026-04-27-Arts-when-attenborough-met-the-gorillas---the-story-beh.md)
 * [2026-04-26 - [Science] UK's biggest ever environmental pollution claim reaches High Court](./2026-04-26-Science-uk-s-biggest-ever-environmental-pollution-claim-re.md)
