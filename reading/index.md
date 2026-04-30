@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-29 - [Science] Global forest loss slows but El Niño fires could threaten progress](./2026-04-29-Science-global-forest-loss-slows-but-el-ni-o-fires-could-t.md)
+* [2026-04-29 - [Technology] Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony](./2026-04-29-Technology-musk-accuses-openai-lawyer-of-trying-to--trick--hi.md)
+* [2026-04-29 - [Education] University wins record freedom of speech fine challenge](./2026-04-29-Education-university-wins-record-freedom-of-speech-fine-chal.md)
+* [2026-04-29 - [Arts] Stephen Fry sues tech conference for up to £100,000 after falling off stage](./2026-04-29-Arts-stephen-fry-sues-tech-conference-for-up-to--100-00.md)
 * [2026-04-28 - [Science] £20m mystery gift buys London Zoo new hospital where you can watch vets work](./2026-04-28-Science--20m-mystery-gift-buys-london-zoo-new-hospital-whe.md)
 * [2026-04-28 - [Technology] Musk says basis of charitable giving at stake in OpenAI lawsuit](./2026-04-28-Technology-musk-says-basis-of-charitable-giving-at-stake-in-o.md)
 * [2026-04-28 - [Arts] US regulator to review Disney broadcast licences after Jimmy Kimmel joke about Melania Trump](./2026-04-28-Arts-us-regulator-to-review-disney-broadcast-licences-a.md)
