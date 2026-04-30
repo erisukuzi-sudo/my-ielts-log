@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-04-30 - [Technology] Will AI lead to more accurate opinion polls?](./2026-04-30-Technology-will-ai-lead-to-more-accurate-opinion-polls-.md)
+* [2026-04-30 - [Arts] Banksy confirms he's behind statue in central London](./2026-04-30-Arts-banksy-confirms-he-s-behind-statue-in-central-lond.md)
 * [2026-04-29 - [Science] Global forest loss slows but El Niño fires could threaten progress](./2026-04-29-Science-global-forest-loss-slows-but-el-ni-o-fires-could-t.md)
 * [2026-04-29 - [Technology] Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony](./2026-04-29-Technology-musk-accuses-openai-lawyer-of-trying-to--trick--hi.md)
 * [2026-04-29 - [Education] University wins record freedom of speech fine challenge](./2026-04-29-Education-university-wins-record-freedom-of-speech-fine-chal.md)
