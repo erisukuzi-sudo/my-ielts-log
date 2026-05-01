@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-01 - [Science] Is this the real face of Anne Boleyn? ](./2026-05-01-Science-is-this-the-real-face-of-anne-boleyn--.md)
+* [2026-05-01 - [Technology] Oscars says AI actors, writing cannot win awards](./2026-05-01-Technology-oscars-says-ai-actors--writing-cannot-win-awards.md)
+* [2026-05-01 - [Arts] Peter Kay show evacuated after 'suspicious bag' found](./2026-05-01-Arts-peter-kay-show-evacuated-after--suspicious-bag--fo.md)
 * [2026-04-30 - [Technology] Will AI lead to more accurate opinion polls?](./2026-04-30-Technology-will-ai-lead-to-more-accurate-opinion-polls-.md)
 * [2026-04-30 - [Arts] Banksy confirms he's behind statue in central London](./2026-04-30-Arts-banksy-confirms-he-s-behind-statue-in-central-lond.md)
 * [2026-04-29 - [Science] Global forest loss slows but El Niño fires could threaten progress](./2026-04-29-Science-global-forest-loss-slows-but-el-ni-o-fires-could-t.md)
