@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-01 - [Technology] Oscars says AI actors and writing cannot win awards](./2026-05-01-Technology-oscars-says-ai-actors-and-writing-cannot-win-award.md)
+* [2026-05-01 - [Arts] There was one way we'd agree to do Devil Wears Prada 2, says Meryl Streep](./2026-05-01-Arts-there-was-one-way-we-d-agree-to-do-devil-wears-pra.md)
 * [2026-05-01 - [Science] Is this the real face of Anne Boleyn? ](./2026-05-01-Science-is-this-the-real-face-of-anne-boleyn--.md)
 * [2026-05-01 - [Technology] Oscars says AI actors, writing cannot win awards](./2026-05-01-Technology-oscars-says-ai-actors--writing-cannot-win-awards.md)
 * [2026-05-01 - [Arts] Peter Kay show evacuated after 'suspicious bag' found](./2026-05-01-Arts-peter-kay-show-evacuated-after--suspicious-bag--fo.md)
