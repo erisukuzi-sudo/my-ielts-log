@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-05 - [Technology] US to safety test new AI models from Google, Microsoft, xAI](./2026-05-05-Technology-us-to-safety-test-new-ai-models-from-google--micro.md)
+* [2026-05-05 - [Education] Dangerous baby-sleep advice given to parents by self-described experts, secret filming reveals](./2026-05-05-Education-dangerous-baby-sleep-advice-given-to-parents-by-se.md)
+* [2026-05-05 - [Arts] Matt Damon seen in new trailer for Christopher Nolan's The Odyssey](./2026-05-05-Arts-matt-damon-seen-in-new-trailer-for-christopher-nol.md)
 * [2026-05-04 - [Technology] Robots move in as waste firms struggle to find staff](./2026-05-04-Technology-robots-move-in-as-waste-firms-struggle-to-find-sta.md)
 * [2026-05-04 - [Arts] Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film](./2026-05-04-Arts-blake-lively-and-justin-baldoni-settle-lawsuit-ove.md)
 * [2026-05-02 - [Arts] Laufey on making jazz cool again (and the fish that brought out her inner rage)](./2026-05-02-Arts-laufey-on-making-jazz-cool-again--and-the-fish-tha.md)
