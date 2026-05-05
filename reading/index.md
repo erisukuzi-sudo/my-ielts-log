@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-04 - [Technology] Robots move in as waste firms struggle to find staff](./2026-05-04-Technology-robots-move-in-as-waste-firms-struggle-to-find-sta.md)
+* [2026-05-04 - [Arts] Blake Lively and Justin Baldoni settle lawsuit over It Ends With Us film](./2026-05-04-Arts-blake-lively-and-justin-baldoni-settle-lawsuit-ove.md)
 * [2026-05-02 - [Arts] Laufey on making jazz cool again (and the fish that brought out her inner rage)](./2026-05-02-Arts-laufey-on-making-jazz-cool-again--and-the-fish-tha.md)
 * [2026-05-01 - [Technology] Oscars says AI actors and writing cannot win awards](./2026-05-01-Technology-oscars-says-ai-actors-and-writing-cannot-win-award.md)
 * [2026-05-01 - [Arts] There was one way we'd agree to do Devil Wears Prada 2, says Meryl Streep](./2026-05-01-Arts-there-was-one-way-we-d-agree-to-do-devil-wears-pra.md)
