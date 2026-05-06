@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-06 - [Science] Massive Alaska megatsunami was second largest ever recorded](./2026-05-06-Science-massive-alaska-megatsunami-was-second-largest-ever.md)
+* [2026-05-06 - [Technology] Former OpenAI board member says Elon Musk offered her sperm donations](./2026-05-06-Technology-former-openai-board-member-says-elon-musk-offered-.md)
+* [2026-05-06 - [Arts] Strictly Come Dancing: Five pros to leave the show as line-up confirmed](./2026-05-06-Arts-strictly-come-dancing--five-pros-to-leave-the-show.md)
 * [2026-05-05 - [Technology] US to safety test new AI models from Google, Microsoft, xAI](./2026-05-05-Technology-us-to-safety-test-new-ai-models-from-google--micro.md)
 * [2026-05-05 - [Education] Dangerous baby-sleep advice given to parents by self-described experts, secret filming reveals](./2026-05-05-Education-dangerous-baby-sleep-advice-given-to-parents-by-se.md)
 * [2026-05-05 - [Arts] Matt Damon seen in new trailer for Christopher Nolan's The Odyssey](./2026-05-05-Arts-matt-damon-seen-in-new-trailer-for-christopher-nol.md)
