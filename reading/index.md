@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-07 - [Technology] How sunburn inspired a new way to store energy](./2026-05-07-Technology-how-sunburn-inspired-a-new-way-to-store-energy.md)
+* [2026-05-07 - [Arts] David Attenborough says he is 'overwhelmed' by 100th birthday messages](./2026-05-07-Arts-david-attenborough-says-he-is--overwhelmed--by-100.md)
 * [2026-05-06 - [Science] Massive Alaska megatsunami was second largest ever recorded](./2026-05-06-Science-massive-alaska-megatsunami-was-second-largest-ever.md)
 * [2026-05-06 - [Technology] Former OpenAI board member says Elon Musk offered her sperm donations](./2026-05-06-Technology-former-openai-board-member-says-elon-musk-offered-.md)
 * [2026-05-06 - [Arts] Strictly Come Dancing: Five pros to leave the show as line-up confirmed](./2026-05-06-Arts-strictly-come-dancing--five-pros-to-leave-the-show.md)
