@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-08 - [Technology] TikTok scales back AI-generated video descriptions after absurd errors](./2026-05-08-Technology-tiktok-scales-back-ai-generated-video-descriptions.md)
+* [2026-05-08 - [Arts] William hails Sir David Attenborough's 'remarkable milestone' at 100th birthday concert](./2026-05-08-Arts-william-hails-sir-david-attenborough-s--remarkable.md)
 * [2026-05-07 - [Technology] How sunburn inspired a new way to store energy](./2026-05-07-Technology-how-sunburn-inspired-a-new-way-to-store-energy.md)
 * [2026-05-07 - [Arts] David Attenborough says he is 'overwhelmed' by 100th birthday messages](./2026-05-07-Arts-david-attenborough-says-he-is--overwhelmed--by-100.md)
 * [2026-05-06 - [Science] Massive Alaska megatsunami was second largest ever recorded](./2026-05-06-Science-massive-alaska-megatsunami-was-second-largest-ever.md)
