@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-09 - [Technology] How sunburn inspired a new way to store energy](./2026-05-09-Technology-how-sunburn-inspired-a-new-way-to-store-energy.md)
+* [2026-05-09 - [Education] Teachers in England to vote on striking over pay](./2026-05-09-Education-teachers-in-england-to-vote-on-striking-over-pay.md)
 * [2026-05-08 - [Technology] TikTok scales back AI-generated video descriptions after absurd errors](./2026-05-08-Technology-tiktok-scales-back-ai-generated-video-descriptions.md)
 * [2026-05-08 - [Arts] William hails Sir David Attenborough's 'remarkable milestone' at 100th birthday concert](./2026-05-08-Arts-william-hails-sir-david-attenborough-s--remarkable.md)
 * [2026-05-07 - [Technology] How sunburn inspired a new way to store energy](./2026-05-07-Technology-how-sunburn-inspired-a-new-way-to-store-energy.md)
