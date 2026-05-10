@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-10 - [Technology] Cyber-crime increasingly coming with threats of physical violence](./2026-05-10-Technology-cyber-crime-increasingly-coming-with-threats-of-ph.md)
+* [2026-05-10 - [Arts] Adolescence makes history at Bafta TV Awards](./2026-05-10-Arts-adolescence-makes-history-at-bafta-tv-awards.md)
 * [2026-05-09 - [Technology] How sunburn inspired a new way to store energy](./2026-05-09-Technology-how-sunburn-inspired-a-new-way-to-store-energy.md)
 * [2026-05-09 - [Education] Teachers in England to vote on striking over pay](./2026-05-09-Education-teachers-in-england-to-vote-on-striking-over-pay.md)
 * [2026-05-08 - [Technology] TikTok scales back AI-generated video descriptions after absurd errors](./2026-05-08-Technology-tiktok-scales-back-ai-generated-video-descriptions.md)
