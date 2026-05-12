@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-11 - [Technology] Not so dusty: How tech is changing woodworking](./2026-05-11-Technology-not-so-dusty--how-tech-is-changing-woodworking.md)
+* [2026-05-10 - [Arts] Why Eurovision's fallout over Israel may change the competition forever](./2026-05-10-Arts-why-eurovision-s-fallout-over-israel-may-change-th.md)
 * [2026-05-10 - [Technology] Cyber-crime increasingly coming with threats of physical violence](./2026-05-10-Technology-cyber-crime-increasingly-coming-with-threats-of-ph.md)
 * [2026-05-10 - [Arts] Adolescence makes history at Bafta TV Awards](./2026-05-10-Arts-adolescence-makes-history-at-bafta-tv-awards.md)
 * [2026-05-09 - [Technology] How sunburn inspired a new way to store energy](./2026-05-09-Technology-how-sunburn-inspired-a-new-way-to-store-energy.md)
