@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-12 - [Technology] Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury](./2026-05-12-Technology-elon-musk-said-control-of-openai-should-go-to-his-.md)
+* [2026-05-12 - [Education] Students at risk if universities go bust, say MPs](./2026-05-12-Education-students-at-risk-if-universities-go-bust--say-mps.md)
+* [2026-05-12 - [Arts] Israel qualifies but Boy George is out of Eurovision](./2026-05-12-Arts-israel-qualifies-but-boy-george-is-out-of-eurovisi.md)
 * [2026-05-11 - [Technology] Not so dusty: How tech is changing woodworking](./2026-05-11-Technology-not-so-dusty--how-tech-is-changing-woodworking.md)
 * [2026-05-10 - [Arts] Why Eurovision's fallout over Israel may change the competition forever](./2026-05-10-Arts-why-eurovision-s-fallout-over-israel-may-change-th.md)
 * [2026-05-10 - [Technology] Cyber-crime increasingly coming with threats of physical violence](./2026-05-10-Technology-cyber-crime-increasingly-coming-with-threats-of-ph.md)
