@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-13 - [Science] White-tailed eagles to be released in Exmoor despite farmer warnings ](./2026-05-13-Science-white-tailed-eagles-to-be-released-in-exmoor-despi.md)
+* [2026-05-13 - [Technology] Why big tech is betting on cute mascots](./2026-05-13-Technology-why-big-tech-is-betting-on-cute-mascots.md)
+* [2026-05-13 - [Arts] Israel's Eurovision entry 'shocked' by protests during semi-final show](./2026-05-13-Arts-israel-s-eurovision-entry--shocked--by-protests-du.md)
 * [2026-05-12 - [Technology] Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury](./2026-05-12-Technology-elon-musk-said-control-of-openai-should-go-to-his-.md)
 * [2026-05-12 - [Education] Students at risk if universities go bust, say MPs](./2026-05-12-Education-students-at-risk-if-universities-go-bust--say-mps.md)
 * [2026-05-12 - [Arts] Israel qualifies but Boy George is out of Eurovision](./2026-05-12-Arts-israel-qualifies-but-boy-george-is-out-of-eurovisi.md)
