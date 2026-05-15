@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-15 - [Science] Is it safe to swim at England's bathing sites?](./2026-05-15-Science-is-it-safe-to-swim-at-england-s-bathing-sites-.md)
+* [2026-05-15 - [Technology] X pledges quicker action on hate and terror content in the UK](./2026-05-15-Technology-x-pledges-quicker-action-on-hate-and-terror-conten.md)
 * [2026-05-14 - [Technology] Inside the secretive and lucrative world of orchid breeding](./2026-05-14-Technology-inside-the-secretive-and-lucrative-world-of-orchid.md)
 * [2026-05-14 - [Arts] Australia soars into Eurovision final as UK song debuts](./2026-05-14-Arts-australia-soars-into-eurovision-final-as-uk-song-d.md)
 * [2026-05-13 - [Science] White-tailed eagles to be released in Exmoor despite farmer warnings ](./2026-05-13-Science-white-tailed-eagles-to-be-released-in-exmoor-despi.md)
