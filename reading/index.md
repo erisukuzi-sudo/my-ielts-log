@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-14 - [Technology] Inside the secretive and lucrative world of orchid breeding](./2026-05-14-Technology-inside-the-secretive-and-lucrative-world-of-orchid.md)
+* [2026-05-14 - [Arts] Australia soars into Eurovision final as UK song debuts](./2026-05-14-Arts-australia-soars-into-eurovision-final-as-uk-song-d.md)
 * [2026-05-13 - [Science] White-tailed eagles to be released in Exmoor despite farmer warnings ](./2026-05-13-Science-white-tailed-eagles-to-be-released-in-exmoor-despi.md)
 * [2026-05-13 - [Technology] Why big tech is betting on cute mascots](./2026-05-13-Technology-why-big-tech-is-betting-on-cute-mascots.md)
 * [2026-05-13 - [Arts] Israel's Eurovision entry 'shocked' by protests during semi-final show](./2026-05-13-Arts-israel-s-eurovision-entry--shocked--by-protests-du.md)
