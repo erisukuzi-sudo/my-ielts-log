@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-17 - [Technology] Why does Amazon have no Western rivals?](./2026-05-17-Technology-why-does-amazon-have-no-western-rivals-.md)
+* [2026-05-17 - [Arts] 'Look Mum, one point': Why does the UK keep getting Eurovision wrong?](./2026-05-17-Arts--look-mum--one-point---why-does-the-uk-keep-gettin.md)
 * [2026-05-15 - [Arts] Eurovision final: Sex, violins and seven other things to look out for](./2026-05-15-Arts-eurovision-final--sex--violins-and-seven-other-thi.md)
 * [2026-05-15 - [Science] Is it safe to swim at England's bathing sites?](./2026-05-15-Science-is-it-safe-to-swim-at-england-s-bathing-sites-.md)
 * [2026-05-15 - [Technology] X pledges quicker action on hate and terror content in the UK](./2026-05-15-Technology-x-pledges-quicker-action-on-hate-and-terror-conten.md)
