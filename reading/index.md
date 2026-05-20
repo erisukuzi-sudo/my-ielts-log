@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-19 - [Science] UK should set maximum working temperature rules, advisers say](./2026-05-19-Science-uk-should-set-maximum-working-temperature-rules--a.md)
+* [2026-05-19 - [Technology] Google to release first smart glasses since Google Glass flop](./2026-05-19-Technology-google-to-release-first-smart-glasses-since-google.md)
+* [2026-05-19 - [Arts] BBC confirms new Strictly Come Dancing hosts](./2026-05-19-Arts-bbc-confirms-new-strictly-come-dancing-hosts.md)
 * [2026-05-18 - [Science] Waste carrier licences to be tightened as part of illegal dumping crackdown](./2026-05-18-Science-waste-carrier-licences-to-be-tightened-as-part-of-.md)
 * [2026-05-18 - [Technology] Robo-top: The machines that could make your next t-shirt](./2026-05-18-Technology-robo-top--the-machines-that-could-make-your-next-t.md)
 * [2026-05-18 - [Arts] Married at First Sight UK brides tell BBC they were raped by on-screen husbands](./2026-05-18-Arts-married-at-first-sight-uk-brides-tell-bbc-they-wer.md)
