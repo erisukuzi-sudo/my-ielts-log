@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-20 - [Science] Six ways to keep your home and yourself cool in hot weather](./2026-05-20-Science-six-ways-to-keep-your-home-and-yourself-cool-in-ho.md)
+* [2026-05-20 - [Technology] SpaceX files for IPO that could make Elon Musk a trillionaire](./2026-05-20-Technology-spacex-files-for-ipo-that-could-make-elon-musk-a-t.md)
+* [2026-05-20 - [Education] Backlash over Department for Education videos with Gemma Collins ](./2026-05-20-Education-backlash-over-department-for-education-videos-with.md)
+* [2026-05-20 - [Arts] Channel 4 boss 'deeply sorry' over MAFS UK rape allegations](./2026-05-20-Arts-channel-4-boss--deeply-sorry--over-mafs-uk-rape-al.md)
 * [2026-05-19 - [Science] UK should set maximum working temperature rules, advisers say](./2026-05-19-Science-uk-should-set-maximum-working-temperature-rules--a.md)
 * [2026-05-19 - [Technology] Google to release first smart glasses since Google Glass flop](./2026-05-19-Technology-google-to-release-first-smart-glasses-since-google.md)
 * [2026-05-19 - [Arts] BBC confirms new Strictly Come Dancing hosts](./2026-05-19-Arts-bbc-confirms-new-strictly-come-dancing-hosts.md)
