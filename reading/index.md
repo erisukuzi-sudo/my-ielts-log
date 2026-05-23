@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-22 - [Science] The space race to create gym equipment for future astronauts](./2026-05-22-Science-the-space-race-to-create-gym-equipment-for-future-.md)
+* [2026-05-22 - [Technology] From decades to years - AI could speed search for brain drugs hiding in plain sight](./2026-05-22-Technology-from-decades-to-years---ai-could-speed-search-for-.md)
+* [2026-05-22 - [Arts] TV presenter Judith Chalmers dies aged 90](./2026-05-22-Arts-tv-presenter-judith-chalmers-dies-aged-90.md)
 * [2026-05-21 - [Science] How do hurricanes and typhoons form and is climate change making them stronger?](./2026-05-21-Science-how-do-hurricanes-and-typhoons-form-and-is-climate.md)
 * [2026-05-21 - [Technology] Love factually: Dating start-ups promise to cut the cheats](./2026-05-21-Technology-love-factually--dating-start-ups-promise-to-cut-th.md)
 * [2026-05-21 - [Education] UK police bosses urge unsafe platforms to be blocked for under-16s](./2026-05-21-Education-uk-police-bosses-urge-unsafe-platforms-to-be-block.md)
