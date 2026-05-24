@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-22 - [Technology] AI may speed up search for drugs to treat brain conditions](./2026-05-22-Technology-ai-may-speed-up-search-for-drugs-to-treat-brain-co.md)
+* [2026-05-22 - [Arts] How Panorama exposed rape allegations on Married at First Sight UK](./2026-05-22-Arts-how-panorama-exposed-rape-allegations-on-married-a.md)
 * [2026-05-22 - [Science] The space race to create gym equipment for future astronauts](./2026-05-22-Science-the-space-race-to-create-gym-equipment-for-future-.md)
 * [2026-05-22 - [Technology] From decades to years - AI could speed search for brain drugs hiding in plain sight](./2026-05-22-Technology-from-decades-to-years---ai-could-speed-search-for-.md)
 * [2026-05-22 - [Arts] TV presenter Judith Chalmers dies aged 90](./2026-05-22-Arts-tv-presenter-judith-chalmers-dies-aged-90.md)
