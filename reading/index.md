@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-25 - [Science] Britain's protected birds of prey still being shot, trapped and poisoned, says RSPB](./2026-05-25-Science-britain-s-protected-birds-of-prey-still-being-shot.md)
+* [2026-05-25 - [Technology] Government vows to bring in under-16 social media restrictions by end of year](./2026-05-25-Technology-government-vows-to-bring-in-under-16-social-media-.md)
+* [2026-05-25 - [Education] Government vows to bring in under-16 social media restrictions by end of year](./2026-05-25-Education-government-vows-to-bring-in-under-16-social-media-.md)
+* [2026-05-25 - [Arts] Sun, superstars and other takeaways from Radio 1's Big Weekend](./2026-05-25-Arts-sun--superstars-and-other-takeaways-from-radio-1-s.md)
 * [2026-05-24 - [Arts] Olivia Dean brings the curtain down on Radio 1's Big Weekend with 'magic' set](./2026-05-24-Arts-olivia-dean-brings-the-curtain-down-on-radio-1-s-b.md)
 * [2026-05-22 - [Technology] AI may speed up search for drugs to treat brain conditions](./2026-05-22-Technology-ai-may-speed-up-search-for-drugs-to-treat-brain-co.md)
 * [2026-05-22 - [Arts] How Panorama exposed rape allegations on Married at First Sight UK](./2026-05-22-Arts-how-panorama-exposed-rape-allegations-on-married-a.md)
