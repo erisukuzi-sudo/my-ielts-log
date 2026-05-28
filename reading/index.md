@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-27 - [Science] UK's rudest chalk figure gets a glow-up to stop it fading in the rain](./2026-05-27-Science-uk-s-rudest-chalk-figure-gets-a-glow-up-to-stop-it.md)
+* [2026-05-27 - [Technology] The rise of the fruit that tastes like custard](./2026-05-27-Technology-the-rise-of-the-fruit-that-tastes-like-custard.md)
+* [2026-05-27 - [Education] Student loans inquiry finds many did not understand terms ](./2026-05-27-Education-student-loans-inquiry-finds-many-did-not-understan.md)
+* [2026-05-27 - [Arts] An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture](./2026-05-27-Arts-an-unhealthy-focus-on-sex---married-at-first-sight.md)
 * [2026-05-26 - [Science] Nasa unveils next steps to build permanent Moon base](./2026-05-26-Science-nasa-unveils-next-steps-to-build-permanent-moon-ba.md)
 * [2026-05-26 - [Technology] Instagram betting ads featuring Kane and Haaland banned](./2026-05-26-Technology-instagram-betting-ads-featuring-kane-and-haaland-b.md)
 * [2026-05-26 - [Education] Some A-level papers voided for students after exams leaked online](./2026-05-26-Education-some-a-level-papers-voided-for-students-after-exam.md)
