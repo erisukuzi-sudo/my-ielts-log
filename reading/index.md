@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-28 - [Technology] Humanoid robots 'the future' of car making, says BMW](./2026-05-28-Technology-humanoid-robots--the-future--of-car-making--says-b.md)
+* [2026-05-28 - [Education] Meta repeatedly snubs EU body over Facebook and Instagram user bans](./2026-05-28-Education-meta-repeatedly-snubs-eu-body-over-facebook-and-in.md)
+* [2026-05-28 - [Arts] Boy George receives lifetime achievement honour at LGBT Awards](./2026-05-28-Arts-boy-george-receives-lifetime-achievement-honour-at.md)
 * [2026-05-27 - [Science] UK's rudest chalk figure gets a glow-up to stop it fading in the rain](./2026-05-27-Science-uk-s-rudest-chalk-figure-gets-a-glow-up-to-stop-it.md)
 * [2026-05-27 - [Technology] The rise of the fruit that tastes like custard](./2026-05-27-Technology-the-rise-of-the-fruit-that-tastes-like-custard.md)
 * [2026-05-27 - [Education] Student loans inquiry finds many did not understand terms ](./2026-05-27-Education-student-loans-inquiry-finds-many-did-not-understan.md)
