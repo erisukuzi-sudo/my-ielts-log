@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-05-30 - [Science] 'Killer fungus' could be good news for habitats decimated by invasive moss ](./2026-05-30-Science--killer-fungus--could-be-good-news-for-habitats-de.md)
+* [2026-05-30 - [Technology] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started](./2026-05-30-Technology-ferrari-wanted-to-take-on-chinese-evs-with-the-luc.md)
+* [2026-05-29 - [Arts] Endless creepy yellow corridors, 30bn TikTok views - and now a Hollywood film](./2026-05-29-Arts-endless-creepy-yellow-corridors--30bn-tiktok-views.md)
 * [2026-05-29 - [Science] Exploding rocket casts doubts over Nasa's Moon plans](./2026-05-29-Science-exploding-rocket-casts-doubts-over-nasa-s-moon-pla.md)
 * [2026-05-29 - [Technology] 'Controversial' North Korean invasion setting for next Call of Duty game](./2026-05-29-Technology--controversial--north-korean-invasion-setting-for-.md)
 * [2026-05-29 - [Arts] Endless yellow corridors started as an internet meme - now it's a Hollywood horror film](./2026-05-29-Arts-endless-yellow-corridors-started-as-an-internet-me.md)
