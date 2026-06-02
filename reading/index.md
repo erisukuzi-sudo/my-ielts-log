@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-01 - [Technology] How 'confused' AI rollout hurts firms and baffles staff](./2026-06-01-Technology-how--confused--ai-rollout-hurts-firms-and-baffles-.md)
+* [2026-06-01 - [Education] Third of people say uni degree not worth it, as student loan inquiry begins ](./2026-06-01-Education-third-of-people-say-uni-degree-not-worth-it--as-st.md)
+* [2026-06-01 - [Arts] Dua Lipa marries Callum Turner in low-key London ceremony](./2026-06-01-Arts-dua-lipa-marries-callum-turner-in-low-key-london-c.md)
 * [2026-05-31 - [Arts] KSI quits Sidemen collective after 13 years](./2026-05-31-Arts-ksi-quits-sidemen-collective-after-13-years.md)
 * [2026-05-30 - [Science] 'Killer fungus' could be good news for habitats decimated by invasive moss ](./2026-05-30-Science--killer-fungus--could-be-good-news-for-habitats-de.md)
 * [2026-05-30 - [Technology] Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started](./2026-05-30-Technology-ferrari-wanted-to-take-on-chinese-evs-with-the-luc.md)
