@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-03 - [Technology] Phone signal on trains not good enough most of the time, research says](./2026-06-03-Technology-phone-signal-on-trains-not-good-enough-most-of-the.md)
+* [2026-06-03 - [Arts] Director Wim Wenders withdraws 1975 film over actress's teen topless scene](./2026-06-03-Arts-director-wim-wenders-withdraws-1975-film-over-actr.md)
 * [2026-06-02 - [Science] Next El Niño could be strongest in decades](./2026-06-02-Science-next-el-ni-o-could-be-strongest-in-decades.md)
 * [2026-06-02 - [Technology] Do you find yourself aimlessly scrolling? You're not alone](./2026-06-02-Technology-do-you-find-yourself-aimlessly-scrolling--you-re-n.md)
 * [2026-06-02 - [Education] Third of people say uni degree not worth it, as student loan inquiry begins ](./2026-06-02-Education-third-of-people-say-uni-degree-not-worth-it--as-st.md)
