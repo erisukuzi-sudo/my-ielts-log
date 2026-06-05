@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-04 - [Science] Mangrove forests are healing after decades of human destruction](./2026-06-04-Science-mangrove-forests-are-healing-after-decades-of-huma.md)
+* [2026-06-04 - [Technology] The ancient trick making food waste useful and tasty](./2026-06-04-Technology-the-ancient-trick-making-food-waste-useful-and-tas.md)
+* [2026-06-04 - [Education] Falling pupil numbers should lead to smaller class sizes, says union](./2026-06-04-Education-falling-pupil-numbers-should-lead-to-smaller-class.md)
+* [2026-06-04 - [Arts] Tough cookies: How pop group Le Sserafim overcame internal conflict and internet trolls](./2026-06-04-Arts-tough-cookies--how-pop-group-le-sserafim-overcame-.md)
 * [2026-06-03 - [Technology] Phone signal on trains not good enough most of the time, research says](./2026-06-03-Technology-phone-signal-on-trains-not-good-enough-most-of-the.md)
 * [2026-06-03 - [Arts] Director Wim Wenders withdraws 1975 film over actress's teen topless scene](./2026-06-03-Arts-director-wim-wenders-withdraws-1975-film-over-actr.md)
 * [2026-06-02 - [Science] Next El Niño could be strongest in decades](./2026-06-02-Science-next-el-ni-o-could-be-strongest-in-decades.md)
