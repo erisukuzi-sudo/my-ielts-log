@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-05 - [Science] Astronauts return to ISS after sheltering during air leak repair attempt](./2026-06-05-Science-astronauts-return-to-iss-after-sheltering-during-a.md)
+* [2026-06-05 - [Technology] Trump to meet AI leaders to discuss US investment in their companies](./2026-06-05-Technology-trump-to-meet-ai-leaders-to-discuss-us-investment-.md)
+* [2026-06-05 - [Education] Pupils asked to walk to school through army firing range, MP claims](./2026-06-05-Education-pupils-asked-to-walk-to-school-through-army-firing.md)
+* [2026-06-05 - [Arts] Buffy and Ted Lasso star Anthony Head dies at 72](./2026-06-05-Arts-buffy-and-ted-lasso-star-anthony-head-dies-at-72.md)
 * [2026-06-04 - [Science] Mangrove forests are healing after decades of human destruction](./2026-06-04-Science-mangrove-forests-are-healing-after-decades-of-huma.md)
 * [2026-06-04 - [Technology] The ancient trick making food waste useful and tasty](./2026-06-04-Technology-the-ancient-trick-making-food-waste-useful-and-tas.md)
 * [2026-06-04 - [Education] Falling pupil numbers should lead to smaller class sizes, says union](./2026-06-04-Education-falling-pupil-numbers-should-lead-to-smaller-class.md)
