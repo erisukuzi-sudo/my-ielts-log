@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-06 - [Technology] The gamers taking on the industry to stop it switching off games](./2026-06-06-Technology-the-gamers-taking-on-the-industry-to-stop-it-switc.md)
+* [2026-06-06 - [Arts] Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72](./2026-06-06-Arts-tributes-to-buffy-and-ted-lasso-star-anthony-head-.md)
 * [2026-06-05 - [Science] Astronauts return to ISS after sheltering during air leak repair attempt](./2026-06-05-Science-astronauts-return-to-iss-after-sheltering-during-a.md)
 * [2026-06-05 - [Technology] Trump to meet AI leaders to discuss US investment in their companies](./2026-06-05-Technology-trump-to-meet-ai-leaders-to-discuss-us-investment-.md)
 * [2026-06-05 - [Education] Pupils asked to walk to school through army firing range, MP claims](./2026-06-05-Education-pupils-asked-to-walk-to-school-through-army-firing.md)
