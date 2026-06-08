@@ -1,6 +1,7 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-05 - [Arts] Your middle-aged friend starts dating your daughter - drama explores what happens next](./2026-06-05-Arts-your-middle-aged-friend-starts-dating-your-daughte.md)
 * [2026-06-06 - [Technology] The gamers taking on the industry to stop it switching off games](./2026-06-06-Technology-the-gamers-taking-on-the-industry-to-stop-it-switc.md)
 * [2026-06-06 - [Arts] Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72](./2026-06-06-Arts-tributes-to-buffy-and-ted-lasso-star-anthony-head-.md)
 * [2026-06-05 - [Science] Astronauts return to ISS after sheltering during air leak repair attempt](./2026-06-05-Science-astronauts-return-to-iss-after-sheltering-during-a.md)
