@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-08 - [Science] Rare footage captured of Great White shark in Mediterranean Sea](./2026-06-08-Science-rare-footage-captured-of-great-white-shark-in-medi.md)
+* [2026-06-08 - [Technology] OpenAI plans to go public, intensifying investment race with Anthropic](./2026-06-08-Technology-openai-plans-to-go-public--intensifying-investment.md)
+* [2026-06-08 - [Education] 'Lives still at risk' from unregulated baby sleep industry after BBC investigation](./2026-06-08-Education--lives-still-at-risk--from-unregulated-baby-sleep-.md)
+* [2026-06-08 - [Arts] John Lithgow and Lesley Manville lead Tony Award winners](./2026-06-08-Arts-john-lithgow-and-lesley-manville-lead-tony-award-w.md)
 * [2026-06-05 - [Arts] Your middle-aged friend starts dating your daughter - drama explores what happens next](./2026-06-05-Arts-your-middle-aged-friend-starts-dating-your-daughte.md)
 * [2026-06-06 - [Technology] The gamers taking on the industry to stop it switching off games](./2026-06-06-Technology-the-gamers-taking-on-the-industry-to-stop-it-switc.md)
 * [2026-06-06 - [Arts] Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72](./2026-06-06-Arts-tributes-to-buffy-and-ted-lasso-star-anthony-head-.md)
