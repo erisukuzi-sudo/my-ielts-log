@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-09 - [Science] Nasa names next astronauts for Artemis Moon programme](./2026-06-09-Science-nasa-names-next-astronauts-for-artemis-moon-progra.md)
+* [2026-06-09 - [Technology] Kalshi to make some users reveal job details to tackle insider trading](./2026-06-09-Technology-kalshi-to-make-some-users-reveal-job-details-to-ta.md)
+* [2026-06-09 - [Arts] Tony Livesey steps back from 5 Live after allegations against David Sullivan](./2026-06-09-Arts-tony-livesey-steps-back-from-5-live-after-allegati.md)
 * [2026-06-08 - [Science] Rare footage captured of Great White shark in Mediterranean Sea](./2026-06-08-Science-rare-footage-captured-of-great-white-shark-in-medi.md)
 * [2026-06-08 - [Technology] OpenAI plans to go public, intensifying investment race with Anthropic](./2026-06-08-Technology-openai-plans-to-go-public--intensifying-investment.md)
 * [2026-06-08 - [Education] 'Lives still at risk' from unregulated baby sleep industry after BBC investigation](./2026-06-08-Education--lives-still-at-risk--from-unregulated-baby-sleep-.md)
