@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-10 - [Education] Smacking children could lead to lower GCSE grades, study suggests](./2026-06-10-Education-smacking-children-could-lead-to-lower-gcse-grades-.md)
+* [2026-06-10 - [Arts] Lacey Turner confirmed as first Strictly contestant](./2026-06-10-Arts-lacey-turner-confirmed-as-first-strictly-contestan.md)
 * [2026-06-09 - [Science] Nasa names next astronauts for Artemis Moon programme](./2026-06-09-Science-nasa-names-next-astronauts-for-artemis-moon-progra.md)
 * [2026-06-09 - [Technology] Kalshi to make some users reveal job details to tackle insider trading](./2026-06-09-Technology-kalshi-to-make-some-users-reveal-job-details-to-ta.md)
 * [2026-06-09 - [Arts] Tony Livesey steps back from 5 Live after allegations against David Sullivan](./2026-06-09-Arts-tony-livesey-steps-back-from-5-live-after-allegati.md)
