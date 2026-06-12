@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-11 - [Science] What is El Niño and why could it mean record temperatures?](./2026-06-11-Science-what-is-el-ni-o-and-why-could-it-mean-record-tempe.md)
+* [2026-06-11 - [Technology] India's 'blue gold' starts a new drinks industry](./2026-06-11-Technology-india-s--blue-gold--starts-a-new-drinks-industry.md)
+* [2026-06-10 - [Arts] Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song](./2026-06-10-Arts-olivia-rodrigo-sings-about-heartbreak-but-she-s-al.md)
 * [2026-06-10 - [Education] Smacking children could lead to lower GCSE grades, study suggests](./2026-06-10-Education-smacking-children-could-lead-to-lower-gcse-grades-.md)
 * [2026-06-10 - [Arts] Lacey Turner confirmed as first Strictly contestant](./2026-06-10-Arts-lacey-turner-confirmed-as-first-strictly-contestan.md)
 * [2026-06-09 - [Science] Nasa names next astronauts for Artemis Moon programme](./2026-06-09-Science-nasa-names-next-astronauts-for-artemis-moon-progra.md)
