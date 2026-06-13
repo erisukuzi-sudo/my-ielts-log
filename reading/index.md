@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-12 - [Technology] Elon Musk's stratospheric rise to trillionaire status - in charts](./2026-06-12-Technology-elon-musk-s-stratospheric-rise-to-trillionaire-sta.md)
+* [2026-06-12 - [Arts] King leads tributes to 'giant of the art world' David Hockney](./2026-06-12-Arts-king-leads-tributes-to--giant-of-the-art-world--da.md)
 * [2026-06-11 - [Science] What is El Niño and why could it mean record temperatures?](./2026-06-11-Science-what-is-el-ni-o-and-why-could-it-mean-record-tempe.md)
 * [2026-06-11 - [Technology] India's 'blue gold' starts a new drinks industry](./2026-06-11-Technology-india-s--blue-gold--starts-a-new-drinks-industry.md)
 * [2026-06-10 - [Arts] Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song](./2026-06-10-Arts-olivia-rodrigo-sings-about-heartbreak-but-she-s-al.md)
