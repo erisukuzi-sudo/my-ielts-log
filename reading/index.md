@@ -1,6 +1,7 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-13 - [Arts] How Myles Smith turned five years of therapy notes into a debut album](./2026-06-13-Arts-how-myles-smith-turned-five-years-of-therapy-notes.md)
 * [2026-06-13 - [Arts] Married at First Sight Australia stars not told partners had drug and violence convictions](./2026-06-13-Arts-married-at-first-sight-australia-stars-not-told-pa.md)
 * [2026-06-12 - [Technology] Elon Musk's stratospheric rise to trillionaire status - in charts](./2026-06-12-Technology-elon-musk-s-stratospheric-rise-to-trillionaire-sta.md)
 * [2026-06-12 - [Arts] King leads tributes to 'giant of the art world' David Hockney](./2026-06-12-Arts-king-leads-tributes-to--giant-of-the-art-world--da.md)
