@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-16 - [Technology] What is Helium-3 and could we get it from the moon?](./2026-06-16-Technology-what-is-helium-3-and-could-we-get-it-from-the-moon.md)
+* [2026-06-15 - [Education] Social media ban 'a defining moment for our children'](./2026-06-15-Education-social-media-ban--a-defining-moment-for-our-childr.md)
+* [2026-06-15 - [Arts] Bonnie Tyler out of coma but 'very unwell' after emergency surgery](./2026-06-15-Arts-bonnie-tyler-out-of-coma-but--very-unwell--after-e.md)
 * [2026-06-13 - [Arts] How Myles Smith turned five years of therapy notes into a debut album](./2026-06-13-Arts-how-myles-smith-turned-five-years-of-therapy-notes.md)
 * [2026-06-13 - [Arts] Married at First Sight Australia stars not told partners had drug and violence convictions](./2026-06-13-Arts-married-at-first-sight-australia-stars-not-told-pa.md)
 * [2026-06-12 - [Technology] Elon Musk's stratospheric rise to trillionaire status - in charts](./2026-06-12-Technology-elon-musk-s-stratospheric-rise-to-trillionaire-sta.md)
