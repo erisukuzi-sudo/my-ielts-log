@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-17 - [Science] Simpler, older version of Stonehenge found three miles from famous site](./2026-06-17-Science-simpler--older-version-of-stonehenge-found-three-m.md)
+* [2026-06-17 - [Technology] ChatGPT can be made to generate sexualised and violent images, researchers find](./2026-06-17-Technology-chatgpt-can-be-made-to-generate-sexualised-and-vio.md)
+* [2026-06-17 - [Arts] Toy Story 5 splits critics, but most praise its 'cautionary' message about tech](./2026-06-17-Arts-toy-story-5-splits-critics--but-most-praise-its--c.md)
 * [2026-06-16 - [Technology] Five big questions about the UK's under-16s social media ban](./2026-06-16-Technology-five-big-questions-about-the-uk-s-under-16s-social.md)
 * [2026-06-16 - [Arts] Naomi Campbell blames lawyer for 'fraud and deception' at charity ban appeal](./2026-06-16-Arts-naomi-campbell-blames-lawyer-for--fraud-and-decept.md)
 * [2026-06-16 - [Technology] What is Helium-3 and could we get it from the moon?](./2026-06-16-Technology-what-is-helium-3-and-could-we-get-it-from-the-moon.md)
