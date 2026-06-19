@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-18 - [Technology] The artificial ice pyramids saving India's mountain villages](./2026-06-18-Technology-the-artificial-ice-pyramids-saving-india-s-mountai.md)
+* [2026-06-17 - [Arts] The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35](./2026-06-17-Arts-the-ring-and-lilo---stitch-actress-daveigh-chase-d.md)
 * [2026-06-17 - [Science] Simpler, older version of Stonehenge found three miles from famous site](./2026-06-17-Science-simpler--older-version-of-stonehenge-found-three-m.md)
 * [2026-06-17 - [Technology] ChatGPT can be made to generate sexualised and violent images, researchers find](./2026-06-17-Technology-chatgpt-can-be-made-to-generate-sexualised-and-vio.md)
 * [2026-06-17 - [Arts] Toy Story 5 splits critics, but most praise its 'cautionary' message about tech](./2026-06-17-Arts-toy-story-5-splits-critics--but-most-praise-its--c.md)
