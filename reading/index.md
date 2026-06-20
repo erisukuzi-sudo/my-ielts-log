@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-19 - [Technology] UK's top data and AI regulator quits after 'inappropriate' humour](./2026-06-19-Technology-uk-s-top-data-and-ai-regulator-quits-after--inappr.md)
+* [2026-06-19 - [Education] Five tips to keep your kids cool this weekend](./2026-06-19-Education-five-tips-to-keep-your-kids-cool-this-weekend.md)
+* [2026-06-19 - [Arts] Real, raw and unfiltered? Authenticity helps female singers rule the charts](./2026-06-19-Arts-real--raw-and-unfiltered--authenticity-helps-femal.md)
 * [2026-06-18 - [Technology] The artificial ice pyramids saving India's mountain villages](./2026-06-18-Technology-the-artificial-ice-pyramids-saving-india-s-mountai.md)
 * [2026-06-17 - [Arts] The Ring and Lilo & Stitch actress Daveigh Chase dies aged 35](./2026-06-17-Arts-the-ring-and-lilo---stitch-actress-daveigh-chase-d.md)
 * [2026-06-17 - [Science] Simpler, older version of Stonehenge found three miles from famous site](./2026-06-17-Science-simpler--older-version-of-stonehenge-found-three-m.md)
