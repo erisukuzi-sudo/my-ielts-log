@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-20 - [Technology] Why an AI company cleaned my New York City apartment for free](./2026-06-20-Technology-why-an-ai-company-cleaned-my-new-york-city-apartme.md)
+* [2026-06-20 - [Arts] Michael Fassbender says it is becoming harder to know what to trust online](./2026-06-20-Arts-michael-fassbender-says-it-is-becoming-harder-to-k.md)
 * [2026-06-19 - [Technology] UK's top data and AI regulator quits after 'inappropriate' humour](./2026-06-19-Technology-uk-s-top-data-and-ai-regulator-quits-after--inappr.md)
 * [2026-06-19 - [Education] Five tips to keep your kids cool this weekend](./2026-06-19-Education-five-tips-to-keep-your-kids-cool-this-weekend.md)
 * [2026-06-19 - [Arts] Real, raw and unfiltered? Authenticity helps female singers rule the charts](./2026-06-19-Arts-real--raw-and-unfiltered--authenticity-helps-femal.md)
