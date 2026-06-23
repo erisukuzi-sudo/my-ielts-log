@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-22 - [Science] Seabed damaged by fishing showing signs of recovery](./2026-06-22-Science-seabed-damaged-by-fishing-showing-signs-of-recover.md)
+* [2026-06-22 - [Technology] Millions of iCloud users could claim share of £3bn after Apple case given UK green light](./2026-06-22-Technology-millions-of-icloud-users-could-claim-share-of--3bn.md)
+* [2026-06-22 - [Arts] Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94](./2026-06-22-Arts-clive-davis--music-mogul-behind-whitney-houston-an.md)
 * [2026-06-21 - [Technology] It's not just about nudity warns actress - the complex reality of images and online abuse](./2026-06-21-Technology-it-s-not-just-about-nudity-warns-actress---the-com.md)
 * [2026-06-21 - [Arts] Jeremy Clarkson in remission from prostate cancer](./2026-06-21-Arts-jeremy-clarkson-in-remission-from-prostate-cancer.md)
 * [2026-06-20 - [Technology] Why an AI company cleaned my New York City apartment for free](./2026-06-20-Technology-why-an-ai-company-cleaned-my-new-york-city-apartme.md)
