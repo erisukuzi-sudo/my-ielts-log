@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-23 - [Science] Heat pump growth stalls as government support cut, warns climate watchdog](./2026-06-23-Science-heat-pump-growth-stalls-as-government-support-cut-.md)
+* [2026-06-23 - [Technology] Google's YouTube settles social media addiction case with teen](./2026-06-23-Technology-google-s-youtube-settles-social-media-addiction-ca.md)
+* [2026-06-19 - [Education] Five tips to keep your kids cool in a heatwave](./2026-06-19-Education-five-tips-to-keep-your-kids-cool-in-a-heatwave.md)
+* [2026-06-23 - [Arts] Ashley Cain says he's 'not proud' of sexist language](./2026-06-23-Arts-ashley-cain-says-he-s--not-proud--of-sexist-langua.md)
 * [2026-06-22 - [Science] Seabed damaged by fishing showing signs of recovery](./2026-06-22-Science-seabed-damaged-by-fishing-showing-signs-of-recover.md)
 * [2026-06-22 - [Technology] Millions of iCloud users could claim share of £3bn after Apple case given UK green light](./2026-06-22-Technology-millions-of-icloud-users-could-claim-share-of--3bn.md)
 * [2026-06-22 - [Arts] Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94](./2026-06-22-Arts-clive-davis--music-mogul-behind-whitney-houston-an.md)
