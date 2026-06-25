@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-24 - [Science] Hottest June day on record for the UK as temperature reaches 36C](./2026-06-24-Science-hottest-june-day-on-record-for-the-uk-as-temperatu.md)
+* [2026-06-24 - [Technology] GTA 6 will cost £70 - and physical edition will not contain a disc](./2026-06-24-Technology-gta-6-will-cost--70---and-physical-edition-will-no.md)
+* [2026-06-24 - [Arts] Michael Barrymore TikTok videos prompt concern over filming on smart glasses](./2026-06-24-Arts-michael-barrymore-tiktok-videos-prompt-concern-ove.md)
 * [2026-06-23 - [Science] Heat pump growth stalls as government support cut, warns climate watchdog](./2026-06-23-Science-heat-pump-growth-stalls-as-government-support-cut-.md)
 * [2026-06-23 - [Technology] Google's YouTube settles social media addiction case with teen](./2026-06-23-Technology-google-s-youtube-settles-social-media-addiction-ca.md)
 * [2026-06-19 - [Education] Five tips to keep your kids cool in a heatwave](./2026-06-19-Education-five-tips-to-keep-your-kids-cool-in-a-heatwave.md)
