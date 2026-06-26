@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-25 - [Science] In pictures: Britain swelters in record-breaking June heat](./2026-06-25-Science-in-pictures--britain-swelters-in-record-breaking-j.md)
+* [2026-06-25 - [Technology] Teens who hacked TfL were known to police years before cyber-attack](./2026-06-25-Technology-teens-who-hacked-tfl-were-known-to-police-years-be.md)
+* [2026-06-25 - [Education] Number of children getting special educational needs support hits another record high](./2026-06-25-Education-number-of-children-getting-special-educational-nee.md)
+* [2026-06-25 - [Arts] Woman recalls posing for Freud after £25m art sale](./2026-06-25-Arts-woman-recalls-posing-for-freud-after--25m-art-sale.md)
 * [2026-06-24 - [Science] Hottest June day on record for the UK as temperature reaches 36C](./2026-06-24-Science-hottest-june-day-on-record-for-the-uk-as-temperatu.md)
 * [2026-06-24 - [Technology] GTA 6 will cost £70 - and physical edition will not contain a disc](./2026-06-24-Technology-gta-6-will-cost--70---and-physical-edition-will-no.md)
 * [2026-06-24 - [Arts] Michael Barrymore TikTok videos prompt concern over filming on smart glasses](./2026-06-24-Arts-michael-barrymore-tiktok-videos-prompt-concern-ove.md)
