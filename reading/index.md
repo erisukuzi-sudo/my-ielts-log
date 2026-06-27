@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-26 - [Science] Future generations being failed if more trees not planted, experts say](./2026-06-26-Science-future-generations-being-failed-if-more-trees-not-.md)
+* [2026-06-26 - [Technology] Why GTA 6 will launch without a disc - and what it means for gamers](./2026-06-26-Technology-why-gta-6-will-launch-without-a-disc---and-what-it.md)
+* [2026-06-26 - [Arts] Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview](./2026-06-26-Arts-madonna-was--jealous-of-kylie----and-more-things-w.md)
 * [2026-06-25 - [Science] In pictures: Britain swelters in record-breaking June heat](./2026-06-25-Science-in-pictures--britain-swelters-in-record-breaking-j.md)
 * [2026-06-25 - [Technology] Teens who hacked TfL were known to police years before cyber-attack](./2026-06-25-Technology-teens-who-hacked-tfl-were-known-to-police-years-be.md)
 * [2026-06-25 - [Education] Number of children getting special educational needs support hits another record high](./2026-06-25-Education-number-of-children-getting-special-educational-nee.md)
