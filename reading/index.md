@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-27 - [Science] Could legal 'personhood' help save Lough Neagh?](./2026-06-27-Science-could-legal--personhood--help-save-lough-neagh-.md)
+* [2026-06-27 - [Technology] Tech firms are blaming AI for mega device and console price rises](./2026-06-27-Technology-tech-firms-are-blaming-ai-for-mega-device-and-cons.md)
+* [2026-06-27 - [Arts] Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview](./2026-06-27-Arts-madonna-was--jealous-of-kylie----and-more-things-w.md)
 * [2026-06-26 - [Science] Future generations being failed if more trees not planted, experts say](./2026-06-26-Science-future-generations-being-failed-if-more-trees-not-.md)
 * [2026-06-26 - [Technology] Why GTA 6 will launch without a disc - and what it means for gamers](./2026-06-26-Technology-why-gta-6-will-launch-without-a-disc---and-what-it.md)
 * [2026-06-26 - [Arts] Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview](./2026-06-26-Arts-madonna-was--jealous-of-kylie----and-more-things-w.md)
