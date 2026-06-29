@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-28 - [Science] Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C](./2026-06-28-Science-europe-s-heatwave-linked-to-1-300-deaths--who-says.md)
+* [2026-06-28 - [Arts] Bad Bunny: Latin star lights up London with history-making stadium show](./2026-06-28-Arts-bad-bunny--latin-star-lights-up-london-with-histor.md)
 * [2026-06-27 - [Science] Could legal 'personhood' help save Lough Neagh?](./2026-06-27-Science-could-legal--personhood--help-save-lough-neagh-.md)
 * [2026-06-27 - [Technology] Tech firms are blaming AI for mega device and console price rises](./2026-06-27-Technology-tech-firms-are-blaming-ai-for-mega-device-and-cons.md)
 * [2026-06-27 - [Arts] Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview](./2026-06-27-Arts-madonna-was--jealous-of-kylie----and-more-things-w.md)
