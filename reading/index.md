@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-29 - [Science] Drinks could go up in price by 50p under new return scheme, industry says](./2026-06-29-Science-drinks-could-go-up-in-price-by-50p-under-new-retur.md)
+* [2026-06-29 - [Technology] WhatsApp to let people chat without swapping phone numbers](./2026-06-29-Technology-whatsapp-to-let-people-chat-without-swapping-phone.md)
+* [2026-06-29 - [Education] White working-class children failed by education system, says inquiry](./2026-06-29-Education-white-working-class-children-failed-by-education-s.md)
+* [2026-06-29 - [Arts] Tributes paid to 'comic genius' Penelope Keith after her death aged 86](./2026-06-29-Arts-tributes-paid-to--comic-genius--penelope-keith-aft.md)
 * [2026-06-28 - [Science] Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C](./2026-06-28-Science-europe-s-heatwave-linked-to-1-300-deaths--who-says.md)
 * [2026-06-28 - [Arts] Bad Bunny: Latin star lights up London with history-making stadium show](./2026-06-28-Arts-bad-bunny--latin-star-lights-up-london-with-histor.md)
 * [2026-06-27 - [Science] Could legal 'personhood' help save Lough Neagh?](./2026-06-27-Science-could-legal--personhood--help-save-lough-neagh-.md)
