@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-06-30 - [Science] Dangerous heatwave to hit US ahead of holiday weekend](./2026-06-30-Science-dangerous-heatwave-to-hit-us-ahead-of-holiday-week.md)
+* [2026-06-30 - [Technology] E-scooters being advertised for commuting despite UK road ban](./2026-06-30-Technology-e-scooters-being-advertised-for-commuting-despite-.md)
+* [2026-06-30 - [Education] Pupil put in isolation booth for more than half a school year, BBC learns](./2026-06-30-Education-pupil-put-in-isolation-booth-for-more-than-half-a-.md)
+* [2026-06-30 - [Arts] Legally Blonde revival Elle - boring and tedious or a hot pink delight?](./2026-06-30-Arts-legally-blonde-revival-elle---boring-and-tedious-o.md)
 * [2026-06-29 - [Science] Drinks could go up in price by 50p under new return scheme, industry says](./2026-06-29-Science-drinks-could-go-up-in-price-by-50p-under-new-retur.md)
 * [2026-06-29 - [Technology] WhatsApp to let people chat without swapping phone numbers](./2026-06-29-Technology-whatsapp-to-let-people-chat-without-swapping-phone.md)
 * [2026-06-29 - [Education] White working-class children failed by education system, says inquiry](./2026-06-29-Education-white-working-class-children-failed-by-education-s.md)
