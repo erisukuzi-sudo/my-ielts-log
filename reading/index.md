@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-01 - [Science] England's warmest June on record following historic heatwave](./2026-07-01-Science-england-s-warmest-june-on-record-following-histori.md)
+* [2026-07-01 - [Technology] Don't expect trackers to save your stolen car, experts say](./2026-07-01-Technology-don-t-expect-trackers-to-save-your-stolen-car--exp.md)
+* [2026-07-01 - [Education] Teachers in England to get 3.5% pay rise](./2026-07-01-Education-teachers-in-england-to-get-3-5--pay-rise.md)
+* [2026-07-01 - [Arts] Village People frontman Victor Willis dies aged 74](./2026-07-01-Arts-village-people-frontman-victor-willis-dies-aged-74.md)
 * [2026-06-30 - [Science] Dangerous heatwave to hit US ahead of holiday weekend](./2026-06-30-Science-dangerous-heatwave-to-hit-us-ahead-of-holiday-week.md)
 * [2026-06-30 - [Technology] E-scooters being advertised for commuting despite UK road ban](./2026-06-30-Technology-e-scooters-being-advertised-for-commuting-despite-.md)
 * [2026-06-30 - [Education] Pupil put in isolation booth for more than half a school year, BBC learns](./2026-06-30-Education-pupil-put-in-isolation-booth-for-more-than-half-a-.md)
