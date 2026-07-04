@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-03 - [Science] Scientist dubbed The Bogfather is restoring peatland to fight climate change](./2026-07-03-Science-scientist-dubbed-the-bogfather-is-restoring-peatla.md)
+* [2026-07-03 - [Technology] Parents warned not to publicly share children’s images amid AI abuse risks](./2026-07-03-Technology-parents-warned-not-to-publicly-share-children-s-im.md)
 * [2026-07-02 - [Science] Could a heatwave hit Taylor Swift's wedding?](./2026-07-02-Science-could-a-heatwave-hit-taylor-swift-s-wedding-.md)
 * [2026-07-02 - [Technology] AI is 'not smart' so what's next in artificial intelligence?](./2026-07-02-Technology-ai-is--not-smart--so-what-s-next-in-artificial-int.md)
 * [2026-07-02 - [Education] Exam board sorry for delay to Sats results in England](./2026-07-02-Education-exam-board-sorry-for-delay-to-sats-results-in-engl.md)
