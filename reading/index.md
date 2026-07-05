@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-04 - [Science] New heatwave likely to peak at 34C with week-long health alert issued](./2026-07-04-Science-new-heatwave-likely-to-peak-at-34c-with-week-long-.md)
+* [2026-07-04 - [Education] The schools starting late after 01:00 England kick-off to 'reduce pressure' on parents](./2026-07-04-Education-the-schools-starting-late-after-01-00-england-kick.md)
+* [2026-07-04 - [Arts] What Sky buying ITV could mean for your favourite shows](./2026-07-04-Arts-what-sky-buying-itv-could-mean-for-your-favourite-.md)
 * [2026-07-03 - [Science] Scientist dubbed The Bogfather is restoring peatland to fight climate change](./2026-07-03-Science-scientist-dubbed-the-bogfather-is-restoring-peatla.md)
 * [2026-07-03 - [Technology] Parents warned not to publicly share children’s images amid AI abuse risks](./2026-07-03-Technology-parents-warned-not-to-publicly-share-children-s-im.md)
 * [2026-07-02 - [Science] Could a heatwave hit Taylor Swift's wedding?](./2026-07-02-Science-could-a-heatwave-hit-taylor-swift-s-wedding-.md)
