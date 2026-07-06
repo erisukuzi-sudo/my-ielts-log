@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-05 - [Science] Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts](./2026-07-05-Science-super-typhoon-bavi-makes-landfall-on-us-pacific-is.md)
+* [2026-07-05 - [Arts] From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding](./2026-07-05-Arts-from--a-beautiful-night--to--world-s-greatest-hang.md)
 * [2026-07-04 - [Science] New heatwave likely to peak at 34C with week-long health alert issued](./2026-07-04-Science-new-heatwave-likely-to-peak-at-34c-with-week-long-.md)
 * [2026-07-04 - [Education] The schools starting late after 01:00 England kick-off to 'reduce pressure' on parents](./2026-07-04-Education-the-schools-starting-late-after-01-00-england-kick.md)
 * [2026-07-04 - [Arts] What Sky buying ITV could mean for your favourite shows](./2026-07-04-Arts-what-sky-buying-itv-could-mean-for-your-favourite-.md)
