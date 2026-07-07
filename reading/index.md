@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-06 - [Science] Will this heatwave feel as hot and sticky as the last one?](./2026-07-06-Science-will-this-heatwave-feel-as-hot-and-sticky-as-the-l.md)
+* [2026-07-07 - [Technology] AI chip boom lifts Samsung profits by 1,800%](./2026-07-07-Technology-ai-chip-boom-lifts-samsung-profits-by-1-800-.md)
+* [2026-07-06 - [Education] Phone contract comparisons 'amounted to mis-selling' student loans, MPs say](./2026-07-06-Education-phone-contract-comparisons--amounted-to-mis-sellin.md)
+* [2026-07-06 - [Arts] Wolf Alice cover Nirvana at emotional homecoming show](./2026-07-06-Arts-wolf-alice-cover-nirvana-at-emotional-homecoming-s.md)
 * [2026-07-05 - [Science] Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts](./2026-07-05-Science-super-typhoon-bavi-makes-landfall-on-us-pacific-is.md)
 * [2026-07-05 - [Arts] From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding](./2026-07-05-Arts-from--a-beautiful-night--to--world-s-greatest-hang.md)
 * [2026-07-04 - [Science] New heatwave likely to peak at 34C with week-long health alert issued](./2026-07-04-Science-new-heatwave-likely-to-peak-at-34c-with-week-long-.md)
