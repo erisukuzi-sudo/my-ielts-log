@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-07 - [Science] 'Extreme' marine heatwave expected for parts of UK](./2026-07-07-Science--extreme--marine-heatwave-expected-for-parts-of-uk.md)
+* [2026-07-06 - [Technology] Robots available for rent: But what can they do?](./2026-07-06-Technology-robots-available-for-rent--but-what-can-they-do-.md)
+* [2026-07-07 - [Arts] BTS take credit for England football win in first UK show since 2019](./2026-07-07-Arts-bts-take-credit-for-england-football-win-in-first-.md)
 * [2026-07-06 - [Science] Will this heatwave feel as hot and sticky as the last one?](./2026-07-06-Science-will-this-heatwave-feel-as-hot-and-sticky-as-the-l.md)
 * [2026-07-07 - [Technology] AI chip boom lifts Samsung profits by 1,800%](./2026-07-07-Technology-ai-chip-boom-lifts-samsung-profits-by-1-800-.md)
 * [2026-07-06 - [Education] Phone contract comparisons 'amounted to mis-selling' student loans, MPs say](./2026-07-06-Education-phone-contract-comparisons--amounted-to-mis-sellin.md)
