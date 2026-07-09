@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-08 - [Science] UK heatwave spreads further north and west as temperatures continue to climb](./2026-07-08-Science-uk-heatwave-spreads-further-north-and-west-as-temp.md)
+* [2026-07-08 - [Technology] Wealthy AI workers send San Francisco house prices soaring](./2026-07-08-Technology-wealthy-ai-workers-send-san-francisco-house-prices.md)
+* [2026-07-08 - [Education] Online marketplaces still selling dozens of unsafe baby products, Which? finds](./2026-07-08-Education-online-marketplaces-still-selling-dozens-of-unsafe.md)
+* [2026-07-08 - [Arts] Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show](./2026-07-08-Arts-justin-bieber-joins-madonna--shakira-and-bts-for-f.md)
 * [2026-07-07 - [Science] 'Extreme' marine heatwave expected for parts of UK](./2026-07-07-Science--extreme--marine-heatwave-expected-for-parts-of-uk.md)
 * [2026-07-06 - [Technology] Robots available for rent: But what can they do?](./2026-07-06-Technology-robots-available-for-rent--but-what-can-they-do-.md)
 * [2026-07-07 - [Arts] BTS take credit for England football win in first UK show since 2019](./2026-07-07-Arts-bts-take-credit-for-england-football-win-in-first-.md)
