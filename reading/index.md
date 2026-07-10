@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-09 - [Science] UK bakes in 35C highs as heatwave to continue next week](./2026-07-09-Science-uk-bakes-in-35c-highs-as-heatwave-to-continue-next.md)
+* [2026-07-09 - [Technology] Pressure builds on Europe's biggest port to be greener](./2026-07-09-Technology-pressure-builds-on-europe-s-biggest-port-to-be-gre.md)
+* [2026-07-09 - [Education] School suspensions fall in England for the first time since Covid](./2026-07-09-Education-school-suspensions-fall-in-england-for-the-first-t.md)
+* [2026-07-09 - [Arts] 'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler ](./2026-07-09-Arts--heartbroken--catherine-zeta-jones-leads-tributes-.md)
 * [2026-07-08 - [Science] UK heatwave spreads further north and west as temperatures continue to climb](./2026-07-08-Science-uk-heatwave-spreads-further-north-and-west-as-temp.md)
 * [2026-07-08 - [Technology] Wealthy AI workers send San Francisco house prices soaring](./2026-07-08-Technology-wealthy-ai-workers-send-san-francisco-house-prices.md)
 * [2026-07-08 - [Education] Online marketplaces still selling dozens of unsafe baby products, Which? finds](./2026-07-08-Education-online-marketplaces-still-selling-dozens-of-unsafe.md)
