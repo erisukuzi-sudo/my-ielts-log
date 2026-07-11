@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-10 - [Science] New dinosaur species with neck as long as cricket pitch discovered in Thailand](./2026-07-10-Science-new-dinosaur-species-with-neck-as-long-as-cricket-.md)
+* [2026-07-10 - [Technology] Apple sues OpenAI, its employees claiming theft of trade secrets](./2026-07-10-Technology-apple-sues-openai--its-employees-claiming-theft-of.md)
+* [2026-07-10 - [Arts] Sam Fender and Olivia Dean make UK chart history with Rein Me In](./2026-07-10-Arts-sam-fender-and-olivia-dean-make-uk-chart-history-w.md)
 * [2026-07-09 - [Science] UK bakes in 35C highs as heatwave to continue next week](./2026-07-09-Science-uk-bakes-in-35c-highs-as-heatwave-to-continue-next.md)
 * [2026-07-09 - [Technology] Pressure builds on Europe's biggest port to be greener](./2026-07-09-Technology-pressure-builds-on-europe-s-biggest-port-to-be-gre.md)
 * [2026-07-09 - [Education] School suspensions fall in England for the first time since Covid](./2026-07-09-Education-school-suspensions-fall-in-england-for-the-first-t.md)
