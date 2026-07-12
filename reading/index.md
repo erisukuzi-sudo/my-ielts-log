@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-11 - [Science] T. rex could become most expensive fossil ever - but it's a ​problem for scientists](./2026-07-11-Science-t--rex-could-become-most-expensive-fossil-ever---b.md)
+* [2026-07-11 - [Technology] Meta pulls new AI image feature after days of backlash](./2026-07-11-Technology-meta-pulls-new-ai-image-feature-after-days-of-back.md)
+* [2026-07-11 - [Arts] Tributes paid to TV presenter Dermot Murnaghan](./2026-07-11-Arts-tributes-paid-to-tv-presenter-dermot-murnaghan.md)
 * [2026-07-10 - [Science] New dinosaur species with neck as long as cricket pitch discovered in Thailand](./2026-07-10-Science-new-dinosaur-species-with-neck-as-long-as-cricket-.md)
 * [2026-07-10 - [Technology] Apple sues OpenAI, its employees claiming theft of trade secrets](./2026-07-10-Technology-apple-sues-openai--its-employees-claiming-theft-of.md)
 * [2026-07-10 - [Arts] Sam Fender and Olivia Dean make UK chart history with Rein Me In](./2026-07-10-Arts-sam-fender-and-olivia-dean-make-uk-chart-history-w.md)
