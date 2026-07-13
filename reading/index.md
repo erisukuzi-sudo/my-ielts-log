@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-13 - [Science] Wildfire raging south of Paris could have been set deliberately, says minister](./2026-07-13-Science-wildfire-raging-south-of-paris-could-have-been-set.md)
+* [2026-07-13 - [Technology] Is tracking your food purchases good for your health?](./2026-07-13-Technology-is-tracking-your-food-purchases-good-for-your-heal.md)
+* [2026-07-13 - [Arts] Sam Neill: A versatile actor whose roles went far beyond Jurassic Park](./2026-07-13-Arts-sam-neill--a-versatile-actor-whose-roles-went-far-.md)
 * [2026-07-12 - [Science] China evacuates nearly two million people as powerful typhoon makes landfall](./2026-07-12-Science-china-evacuates-nearly-two-million-people-as-power.md)
 * [2026-07-12 - [Arts] Andrew Flintoff's Top Gear crash passenger sues BBC Studios](./2026-07-12-Arts-andrew-flintoff-s-top-gear-crash-passenger-sues-bb.md)
 * [2026-07-11 - [Science] T. rex could become most expensive fossil ever - but it's a ​problem for scientists](./2026-07-11-Science-t--rex-could-become-most-expensive-fossil-ever---b.md)
