@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-12 - [Science] China evacuates nearly two million people as powerful typhoon makes landfall](./2026-07-12-Science-china-evacuates-nearly-two-million-people-as-power.md)
+* [2026-07-12 - [Arts] Andrew Flintoff's Top Gear crash passenger sues BBC Studios](./2026-07-12-Arts-andrew-flintoff-s-top-gear-crash-passenger-sues-bb.md)
 * [2026-07-11 - [Science] T. rex could become most expensive fossil ever - but it's a ​problem for scientists](./2026-07-11-Science-t--rex-could-become-most-expensive-fossil-ever---b.md)
 * [2026-07-11 - [Technology] Meta pulls new AI image feature after days of backlash](./2026-07-11-Technology-meta-pulls-new-ai-image-feature-after-days-of-back.md)
 * [2026-07-11 - [Arts] Tributes paid to TV presenter Dermot Murnaghan](./2026-07-11-Arts-tributes-paid-to-tv-presenter-dermot-murnaghan.md)
