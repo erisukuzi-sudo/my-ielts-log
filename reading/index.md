@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-14 - [Science] After record heat, could the Atlantic make Britain's weather even more extreme?](./2026-07-14-Science-after-record-heat--could-the-atlantic-make-britain.md)
+* [2026-07-14 - [Technology] Midnight social media curfew proposed for older UK teens](./2026-07-14-Technology-midnight-social-media-curfew-proposed-for-older-uk.md)
+* [2026-07-14 - [Education] Midnight social media curfew proposed for older UK teens](./2026-07-14-Education-midnight-social-media-curfew-proposed-for-older-uk.md)
+* [2026-07-14 - [Arts] Scott Mills was highest-paid BBC star before sacking](./2026-07-14-Arts-scott-mills-was-highest-paid-bbc-star-before-sacki.md)
 * [2026-07-13 - [Science] Wildfire raging south of Paris could have been set deliberately, says minister](./2026-07-13-Science-wildfire-raging-south-of-paris-could-have-been-set.md)
 * [2026-07-13 - [Technology] Is tracking your food purchases good for your health?](./2026-07-13-Technology-is-tracking-your-food-purchases-good-for-your-heal.md)
 * [2026-07-13 - [Arts] Sam Neill: A versatile actor whose roles went far beyond Jurassic Park](./2026-07-13-Arts-sam-neill--a-versatile-actor-whose-roles-went-far-.md)
