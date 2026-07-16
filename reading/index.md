@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-15 - [Science] New monkey species with orange lips found 'hiding' in DRC forest](./2026-07-15-Science-new-monkey-species-with-orange-lips-found--hiding-.md)
+* [2026-07-15 - [Technology] SpaceX share price drops below stock market debut](./2026-07-15-Technology-spacex-share-price-drops-below-stock-market-debut.md)
+* [2026-07-14 - [Education] Free school meal pupils falling further behind their peers, report warns](./2026-07-14-Education-free-school-meal-pupils-falling-further-behind-the.md)
+* [2026-07-15 - [Arts] The Odyssey is a 'colossal piece of cinema', critics say in rave reviews](./2026-07-15-Arts-the-odyssey-is-a--colossal-piece-of-cinema---criti.md)
 * [2026-07-14 - [Science] After record heat, could the Atlantic make Britain's weather even more extreme?](./2026-07-14-Science-after-record-heat--could-the-atlantic-make-britain.md)
 * [2026-07-14 - [Technology] Midnight social media curfew proposed for older UK teens](./2026-07-14-Technology-midnight-social-media-curfew-proposed-for-older-uk.md)
 * [2026-07-14 - [Education] Midnight social media curfew proposed for older UK teens](./2026-07-14-Education-midnight-social-media-curfew-proposed-for-older-uk.md)
