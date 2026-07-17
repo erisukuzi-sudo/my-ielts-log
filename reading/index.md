@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-16 - [Science] UK heatwave approaches two-week mark](./2026-07-16-Science-uk-heatwave-approaches-two-week-mark.md)
+* [2026-07-16 - [Technology] Trump Media to sell early access to key social posts](./2026-07-16-Technology-trump-media-to-sell-early-access-to-key-social-pos.md)
+* [2026-07-16 - [Arts] Claudia Winkleman quits chat show after one series](./2026-07-16-Arts-claudia-winkleman-quits-chat-show-after-one-series.md)
 * [2026-07-15 - [Science] New monkey species with orange lips found 'hiding' in DRC forest](./2026-07-15-Science-new-monkey-species-with-orange-lips-found--hiding-.md)
 * [2026-07-15 - [Technology] SpaceX share price drops below stock market debut](./2026-07-15-Technology-spacex-share-price-drops-below-stock-market-debut.md)
 * [2026-07-14 - [Education] Free school meal pupils falling further behind their peers, report warns](./2026-07-14-Education-free-school-meal-pupils-falling-further-behind-the.md)
