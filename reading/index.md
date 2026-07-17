@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-17 - [Science] What this desert city can teach the world about tackling heat deaths](./2026-07-17-Science-what-this-desert-city-can-teach-the-world-about-ta.md)
+* [2026-07-17 - [Technology] China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic](./2026-07-17-Technology-china-s-moonshot-ai-claims-kimi-k3-can-rival-opena.md)
+* [2026-07-17 - [Arts] 16 World Cup viral moments - from Haaland's bromance to Posh Spice's no-nonsense](./2026-07-17-Arts-16-world-cup-viral-moments---from-haaland-s-broman.md)
 * [2026-07-16 - [Science] UK heatwave approaches two-week mark](./2026-07-16-Science-uk-heatwave-approaches-two-week-mark.md)
 * [2026-07-16 - [Technology] Trump Media to sell early access to key social posts](./2026-07-16-Technology-trump-media-to-sell-early-access-to-key-social-pos.md)
 * [2026-07-16 - [Arts] Claudia Winkleman quits chat show after one series](./2026-07-16-Arts-claudia-winkleman-quits-chat-show-after-one-series.md)
