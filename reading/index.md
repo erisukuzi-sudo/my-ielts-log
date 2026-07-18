@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-18 - [Science] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities](./2026-07-18-Science-trump-threatens-new-canada-tariffs-over-fires-send.md)
+* [2026-07-18 - [Arts] Gracie Abrams captures pain of early adulthood in new album - but you're left wanting more](./2026-07-18-Arts-gracie-abrams-captures-pain-of-early-adulthood-in-.md)
 * [2026-07-17 - [Science] What this desert city can teach the world about tackling heat deaths](./2026-07-17-Science-what-this-desert-city-can-teach-the-world-about-ta.md)
 * [2026-07-17 - [Technology] China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic](./2026-07-17-Technology-china-s-moonshot-ai-claims-kimi-k3-can-rival-opena.md)
 * [2026-07-17 - [Arts] 16 World Cup viral moments - from Haaland's bromance to Posh Spice's no-nonsense](./2026-07-17-Arts-16-world-cup-viral-moments---from-haaland-s-broman.md)
