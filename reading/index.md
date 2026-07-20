@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-19 - [Science] Is Burnham promising a new dawn for North Sea oil and gas?](./2026-07-19-Science-is-burnham-promising-a-new-dawn-for-north-sea-oil-.md)
+* [2026-07-19 - [Arts] Bruno Mars has an unexpected opening before Wembley party starts](./2026-07-19-Arts-bruno-mars-has-an-unexpected-opening-before-wemble.md)
 * [2026-07-18 - [Science] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities](./2026-07-18-Science-trump-threatens-new-canada-tariffs-over-fires-send.md)
 * [2026-07-18 - [Arts] Gracie Abrams captures pain of early adulthood in new album - but you're left wanting more](./2026-07-18-Arts-gracie-abrams-captures-pain-of-early-adulthood-in-.md)
 * [2026-07-17 - [Science] What this desert city can teach the world about tackling heat deaths](./2026-07-17-Science-what-this-desert-city-can-teach-the-world-about-ta.md)
