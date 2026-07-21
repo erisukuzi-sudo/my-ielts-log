@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-21 - [Science] Bumblebees are struggling in UK heatwaves - but you can help them](./2026-07-21-Science-bumblebees-are-struggling-in-uk-heatwaves---but-yo.md)
+* [2026-07-20 - [Technology] Craft and keyboard: The trainees mastering tech and age-old skills](./2026-07-20-Technology-craft-and-keyboard--the-trainees-mastering-tech-an.md)
+* [2026-07-20 - [Arts] Ofcom launches investigation into Married at First Sight UK](./2026-07-20-Arts-ofcom-launches-investigation-into-married-at-first.md)
 * [2026-07-19 - [Science] Is Burnham promising a new dawn for North Sea oil and gas?](./2026-07-19-Science-is-burnham-promising-a-new-dawn-for-north-sea-oil-.md)
 * [2026-07-19 - [Arts] Bruno Mars has an unexpected opening before Wembley party starts](./2026-07-19-Arts-bruno-mars-has-an-unexpected-opening-before-wemble.md)
 * [2026-07-18 - [Science] Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities](./2026-07-18-Science-trump-threatens-new-canada-tariffs-over-fires-send.md)
