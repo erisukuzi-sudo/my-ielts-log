@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-21 - [Science] Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'](./2026-07-21-Science-tokyo-urges-men-to-wear-shorts-to-work--but-women-.md)
+* [2026-07-21 - [Technology] Will AI help you do your job or replace you?](./2026-07-21-Technology-will-ai-help-you-do-your-job-or-replace-you-.md)
+* [2026-07-21 - [Arts] Godzilla vs Kong actress Kaylee Hottle dies in crash at 18](./2026-07-21-Arts-godzilla-vs-kong-actress-kaylee-hottle-dies-in-cra.md)
 * [2026-07-21 - [Science] Bumblebees are struggling in UK heatwaves - but you can help them](./2026-07-21-Science-bumblebees-are-struggling-in-uk-heatwaves---but-yo.md)
 * [2026-07-20 - [Technology] Craft and keyboard: The trainees mastering tech and age-old skills](./2026-07-20-Technology-craft-and-keyboard--the-trainees-mastering-tech-an.md)
 * [2026-07-20 - [Arts] Ofcom launches investigation into Married at First Sight UK](./2026-07-20-Arts-ofcom-launches-investigation-into-married-at-first.md)
