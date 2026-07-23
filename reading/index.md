@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-22 - [Science] Most sewage spills in England may be illegal, new research suggests](./2026-07-22-Science-most-sewage-spills-in-england-may-be-illegal--new-.md)
+* [2026-07-22 - [Technology] Google burning through cash with spiralling AI costs](./2026-07-22-Technology-google-burning-through-cash-with-spiralling-ai-cos.md)
+* [2026-07-22 - [Arts] The Odyssey film fans inspired to go back to the source](./2026-07-22-Arts-the-odyssey-film-fans-inspired-to-go-back-to-the-s.md)
 * [2026-07-21 - [Science] Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'](./2026-07-21-Science-tokyo-urges-men-to-wear-shorts-to-work--but-women-.md)
 * [2026-07-21 - [Technology] Will AI help you do your job or replace you?](./2026-07-21-Technology-will-ai-help-you-do-your-job-or-replace-you-.md)
 * [2026-07-21 - [Arts] Godzilla vs Kong actress Kaylee Hottle dies in crash at 18](./2026-07-21-Arts-godzilla-vs-kong-actress-kaylee-hottle-dies-in-cra.md)
