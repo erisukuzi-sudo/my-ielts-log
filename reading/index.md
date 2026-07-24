@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-23 - [Science] Scientists find building blocks of birdsong's 'spectacular diversity'](./2026-07-23-Science-scientists-find-building-blocks-of-birdsong-s--spe.md)
+* [2026-07-23 - [Technology] Google fined €890m by EU for favouring its own apps over rivals](./2026-07-23-Technology-google-fined--890m-by-eu-for-favouring-its-own-app.md)
+* [2026-07-23 - [Arts] Actress Jaime Winstone joins Strictly line-up](./2026-07-23-Arts-actress-jaime-winstone-joins-strictly-line-up.md)
 * [2026-07-22 - [Science] Most sewage spills in England may be illegal, new research suggests](./2026-07-22-Science-most-sewage-spills-in-england-may-be-illegal--new-.md)
 * [2026-07-22 - [Technology] Google burning through cash with spiralling AI costs](./2026-07-22-Technology-google-burning-through-cash-with-spiralling-ai-cos.md)
 * [2026-07-22 - [Arts] The Odyssey film fans inspired to go back to the source](./2026-07-22-Arts-the-odyssey-film-fans-inspired-to-go-back-to-the-s.md)
