@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-24 - [Science] Are BuzzBallz actually recyclable?](./2026-07-24-Science-are-buzzballz-actually-recyclable-.md)
+* [2026-07-24 - [Technology] Warning shot or publicity stunt - how worried should we be about the OpenAI hack?](./2026-07-24-Technology-warning-shot-or-publicity-stunt---how-worried-shou.md)
+* [2026-07-24 - [Arts] Claudia Winkleman's chat show ended after one series - can anyone replace Graham Norton?](./2026-07-24-Arts-claudia-winkleman-s-chat-show-ended-after-one-seri.md)
 * [2026-07-23 - [Science] Scientists find building blocks of birdsong's 'spectacular diversity'](./2026-07-23-Science-scientists-find-building-blocks-of-birdsong-s--spe.md)
 * [2026-07-23 - [Technology] Google fined €890m by EU for favouring its own apps over rivals](./2026-07-23-Technology-google-fined--890m-by-eu-for-favouring-its-own-app.md)
 * [2026-07-23 - [Arts] Actress Jaime Winstone joins Strictly line-up](./2026-07-23-Arts-actress-jaime-winstone-joins-strictly-line-up.md)
