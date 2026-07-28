@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-27 - [Science] The prehistoric species fighting for survival in Lough Neagh](./2026-07-27-Science-the-prehistoric-species-fighting-for-survival-in-l.md)
+* [2026-07-27 - [Technology] Is it time to stop using glue and labels on paper?](./2026-07-27-Technology-is-it-time-to-stop-using-glue-and-labels-on-paper-.md)
+* [2026-07-27 - [Education] New technical education routes to be offered at 14 in England](./2026-07-27-Education-new-technical-education-routes-to-be-offered-at-14.md)
+* [2026-07-27 - [Arts] Love Island UK crowns winners of twist-filled series](./2026-07-27-Arts-love-island-uk-crowns-winners-of-twist-filled-seri.md)
 * [2026-07-26 - [Science] Firefighters battle wildfire as tens of thousands evacuated near Bordeaux](./2026-07-26-Science-firefighters-battle-wildfire-as-tens-of-thousands-.md)
 * [2026-07-26 - [Arts] Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider](./2026-07-26-Arts-ryan-gosling-to-join-marvel-cinematic-universe-as-.md)
 * [2026-07-26 - [Science] How to see July's full Buck Moon as it rises in the night sky](./2026-07-26-Science-how-to-see-july-s-full-buck-moon-as-it-rises-in-th.md)
