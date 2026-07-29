@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-28 - [Science] Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry](./2026-07-28-Science-mysterious-deaths-of-14-elephants-in-kenya-prompts.md)
+* [2026-07-28 - [Technology] Brits urged to avoid dangerous plug adaptors this summer - what to watch out for](./2026-07-28-Technology-brits-urged-to-avoid-dangerous-plug-adaptors-this-.md)
+* [2026-07-28 - [Education] Schools to offer technical subjects to pupils from age 14 in England, Burnham says](./2026-07-28-Education-schools-to-offer-technical-subjects-to-pupils-from.md)
+* [2026-07-28 - [Arts] Naga Munchetty to leave BBC Breakfast after 17 years](./2026-07-28-Arts-naga-munchetty-to-leave-bbc-breakfast-after-17-yea.md)
 * [2026-07-27 - [Science] The prehistoric species fighting for survival in Lough Neagh](./2026-07-27-Science-the-prehistoric-species-fighting-for-survival-in-l.md)
 * [2026-07-27 - [Technology] Is it time to stop using glue and labels on paper?](./2026-07-27-Technology-is-it-time-to-stop-using-glue-and-labels-on-paper-.md)
 * [2026-07-27 - [Education] New technical education routes to be offered at 14 in England](./2026-07-27-Education-new-technical-education-routes-to-be-offered-at-14.md)
