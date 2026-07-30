@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-29 - [Science] Can a heatwave cause trees to fall?](./2026-07-29-Science-can-a-heatwave-cause-trees-to-fall-.md)
+* [2026-07-29 - [Technology] Meta shares fall as frustration grows over AI spending plans](./2026-07-29-Technology-meta-shares-fall-as-frustration-grows-over-ai-spen.md)
+* [2026-07-29 - [Education] Cyber-attackers take 607,000 records from Department for Education](./2026-07-29-Education-cyber-attackers-take-607-000-records-from-departme.md)
+* [2026-07-29 - [Arts] Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’](./2026-07-29-Arts-zendaya-on-working-with-tom-holland-in-spider-man-.md)
 * [2026-07-28 - [Science] Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry](./2026-07-28-Science-mysterious-deaths-of-14-elephants-in-kenya-prompts.md)
 * [2026-07-28 - [Technology] Brits urged to avoid dangerous plug adaptors this summer - what to watch out for](./2026-07-28-Technology-brits-urged-to-avoid-dangerous-plug-adaptors-this-.md)
 * [2026-07-28 - [Education] Schools to offer technical subjects to pupils from age 14 in England, Burnham says](./2026-07-28-Education-schools-to-offer-technical-subjects-to-pupils-from.md)
