@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-30 - [Science] India wants to join the strawberry superpowers](./2026-07-30-Science-india-wants-to-join-the-strawberry-superpowers.md)
+* [2026-07-31 - [Technology] Anthropic says AI models hacked three firms during tests](./2026-07-31-Technology-anthropic-says-ai-models-hacked-three-firms-during.md)
+* [2026-07-30 - [Arts] Olivia Dean nominated and  Lily Allen missing from Mercury Prize list](./2026-07-30-Arts-olivia-dean-nominated-and--lily-allen-missing-from.md)
 * [2026-07-29 - [Science] Can a heatwave cause trees to fall?](./2026-07-29-Science-can-a-heatwave-cause-trees-to-fall-.md)
 * [2026-07-29 - [Technology] Meta shares fall as frustration grows over AI spending plans](./2026-07-29-Technology-meta-shares-fall-as-frustration-grows-over-ai-spen.md)
 * [2026-07-29 - [Education] Cyber-attackers take 607,000 records from Department for Education](./2026-07-29-Education-cyber-attackers-take-607-000-records-from-departme.md)
