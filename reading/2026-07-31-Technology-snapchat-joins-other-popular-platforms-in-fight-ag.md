@@ -1,0 +1,12 @@
+---
+title: "Snapchat joins other popular platforms in fight against 'AI slop'"
+date: 2026-07-31
+category: Technology
+---
+# Snapchat joins other popular platforms in fight against 'AI slop'
+
+**Category:** Technology
+
+[Original Article](https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss)
+
+Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.

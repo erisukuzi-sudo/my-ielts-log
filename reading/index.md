@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-07-31 - [Science] Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed](./2026-07-31-Science-scientist-s-lifelong-obsession-with-mystery-of-elu.md)
+* [2026-07-31 - [Technology] Snapchat joins other popular platforms in fight against 'AI slop'](./2026-07-31-Technology-snapchat-joins-other-popular-platforms-in-fight-ag.md)
+* [2026-07-31 - [Arts] How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record](./2026-07-31-Arts-how-sam-fender-and-olivia-dean-s-rein-me-in-broke-.md)
 * [2026-07-30 - [Science] India wants to join the strawberry superpowers](./2026-07-30-Science-india-wants-to-join-the-strawberry-superpowers.md)
 * [2026-07-31 - [Technology] Anthropic says AI models hacked three firms during tests](./2026-07-31-Technology-anthropic-says-ai-models-hacked-three-firms-during.md)
 * [2026-07-30 - [Arts] Olivia Dean nominated and  Lily Allen missing from Mercury Prize list](./2026-07-30-Arts-olivia-dean-nominated-and--lily-allen-missing-from.md)
