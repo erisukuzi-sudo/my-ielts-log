@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-01 - [Science] Italy putting nearly all major cities on highest heat alert](./2026-08-01-Science-italy-putting-nearly-all-major-cities-on-highest-h.md)
+* [2026-08-01 - [Education] Cambridge professor at centre of plagiarism row defends his work](./2026-08-01-Education-cambridge-professor-at-centre-of-plagiarism-row-de.md)
+* [2026-08-01 - [Arts] Spider-Man fans hail Brand New Day as Holland's best yet](./2026-08-01-Arts-spider-man-fans-hail-brand-new-day-as-holland-s-be.md)
 * [2026-07-31 - [Science] Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed](./2026-07-31-Science-scientist-s-lifelong-obsession-with-mystery-of-elu.md)
 * [2026-07-31 - [Technology] Snapchat joins other popular platforms in fight against 'AI slop'](./2026-07-31-Technology-snapchat-joins-other-popular-platforms-in-fight-ag.md)
 * [2026-07-31 - [Arts] How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record](./2026-07-31-Arts-how-sam-fender-and-olivia-dean-s-rein-me-in-broke-.md)
