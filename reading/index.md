@@ -1,6 +1,7 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-02 - [Arts] Ariana Grande to take a break from public life amid 'endless' scrutiny  ](./2026-08-02-Arts-ariana-grande-to-take-a-break-from-public-life-ami.md)
 * [2026-08-01 - [Science] Italy putting nearly all major cities on highest heat alert](./2026-08-01-Science-italy-putting-nearly-all-major-cities-on-highest-h.md)
 * [2026-08-01 - [Education] Cambridge professor at centre of plagiarism row defends his work](./2026-08-01-Education-cambridge-professor-at-centre-of-plagiarism-row-de.md)
 * [2026-08-01 - [Arts] Spider-Man fans hail Brand New Day as Holland's best yet](./2026-08-01-Arts-spider-man-fans-hail-brand-new-day-as-holland-s-be.md)
