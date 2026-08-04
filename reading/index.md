@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-03 - [Science] What heatwaves mean for summer weddings – and how to plan for one](./2026-08-03-Science-what-heatwaves-mean-for-summer-weddings---and-how-.md)
+* [2026-08-03 - [Technology] Tokenomics: Why making AI pay is tricky](./2026-08-03-Technology-tokenomics--why-making-ai-pay-is-tricky.md)
+* [2026-08-03 - [Education] How parents and pupils took on 'cruel', 'authoritarian' schools - and won](./2026-08-03-Education-how-parents-and-pupils-took-on--cruel----authorita.md)
+* [2026-08-03 - [Arts] Ariana Grande to take a break from public life amid 'endless' scrutiny  ](./2026-08-03-Arts-ariana-grande-to-take-a-break-from-public-life-ami.md)
 * [2026-08-02 - [Arts] Ariana Grande to take a break from public life amid 'endless' scrutiny  ](./2026-08-02-Arts-ariana-grande-to-take-a-break-from-public-life-ami.md)
 * [2026-08-01 - [Science] Italy putting nearly all major cities on highest heat alert](./2026-08-01-Science-italy-putting-nearly-all-major-cities-on-highest-h.md)
 * [2026-08-01 - [Education] Cambridge professor at centre of plagiarism row defends his work](./2026-08-01-Education-cambridge-professor-at-centre-of-plagiarism-row-de.md)
