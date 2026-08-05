@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-04 - [Science] Mysterious elephant deaths in Kenya raise questions around pesticides ](./2026-08-04-Science-mysterious-elephant-deaths-in-kenya-raise-question.md)
+* [2026-08-05 - [Technology] AI used new levels of 'autonomy and deception' to trick people in safety test](./2026-08-05-Technology-ai-used-new-levels-of--autonomy-and-deception--to-.md)
+* [2026-08-03 - [Arts] Ariana Grande has had enough of body comments, but 'scrutiny' will linger](./2026-08-03-Arts-ariana-grande-has-had-enough-of-body-comments--but.md)
 * [2026-08-03 - [Science] What heatwaves mean for summer weddings – and how to plan for one](./2026-08-03-Science-what-heatwaves-mean-for-summer-weddings---and-how-.md)
 * [2026-08-03 - [Technology] Tokenomics: Why making AI pay is tricky](./2026-08-03-Technology-tokenomics--why-making-ai-pay-is-tricky.md)
 * [2026-08-03 - [Education] How parents and pupils took on 'cruel', 'authoritarian' schools - and won](./2026-08-03-Education-how-parents-and-pupils-took-on--cruel----authorita.md)
