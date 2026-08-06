@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-05 - [Science] Marmots facing money troubles turn to OnlyFans](./2026-08-05-Science-marmots-facing-money-troubles-turn-to-onlyfans.md)
+* [2026-08-05 - [Technology] AI or real? BBC analyses viral China disaster videos](./2026-08-05-Technology-ai-or-real--bbc-analyses-viral-china-disaster-vide.md)
+* [2026-08-05 - [Education] Student loan repayment rates an 'unsustainable burden', chancellor told](./2026-08-05-Education-student-loan-repayment-rates-an--unsustainable-bur.md)
+* [2026-08-05 - [Arts] Perez Hilton recovering in hospital after reports he self-harmed during livestream](./2026-08-05-Arts-perez-hilton-recovering-in-hospital-after-reports-.md)
 * [2026-08-04 - [Science] Mysterious elephant deaths in Kenya raise questions around pesticides ](./2026-08-04-Science-mysterious-elephant-deaths-in-kenya-raise-question.md)
 * [2026-08-05 - [Technology] AI used new levels of 'autonomy and deception' to trick people in safety test](./2026-08-05-Technology-ai-used-new-levels-of--autonomy-and-deception--to-.md)
 * [2026-08-03 - [Arts] Ariana Grande has had enough of body comments, but 'scrutiny' will linger](./2026-08-03-Arts-ariana-grande-has-had-enough-of-body-comments--but.md)
