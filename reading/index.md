@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-06 - [Science] Where is Jackie? Beloved live cam eagle in critical condition](./2026-08-06-Science-where-is-jackie--beloved-live-cam-eagle-in-critica.md)
+* [2026-08-07 - [Technology] Meta fined $567m in largest child safety ruling against social media giant](./2026-08-07-Technology-meta-fined--567m-in-largest-child-safety-ruling-ag.md)
+* [2026-08-06 - [Education] All schools in England to get pupil attendance targets, government says](./2026-08-06-Education-all-schools-in-england-to-get-pupil-attendance-tar.md)
+* [2026-08-06 - [Arts] Lauryn Hill and Wyclef ‘in an amazing place’ as fans hope for new Fugees album after 30 years](./2026-08-06-Arts-lauryn-hill-and-wyclef--in-an-amazing-place--as-fa.md)
 * [2026-08-05 - [Science] Marmots facing money troubles turn to OnlyFans](./2026-08-05-Science-marmots-facing-money-troubles-turn-to-onlyfans.md)
 * [2026-08-05 - [Technology] AI or real? BBC analyses viral China disaster videos](./2026-08-05-Technology-ai-or-real--bbc-analyses-viral-china-disaster-vide.md)
 * [2026-08-05 - [Education] Student loan repayment rates an 'unsustainable burden', chancellor told](./2026-08-05-Education-student-loan-repayment-rates-an--unsustainable-bur.md)
