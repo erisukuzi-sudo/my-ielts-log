@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-07 - [Science] Hosepipe bans in force as drought declared - is your area affected?](./2026-08-07-Science-hosepipe-bans-in-force-as-drought-declared---is-yo.md)
+* [2026-08-07 - [Education] Cambridge to review process for hiring senior academics after Jason Arday resignation](./2026-08-07-Education-cambridge-to-review-process-for-hiring-senior-acad.md)
+* [2026-08-07 - [Arts] Madonna and Blur producer William Orbit dies aged 69](./2026-08-07-Arts-madonna-and-blur-producer-william-orbit-dies-aged-.md)
 * [2026-08-06 - [Science] Where is Jackie? Beloved live cam eagle in critical condition](./2026-08-06-Science-where-is-jackie--beloved-live-cam-eagle-in-critica.md)
 * [2026-08-07 - [Technology] Meta fined $567m in largest child safety ruling against social media giant](./2026-08-07-Technology-meta-fined--567m-in-largest-child-safety-ruling-ag.md)
 * [2026-08-06 - [Education] All schools in England to get pupil attendance targets, government says](./2026-08-06-Education-all-schools-in-england-to-get-pupil-attendance-tar.md)
