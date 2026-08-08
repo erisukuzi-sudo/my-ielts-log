@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-08 - [Science] Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip](./2026-08-08-Science-rare-turtle-to-be-sent-back-home-in-5-000-mile--in.md)
+* [2026-08-08 - [Technology] Is football AI-proof? Why tech investors wanted a slice of the World Cup](./2026-08-08-Technology-is-football-ai-proof--why-tech-investors-wanted-a-.md)
 * [2026-08-07 - [Science] Hosepipe bans in force as drought declared - is your area affected?](./2026-08-07-Science-hosepipe-bans-in-force-as-drought-declared---is-yo.md)
 * [2026-08-07 - [Education] Cambridge to review process for hiring senior academics after Jason Arday resignation](./2026-08-07-Education-cambridge-to-review-process-for-hiring-senior-acad.md)
 * [2026-08-07 - [Arts] Madonna and Blur producer William Orbit dies aged 69](./2026-08-07-Arts-madonna-and-blur-producer-william-orbit-dies-aged-.md)
