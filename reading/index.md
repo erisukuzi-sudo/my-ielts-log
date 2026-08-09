@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-09 - [Science] 'Not afraid to stay': The Canadians taking fighting wildfires into their own hands](./2026-08-09-Science--not-afraid-to-stay---the-canadians-taking-fightin.md)
+* [2026-08-09 - [Arts] Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock ](./2026-08-09-Arts-zendaya-saw-me-on-the-red-carpet-and-her-jaw-dropp.md)
 * [2026-08-08 - [Science] Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip](./2026-08-08-Science-rare-turtle-to-be-sent-back-home-in-5-000-mile--in.md)
 * [2026-08-08 - [Technology] Is football AI-proof? Why tech investors wanted a slice of the World Cup](./2026-08-08-Technology-is-football-ai-proof--why-tech-investors-wanted-a-.md)
 * [2026-08-07 - [Science] Hosepipe bans in force as drought declared - is your area affected?](./2026-08-07-Science-hosepipe-bans-in-force-as-drought-declared---is-yo.md)
