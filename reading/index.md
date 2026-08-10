@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-10 - [Science] What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy](./2026-08-10-Science-what-he-told-me-made-my-blood-run-cold---michael-s.md)
+* [2026-08-10 - [Technology] Nvidia gets $500bn from major investors to develop AI data centres](./2026-08-10-Technology-nvidia-gets--500bn-from-major-investors-to-develop.md)
+* [2026-08-10 - [Education] How much parents could save from September's new school uniform rules](./2026-08-10-Education-how-much-parents-could-save-from-september-s-new-s.md)
+* [2026-08-10 - [Arts] 30 years later, a former gang member will stand trial for Tupac's murder](./2026-08-10-Arts-30-years-later--a-former-gang-member-will-stand-tr.md)
 * [2026-08-09 - [Science] 'Not afraid to stay': The Canadians taking fighting wildfires into their own hands](./2026-08-09-Science--not-afraid-to-stay---the-canadians-taking-fightin.md)
 * [2026-08-09 - [Arts] Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock ](./2026-08-09-Arts-zendaya-saw-me-on-the-red-carpet-and-her-jaw-dropp.md)
 * [2026-08-08 - [Science] Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip](./2026-08-08-Science-rare-turtle-to-be-sent-back-home-in-5-000-mile--in.md)
