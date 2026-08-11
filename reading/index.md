@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-11 - [Science] UK to get best eclipse since 1999 as Moon blocks out Sun across Europe](./2026-08-11-Science-uk-to-get-best-eclipse-since-1999-as-moon-blocks-o.md)
+* [2026-08-11 - [Technology] Tokenomics: Why making AI pay is tricky](./2026-08-11-Technology-tokenomics--why-making-ai-pay-is-tricky.md)
+* [2026-08-11 - [Arts] The Office actress Lucy Davis says she has 'incurable' cancer](./2026-08-11-Arts-the-office-actress-lucy-davis-says-she-has--incura.md)
 * [2026-08-10 - [Science] What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy](./2026-08-10-Science-what-he-told-me-made-my-blood-run-cold---michael-s.md)
 * [2026-08-10 - [Technology] Nvidia gets $500bn from major investors to develop AI data centres](./2026-08-10-Technology-nvidia-gets--500bn-from-major-investors-to-develop.md)
 * [2026-08-10 - [Education] How much parents could save from September's new school uniform rules](./2026-08-10-Education-how-much-parents-could-save-from-september-s-new-s.md)
