@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-12 - [Science] Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend](./2026-08-12-Science-vultures-are-disappearing-in-nigeria---but-the--vu.md)
+* [2026-08-12 - [Technology] Why Japanese firms are being so slow to use AI](./2026-08-12-Technology-why-japanese-firms-are-being-so-slow-to-use-ai.md)
+* [2026-08-12 - [Education] Students wait for A-level, T-level and BTec results](./2026-08-12-Education-students-wait-for-a-level--t-level-and-btec-result.md)
+* [2026-08-12 - [Arts] Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis](./2026-08-12-Arts-jasper-carrott-says-family-is--so-proud--of-lucy-d.md)
 * [2026-08-11 - [Science] UK to get best eclipse since 1999 as Moon blocks out Sun across Europe](./2026-08-11-Science-uk-to-get-best-eclipse-since-1999-as-moon-blocks-o.md)
 * [2026-08-11 - [Technology] Tokenomics: Why making AI pay is tricky](./2026-08-11-Technology-tokenomics--why-making-ai-pay-is-tricky.md)
 * [2026-08-11 - [Arts] The Office actress Lucy Davis says she has 'incurable' cancer](./2026-08-11-Arts-the-office-actress-lucy-davis-says-she-has--incura.md)
