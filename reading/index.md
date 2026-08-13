@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-13 - [Science] Romania shuts only nuclear plant as heat causes huge drop in Danube River level](./2026-08-13-Science-romania-shuts-only-nuclear-plant-as-heat-causes-hu.md)
+* [2026-08-13 - [Technology] Bumble divides users by ditching its signature 'women-first' chat rule](./2026-08-13-Technology-bumble-divides-users-by-ditching-its-signature--wo.md)
+* [2026-08-13 - [Education] 'I worked really hard and it paid off': Elation, nerves and proud parents as students get results](./2026-08-13-Education--i-worked-really-hard-and-it-paid-off---elation--n.md)
+* [2026-08-13 - [Arts] Ski Sunday host Chemmy Alcott suffers collapsed lung after jumping into lake](./2026-08-13-Arts-ski-sunday-host-chemmy-alcott-suffers-collapsed-lu.md)
 * [2026-08-12 - [Science] Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend](./2026-08-12-Science-vultures-are-disappearing-in-nigeria---but-the--vu.md)
 * [2026-08-12 - [Technology] Why Japanese firms are being so slow to use AI](./2026-08-12-Technology-why-japanese-firms-are-being-so-slow-to-use-ai.md)
 * [2026-08-12 - [Education] Students wait for A-level, T-level and BTec results](./2026-08-12-Education-students-wait-for-a-level--t-level-and-btec-result.md)
