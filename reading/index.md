@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-14 - [Science] 'Days of the farmers' union dictating policy are over' - Muir](./2026-08-14-Science--days-of-the-farmers--union-dictating-policy-are-o.md)
+* [2026-08-14 - [Technology] Why tech bosses keep sharing their manifestos about AI](./2026-08-14-Technology-why-tech-bosses-keep-sharing-their-manifestos-abou.md)
+* [2026-08-14 - [Education] Are the UK's top universities really 'hoovering up' students?](./2026-08-14-Education-are-the-uk-s-top-universities-really--hoovering-up.md)
+* [2026-08-14 - [Arts] Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027](./2026-08-14-Arts-glastonbury-festival-organiser-dismisses-rumours-t.md)
 * [2026-08-13 - [Science] Romania shuts only nuclear plant as heat causes huge drop in Danube River level](./2026-08-13-Science-romania-shuts-only-nuclear-plant-as-heat-causes-hu.md)
 * [2026-08-13 - [Technology] Bumble divides users by ditching its signature 'women-first' chat rule](./2026-08-13-Technology-bumble-divides-users-by-ditching-its-signature--wo.md)
 * [2026-08-13 - [Education] 'I worked really hard and it paid off': Elation, nerves and proud parents as students get results](./2026-08-13-Education--i-worked-really-hard-and-it-paid-off---elation--n.md)
