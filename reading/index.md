@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-15 - [Science] Hawaii braces for potential first direct hit by a hurricane in 34 years](./2026-08-15-Science-hawaii-braces-for-potential-first-direct-hit-by-a-.md)
+* [2026-08-15 - [Technology] Secondhand book sales are booming. Is it because of AI?](./2026-08-15-Technology-secondhand-book-sales-are-booming--is-it-because-o.md)
+* [2026-08-15 - [Education] Jason Arday death 'tragedy on so many levels' says PM](./2026-08-15-Education-jason-arday-death--tragedy-on-so-many-levels--says.md)
+* [2026-08-15 - [Arts] Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home](./2026-08-15-Arts-thousands-of-bonnie-tyler-fans-line-the-streets-as.md)
 * [2026-08-14 - [Science] 'Days of the farmers' union dictating policy are over' - Muir](./2026-08-14-Science--days-of-the-farmers--union-dictating-policy-are-o.md)
 * [2026-08-14 - [Technology] Why tech bosses keep sharing their manifestos about AI](./2026-08-14-Technology-why-tech-bosses-keep-sharing-their-manifestos-abou.md)
 * [2026-08-14 - [Education] Are the UK's top universities really 'hoovering up' students?](./2026-08-14-Education-are-the-uk-s-top-universities-really--hoovering-up.md)
