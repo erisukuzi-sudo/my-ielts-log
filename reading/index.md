@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-16 - [Science] Belgian wildfire doubles in size on third day tearing through nature reserve](./2026-08-16-Science-belgian-wildfire-doubles-in-size-on-third-day-tear.md)
+* [2026-08-15 - [Technology] I survived two years as prime minister in a hit new game - then my cabinet deserted me](./2026-08-15-Technology-i-survived-two-years-as-prime-minister-in-a-hit-ne.md)
+* [2026-08-16 - [Arts] Ariana Grande leaves problems at home as her tour hits the UK](./2026-08-16-Arts-ariana-grande-leaves-problems-at-home-as-her-tour-.md)
 * [2026-08-15 - [Science] Hawaii braces for potential first direct hit by a hurricane in 34 years](./2026-08-15-Science-hawaii-braces-for-potential-first-direct-hit-by-a-.md)
 * [2026-08-15 - [Technology] Secondhand book sales are booming. Is it because of AI?](./2026-08-15-Technology-secondhand-book-sales-are-booming--is-it-because-o.md)
 * [2026-08-15 - [Education] Jason Arday death 'tragedy on so many levels' says PM](./2026-08-15-Education-jason-arday-death--tragedy-on-so-many-levels--says.md)
