@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-17 - [Science] Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala](./2026-08-17-Science-watch--flash-flood-sweeps-vehicle-away-in-hawaii-a.md)
+* [2026-08-17 - [Technology] Instagram and Facebook could change forever if Meta loses child privacy trial](./2026-08-17-Technology-instagram-and-facebook-could-change-forever-if-met.md)
+* [2026-08-17 - [Education] Parents pushed to breaking point by Child Maintenance Service, BBC told](./2026-08-17-Education-parents-pushed-to-breaking-point-by-child-maintena.md)
+* [2026-08-17 - [Arts] Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'](./2026-08-17-Arts-tributes-to-actress-hayden-panettiere-as-coroner-f.md)
 * [2026-08-16 - [Science] Belgian wildfire doubles in size on third day tearing through nature reserve](./2026-08-16-Science-belgian-wildfire-doubles-in-size-on-third-day-tear.md)
 * [2026-08-15 - [Technology] I survived two years as prime minister in a hit new game - then my cabinet deserted me](./2026-08-15-Technology-i-survived-two-years-as-prime-minister-in-a-hit-ne.md)
 * [2026-08-16 - [Arts] Ariana Grande leaves problems at home as her tour hits the UK](./2026-08-16-Arts-ariana-grande-leaves-problems-at-home-as-her-tour-.md)
