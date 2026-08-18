@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-18 - [Science] How soon will the drought be over?](./2026-08-18-Science-how-soon-will-the-drought-be-over-.md)
+* [2026-08-18 - [Technology] The critical tech staying safe by going underground](./2026-08-18-Technology-the-critical-tech-staying-safe-by-going-undergroun.md)
+* [2026-08-18 - [Arts] Actress Phyllida Law, mother of Emma and Sophie Thompson, dies at 94](./2026-08-18-Arts-actress-phyllida-law--mother-of-emma-and-sophie-th.md)
 * [2026-08-17 - [Science] Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala](./2026-08-17-Science-watch--flash-flood-sweeps-vehicle-away-in-hawaii-a.md)
 * [2026-08-17 - [Technology] Instagram and Facebook could change forever if Meta loses child privacy trial](./2026-08-17-Technology-instagram-and-facebook-could-change-forever-if-met.md)
 * [2026-08-17 - [Education] Parents pushed to breaking point by Child Maintenance Service, BBC told](./2026-08-17-Education-parents-pushed-to-breaking-point-by-child-maintena.md)
