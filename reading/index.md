@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-19 - [Technology] 81,000 warning letters sent to crypto holders in HMRC tax crackdown ](./2026-08-19-Technology-81-000-warning-letters-sent-to-crypto-holders-in-h.md)
+* [2026-08-19 - [Education] Students wait for GCSE and BTec grades as app launches for 750 schools in England](./2026-08-19-Education-students-wait-for-gcse-and-btec-grades-as-app-laun.md)
+* [2026-08-19 - [Arts] ADHD charity complains about Channel 4 documentary](./2026-08-19-Arts-adhd-charity-complains-about-channel-4-documentary.md)
 * [2026-08-18 - [Science] How soon will the drought be over?](./2026-08-18-Science-how-soon-will-the-drought-be-over-.md)
 * [2026-08-18 - [Technology] The critical tech staying safe by going underground](./2026-08-18-Technology-the-critical-tech-staying-safe-by-going-undergroun.md)
 * [2026-08-18 - [Arts] Actress Phyllida Law, mother of Emma and Sophie Thompson, dies at 94](./2026-08-18-Arts-actress-phyllida-law--mother-of-emma-and-sophie-th.md)
