@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-20 - [Science] My family have fished this river for 300 years - now pollution has killed all the fish](./2026-08-20-Science-my-family-have-fished-this-river-for-300-years---n.md)
+* [2026-08-20 - [Technology] How landscape gardening is being electrified](./2026-08-20-Technology-how-landscape-gardening-is-being-electrified.md)
+* [2026-08-20 - [Education] 'Relentless' GCSE resit cycle 'simply not working', school and college leaders say](./2026-08-20-Education--relentless--gcse-resit-cycle--simply-not-working-.md)
+* [2026-08-20 - [Arts] BBC DJ Trevor Nelson reveals brain tumour surgery 'went well' ](./2026-08-20-Arts-bbc-dj-trevor-nelson-reveals-brain-tumour-surgery-.md)
 * [2026-08-19 - [Technology] 81,000 warning letters sent to crypto holders in HMRC tax crackdown ](./2026-08-19-Technology-81-000-warning-letters-sent-to-crypto-holders-in-h.md)
 * [2026-08-19 - [Education] Students wait for GCSE and BTec grades as app launches for 750 schools in England](./2026-08-19-Education-students-wait-for-gcse-and-btec-grades-as-app-laun.md)
 * [2026-08-19 - [Arts] ADHD charity complains about Channel 4 documentary](./2026-08-19-Arts-adhd-charity-complains-about-channel-4-documentary.md)
