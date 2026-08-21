@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-21 - [Science] Should school holidays change to cope with extreme heat?](./2026-08-21-Science-should-school-holidays-change-to-cope-with-extreme.md)
+* [2026-08-21 - [Technology] TikTok to pay $400m to US in one of largest child privacy settlements](./2026-08-21-Technology-tiktok-to-pay--400m-to-us-in-one-of-largest-child-.md)
+* [2026-08-21 - [Education] More students planning to live at home for university over 'insane' living costs](./2026-08-21-Education-more-students-planning-to-live-at-home-for-univers.md)
+* [2026-08-21 - [Arts] Meghan in talks for role in Netflix series The Gentlemen, BBC understands](./2026-08-21-Arts-meghan-in-talks-for-role-in-netflix-series-the-gen.md)
 * [2026-08-20 - [Science] My family have fished this river for 300 years - now pollution has killed all the fish](./2026-08-20-Science-my-family-have-fished-this-river-for-300-years---n.md)
 * [2026-08-20 - [Technology] How landscape gardening is being electrified](./2026-08-20-Technology-how-landscape-gardening-is-being-electrified.md)
 * [2026-08-20 - [Education] 'Relentless' GCSE resit cycle 'simply not working', school and college leaders say](./2026-08-20-Education--relentless--gcse-resit-cycle--simply-not-working-.md)
