@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-22 - [Science] How a new era of heatwaves could shake up the school calendar](./2026-08-22-Science-how-a-new-era-of-heatwaves-could-shake-up-the-scho.md)
+* [2026-08-22 - [Technology] Robot horse and rider steal the spotlight at Chinese conference](./2026-08-22-Technology-robot-horse-and-rider-steal-the-spotlight-at-chine.md)
+* [2026-08-22 - [Arts] Davis 'grateful' for support over cancer diagnosis](./2026-08-22-Arts-davis--grateful--for-support-over-cancer-diagnosis.md)
 * [2026-08-21 - [Science] Should school holidays change to cope with extreme heat?](./2026-08-21-Science-should-school-holidays-change-to-cope-with-extreme.md)
 * [2026-08-21 - [Technology] TikTok to pay $400m to US in one of largest child privacy settlements](./2026-08-21-Technology-tiktok-to-pay--400m-to-us-in-one-of-largest-child-.md)
 * [2026-08-21 - [Education] More students planning to live at home for university over 'insane' living costs](./2026-08-21-Education-more-students-planning-to-live-at-home-for-univers.md)
