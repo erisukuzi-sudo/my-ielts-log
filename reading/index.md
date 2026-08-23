@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-23 - [Science] France links sharp rise in drownings to heatwaves](./2026-08-23-Science-france-links-sharp-rise-in-drownings-to-heatwaves.md)
+* [2026-08-23 - [Technology] Why students are being paid £2,000 to play computer games](./2026-08-23-Technology-why-students-are-being-paid--2-000-to-play-compute.md)
+* [2026-08-23 - [Arts] Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear](./2026-08-23-Arts-viral--cat-in-the-hat--tiktok-trend-sparks-fun-fak.md)
 * [2026-08-22 - [Science] How a new era of heatwaves could shake up the school calendar](./2026-08-22-Science-how-a-new-era-of-heatwaves-could-shake-up-the-scho.md)
 * [2026-08-22 - [Technology] Robot horse and rider steal the spotlight at Chinese conference](./2026-08-22-Technology-robot-horse-and-rider-steal-the-spotlight-at-chine.md)
 * [2026-08-22 - [Arts] Davis 'grateful' for support over cancer diagnosis](./2026-08-22-Arts-davis--grateful--for-support-over-cancer-diagnosis.md)
