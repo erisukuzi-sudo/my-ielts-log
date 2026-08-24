@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-24 - [Science] More downpours and thunderstorms are heading the UK's way](./2026-08-24-Science-more-downpours-and-thunderstorms-are-heading-the-u.md)
+* [2026-08-24 - [Technology] Sharing dangerous driving videos is 'truly reprehensible', PM says](./2026-08-24-Technology-sharing-dangerous-driving-videos-is--truly-reprehe.md)
+* [2026-08-24 - [Arts] Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart](./2026-08-24-Arts-kit-harington-joins-hbo-s-harry-potter-series-as-g.md)
 * [2026-08-23 - [Science] France links sharp rise in drownings to heatwaves](./2026-08-23-Science-france-links-sharp-rise-in-drownings-to-heatwaves.md)
 * [2026-08-23 - [Technology] Why students are being paid £2,000 to play computer games](./2026-08-23-Technology-why-students-are-being-paid--2-000-to-play-compute.md)
 * [2026-08-23 - [Arts] Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear](./2026-08-23-Arts-viral--cat-in-the-hat--tiktok-trend-sparks-fun-fak.md)
