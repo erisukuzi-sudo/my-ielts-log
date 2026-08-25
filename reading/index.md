@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-25 - [Science] Yellow warnings in force as rain and thunderstorms hit parts of UK](./2026-08-25-Science-yellow-warnings-in-force-as-rain-and-thunderstorms.md)
+* [2026-08-25 - [Technology] Firms scramble for battery power in Spain and Portugal](./2026-08-25-Technology-firms-scramble-for-battery-power-in-spain-and-port.md)
+* [2026-08-25 - [Arts] Dolly Parton: Life of the music legend whose songs touched millions](./2026-08-25-Arts-dolly-parton--life-of-the-music-legend-whose-songs.md)
 * [2026-08-24 - [Science] More downpours and thunderstorms are heading the UK's way](./2026-08-24-Science-more-downpours-and-thunderstorms-are-heading-the-u.md)
 * [2026-08-24 - [Technology] Sharing dangerous driving videos is 'truly reprehensible', PM says](./2026-08-24-Technology-sharing-dangerous-driving-videos-is--truly-reprehe.md)
 * [2026-08-24 - [Arts] Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart](./2026-08-24-Arts-kit-harington-joins-hbo-s-harry-potter-series-as-g.md)
