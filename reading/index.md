@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-26 - [Science] Dozens of US and Canadian citizens missing after flash flooding in Nepal](./2026-08-26-Science-dozens-of-us-and-canadian-citizens-missing-after-f.md)
+* [2026-08-26 - [Technology] Unexpected chat between OpenAI agents led to Hugging Face hack](./2026-08-26-Technology-unexpected-chat-between-openai-agents-led-to-huggi.md)
+* [2026-08-26 - [Arts] 'Angel by my side' - Miley Cyrus pays tribute to godmother Dolly Parton](./2026-08-26-Arts--angel-by-my-side----miley-cyrus-pays-tribute-to-g.md)
 * [2026-08-25 - [Science] Yellow warnings in force as rain and thunderstorms hit parts of UK](./2026-08-25-Science-yellow-warnings-in-force-as-rain-and-thunderstorms.md)
 * [2026-08-25 - [Technology] Firms scramble for battery power in Spain and Portugal](./2026-08-25-Technology-firms-scramble-for-battery-power-in-spain-and-port.md)
 * [2026-08-25 - [Arts] Dolly Parton: Life of the music legend whose songs touched millions](./2026-08-25-Arts-dolly-parton--life-of-the-music-legend-whose-songs.md)
