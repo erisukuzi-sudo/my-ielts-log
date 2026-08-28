@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-28 - [Science] Bank holiday weekend to see more thunderstorms and rain ](./2026-08-28-Science-bank-holiday-weekend-to-see-more-thunderstorms-and.md)
+* [2026-08-28 - [Technology] Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning](./2026-08-28-Technology-matt-lucas-and-hugh-bonneville-among-actors-callin.md)
+* [2026-08-27 - [Education] Reform of all social media should come with Meta changes, UN says ](./2026-08-27-Education-reform-of-all-social-media-should-come-with-meta-c.md)
+* [2026-08-27 - [Arts] Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?](./2026-08-27-Arts-jacob-elordi-on-why-the-dog-stars-had-him-asking--.md)
 * [2026-08-26 - [Science] Dozens of US and Canadian citizens missing after flash flooding in Nepal](./2026-08-26-Science-dozens-of-us-and-canadian-citizens-missing-after-f.md)
 * [2026-08-26 - [Technology] Unexpected chat between OpenAI agents led to Hugging Face hack](./2026-08-26-Technology-unexpected-chat-between-openai-agents-led-to-huggi.md)
 * [2026-08-26 - [Arts] 'Angel by my side' - Miley Cyrus pays tribute to godmother Dolly Parton](./2026-08-26-Arts--angel-by-my-side----miley-cyrus-pays-tribute-to-g.md)
