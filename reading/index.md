@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-29 - [Science] Strong winds and thunderstorms kick off the bank holiday weekend](./2026-08-29-Science-strong-winds-and-thunderstorms-kick-off-the-bank-h.md)
+* [2026-08-27 - [Education] One in eight young people still out of work or education ahead of major review](./2026-08-27-Education-one-in-eight-young-people-still-out-of-work-or-edu.md)
+* [2026-08-28 - [Arts] Charli XCX electrifies Reading Festival with era-spanning set](./2026-08-28-Arts-charli-xcx-electrifies-reading-festival-with-era-s.md)
 * [2026-08-28 - [Science] Bank holiday weekend to see more thunderstorms and rain ](./2026-08-28-Science-bank-holiday-weekend-to-see-more-thunderstorms-and.md)
 * [2026-08-28 - [Technology] Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning](./2026-08-28-Technology-matt-lucas-and-hugh-bonneville-among-actors-callin.md)
 * [2026-08-27 - [Education] Reform of all social media should come with Meta changes, UN says ](./2026-08-27-Education-reform-of-all-social-media-should-come-with-meta-c.md)
