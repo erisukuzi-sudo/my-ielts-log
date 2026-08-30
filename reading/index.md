@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-29 - [Science] The race to stop England running out of water](./2026-08-29-Science-the-race-to-stop-england-running-out-of-water.md)
+* [2026-08-29 - [Technology] I've been to Gamescom six times - here's what excited me this year](./2026-08-29-Technology-i-ve-been-to-gamescom-six-times---here-s-what-exci.md)
+* [2026-08-30 - [Education] Six ways parents could make the return to school a little easier](./2026-08-30-Education-six-ways-parents-could-make-the-return-to-school-a.md)
+* [2026-08-29 - [Arts] Dolly Parton's dad couldn't read - it inspired her to send books to millions of children](./2026-08-29-Arts-dolly-parton-s-dad-couldn-t-read---it-inspired-her.md)
 * [2026-08-29 - [Science] Strong winds and thunderstorms kick off the bank holiday weekend](./2026-08-29-Science-strong-winds-and-thunderstorms-kick-off-the-bank-h.md)
 * [2026-08-27 - [Education] One in eight young people still out of work or education ahead of major review](./2026-08-27-Education-one-in-eight-young-people-still-out-of-work-or-edu.md)
 * [2026-08-28 - [Arts] Charli XCX electrifies Reading Festival with era-spanning set](./2026-08-28-Arts-charli-xcx-electrifies-reading-festival-with-era-s.md)
