@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-30 - [Science] 'A giant leap forward': Nasa launches powerful new space telescope](./2026-08-30-Science--a-giant-leap-forward---nasa-launches-powerful-new.md)
+* [2026-08-30 - [Arts] Lola Young surprises Reading Festival with final day set](./2026-08-30-Arts-lola-young-surprises-reading-festival-with-final-d.md)
 * [2026-08-29 - [Science] The race to stop England running out of water](./2026-08-29-Science-the-race-to-stop-england-running-out-of-water.md)
 * [2026-08-29 - [Technology] I've been to Gamescom six times - here's what excited me this year](./2026-08-29-Technology-i-ve-been-to-gamescom-six-times---here-s-what-exci.md)
 * [2026-08-30 - [Education] Six ways parents could make the return to school a little easier](./2026-08-30-Education-six-ways-parents-could-make-the-return-to-school-a.md)
