@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-08-31 - [Science] Summer 2026 expected to be declared UK's hottest on record](./2026-08-31-Science-summer-2026-expected-to-be-declared-uk-s-hottest-o.md)
+* [2026-08-31 - [Technology] Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges](./2026-08-31-Technology-amazon-rigged-billions-in-ad-pricing--lawsuit-from.md)
+* [2026-08-31 - [Education] Emergency measures needed to stop teachers quitting, say Lib Dems](./2026-08-31-Education-emergency-measures-needed-to-stop-teachers-quittin.md)
+* [2026-08-31 - [Arts] John Galliano exhibition at New York Met cancelled after backlash](./2026-08-31-Arts-john-galliano-exhibition-at-new-york-met-cancelled.md)
 * [2026-08-30 - [Science] 'A giant leap forward': Nasa launches powerful new space telescope](./2026-08-30-Science--a-giant-leap-forward---nasa-launches-powerful-new.md)
 * [2026-08-30 - [Arts] Lola Young surprises Reading Festival with final day set](./2026-08-30-Arts-lola-young-surprises-reading-festival-with-final-d.md)
 * [2026-08-29 - [Science] The race to stop England running out of water](./2026-08-29-Science-the-race-to-stop-england-running-out-of-water.md)
