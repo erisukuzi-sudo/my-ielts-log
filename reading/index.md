@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-01 - [Science] Watch: Astronauts set out on rare all-female spacewalk](./2026-09-01-Science-watch--astronauts-set-out-on-rare-all-female-space.md)
+* [2026-09-02 - [Technology] Apple Maps changes Lake Ontario to Lake America after Trump order](./2026-09-02-Technology-apple-maps-changes-lake-ontario-to-lake-america-af.md)
+* [2026-09-01 - [Arts] Ariana Grande completes tour and steps back from public life](./2026-09-01-Arts-ariana-grande-completes-tour-and-steps-back-from-p.md)
 * [2026-08-31 - [Science] Summer 2026 expected to be declared UK's hottest on record](./2026-08-31-Science-summer-2026-expected-to-be-declared-uk-s-hottest-o.md)
 * [2026-08-31 - [Technology] Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges](./2026-08-31-Technology-amazon-rigged-billions-in-ad-pricing--lawsuit-from.md)
 * [2026-08-31 - [Education] Emergency measures needed to stop teachers quitting, say Lib Dems](./2026-08-31-Education-emergency-measures-needed-to-stop-teachers-quittin.md)
