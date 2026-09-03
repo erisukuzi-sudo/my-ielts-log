@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-02 - [Science] Widow whose husband died after falling into slurry pit warns of pressure on farmers](./2026-09-02-Science-widow-whose-husband-died-after-falling-into-slurry.md)
+* [2026-09-02 - [Technology] Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one](./2026-09-02-Technology-uber-launches-uk-s-first-robotaxis-with-a-driver--.md)
+* [2026-09-02 - [Arts] ‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports](./2026-09-02-Arts--i-d-be-the-last-to-know---stars-of-the-gentlemen-.md)
 * [2026-09-01 - [Science] Watch: Astronauts set out on rare all-female spacewalk](./2026-09-01-Science-watch--astronauts-set-out-on-rare-all-female-space.md)
 * [2026-09-02 - [Technology] Apple Maps changes Lake Ontario to Lake America after Trump order](./2026-09-02-Technology-apple-maps-changes-lake-ontario-to-lake-america-af.md)
 * [2026-09-01 - [Arts] Ariana Grande completes tour and steps back from public life](./2026-09-01-Arts-ariana-grande-completes-tour-and-steps-back-from-p.md)
