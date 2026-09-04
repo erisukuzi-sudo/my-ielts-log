@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-04 - [Science] 'Miracle' eagle with broken wing spotted back above Scottish coast](./2026-09-04-Science--miracle--eagle-with-broken-wing-spotted-back-abov.md)
+* [2026-09-03 - [Technology] Could robots be the future of theme parks?](./2026-09-03-Technology-could-robots-be-the-future-of-theme-parks-.md)
+* [2026-09-04 - [Arts] Girl group Katseye are missing two members, but their tour still dazzles](./2026-09-04-Arts-girl-group-katseye-are-missing-two-members--but-th.md)
 * [2026-09-02 - [Science] Widow whose husband died after falling into slurry pit warns of pressure on farmers](./2026-09-02-Science-widow-whose-husband-died-after-falling-into-slurry.md)
 * [2026-09-02 - [Technology] Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one](./2026-09-02-Technology-uber-launches-uk-s-first-robotaxis-with-a-driver--.md)
 * [2026-09-02 - [Arts] ‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports](./2026-09-02-Arts--i-d-be-the-last-to-know---stars-of-the-gentlemen-.md)
