@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-04 - [Science] Ancient cave art discovery suggests first known humans in Ireland walked over from Wales](./2026-09-04-Science-ancient-cave-art-discovery-suggests-first-known-hu.md)
+* [2026-09-04 - [Technology] OpenAI agents hijacked German website before Hugging Face hack, report claims](./2026-09-04-Technology-openai-agents-hijacked-german-website-before-huggi.md)
+* [2026-09-04 - [Arts] Man About the House star Richard O'Sullivan dies aged 82](./2026-09-04-Arts-man-about-the-house-star-richard-o-sullivan-dies-a.md)
 * [2026-09-04 - [Science] 'Miracle' eagle with broken wing spotted back above Scottish coast](./2026-09-04-Science--miracle--eagle-with-broken-wing-spotted-back-abov.md)
 * [2026-09-03 - [Technology] Could robots be the future of theme parks?](./2026-09-03-Technology-could-robots-be-the-future-of-theme-parks-.md)
 * [2026-09-04 - [Arts] Girl group Katseye are missing two members, but their tour still dazzles](./2026-09-04-Arts-girl-group-katseye-are-missing-two-members--but-th.md)
