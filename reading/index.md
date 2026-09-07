@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-06 - [Science] The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'](./2026-09-06-Science-the-volunteers-risking-their-lives-to-defuse-indon.md)
+* [2026-09-06 - [Arts] Why Munya Chawawa is 'jumping ship' from socials to Shakespeare](./2026-09-06-Arts-why-munya-chawawa-is--jumping-ship--from-socials-t.md)
 * [2026-09-05 - [Science] Aviation faces hotter, stormier skies – and passengers might have to accept more disruption](./2026-09-05-Science-aviation-faces-hotter--stormier-skies---and-passen.md)
 * [2026-09-05 - [Arts] Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show](./2026-09-05-Arts-lauryn-hill--wyclef-and-giggs-among-surprise-guest.md)
 * [2026-09-04 - [Science] Ancient cave art discovery suggests first known humans in Ireland walked over from Wales](./2026-09-04-Science-ancient-cave-art-discovery-suggests-first-known-hu.md)
