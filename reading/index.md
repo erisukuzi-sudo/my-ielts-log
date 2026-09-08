@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-07 - [Science] Gaps in evidence on vaccinating badgers against TB, researchers say](./2026-09-07-Science-gaps-in-evidence-on-vaccinating-badgers-against-tb.md)
+* [2026-09-07 - [Technology] AI cancer cures slowed by chip shortage, says UK's biggest tech boss](./2026-09-07-Technology-ai-cancer-cures-slowed-by-chip-shortage--says-uk-s.md)
+* [2026-09-07 - [Arts] Liam Gallagher's tambourine grin and Charli XCX says bye to Brat - Music Photography Awards 2026 shortlist](./2026-09-07-Arts-liam-gallagher-s-tambourine-grin-and-charli-xcx-sa.md)
 * [2026-09-06 - [Science] The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'](./2026-09-06-Science-the-volunteers-risking-their-lives-to-defuse-indon.md)
 * [2026-09-06 - [Arts] Why Munya Chawawa is 'jumping ship' from socials to Shakespeare](./2026-09-06-Arts-why-munya-chawawa-is--jumping-ship--from-socials-t.md)
 * [2026-09-05 - [Science] Aviation faces hotter, stormier skies – and passengers might have to accept more disruption](./2026-09-05-Science-aviation-faces-hotter--stormier-skies---and-passen.md)
