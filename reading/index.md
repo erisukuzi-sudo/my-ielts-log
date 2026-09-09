@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-08 - [Science] The trail of clues that our planet might be heating faster than we realised](./2026-09-08-Science-the-trail-of-clues-that-our-planet-might-be-heatin.md)
+* [2026-09-08 - [Technology] Meta continues to run ads promoting child sexual abuse material in India - report](./2026-09-08-Technology-meta-continues-to-run-ads-promoting-child-sexual-a.md)
+* [2026-09-08 - [Education] Thousands of teens missing education 'under the radar' of official stats, report warns](./2026-09-08-Education-thousands-of-teens-missing-education--under-the-ra.md)
+* [2026-09-08 - [Arts] Glastonbury confirms ticket sale dates - and highest ever price](./2026-09-08-Arts-glastonbury-confirms-ticket-sale-dates---and-highe.md)
 * [2026-09-07 - [Science] Gaps in evidence on vaccinating badgers against TB, researchers say](./2026-09-07-Science-gaps-in-evidence-on-vaccinating-badgers-against-tb.md)
 * [2026-09-07 - [Technology] AI cancer cures slowed by chip shortage, says UK's biggest tech boss](./2026-09-07-Technology-ai-cancer-cures-slowed-by-chip-shortage--says-uk-s.md)
 * [2026-09-07 - [Arts] Liam Gallagher's tambourine grin and Charli XCX says bye to Brat - Music Photography Awards 2026 shortlist](./2026-09-07-Arts-liam-gallagher-s-tambourine-grin-and-charli-xcx-sa.md)
