@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-09 - [Science] Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii](./2026-09-09-Science-watch--downed-trees-and-flooding-as-hurricane-lowe.md)
+* [2026-09-10 - [Technology] UK needs new laws for AI in healthcare, says watchdog](./2026-09-10-Technology-uk-needs-new-laws-for-ai-in-healthcare--says-watch.md)
+* [2026-09-09 - [Arts] BBC drops Drag Race UK after eight series](./2026-09-09-Arts-bbc-drops-drag-race-uk-after-eight-series.md)
 * [2026-09-08 - [Science] The trail of clues that our planet might be heating faster than we realised](./2026-09-08-Science-the-trail-of-clues-that-our-planet-might-be-heatin.md)
 * [2026-09-08 - [Technology] Meta continues to run ads promoting child sexual abuse material in India - report](./2026-09-08-Technology-meta-continues-to-run-ads-promoting-child-sexual-a.md)
 * [2026-09-08 - [Education] Thousands of teens missing education 'under the radar' of official stats, report warns](./2026-09-08-Education-thousands-of-teens-missing-education--under-the-ra.md)
