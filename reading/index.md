@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-10 - [Science] New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet](./2026-09-10-Science-new-hurricane-season-record-as--historic--el-ni-o-.md)
+* [2026-09-10 - [Technology] Can Europe recharge its battery industry?](./2026-09-10-Technology-can-europe-recharge-its-battery-industry-.md)
+* [2026-09-10 - [Arts] Esther Rantzen says she is too fragile to travel to Switzerland to end life](./2026-09-10-Arts-esther-rantzen-says-she-is-too-fragile-to-travel-t.md)
 * [2026-09-09 - [Science] Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii](./2026-09-09-Science-watch--downed-trees-and-flooding-as-hurricane-lowe.md)
 * [2026-09-10 - [Technology] UK needs new laws for AI in healthcare, says watchdog](./2026-09-10-Technology-uk-needs-new-laws-for-ai-in-healthcare--says-watch.md)
 * [2026-09-09 - [Arts] BBC drops Drag Race UK after eight series](./2026-09-09-Arts-bbc-drops-drag-race-uk-after-eight-series.md)
