@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-12 - [Science] Five night sky events to look out for this autumn](./2026-09-12-Science-five-night-sky-events-to-look-out-for-this-autumn.md)
+* [2026-09-12 - [Technology] Anthropic boss Dario Amodei calls for AI development to slow down](./2026-09-12-Technology-anthropic-boss-dario-amodei-calls-for-ai-developme.md)
+* [2026-09-12 - [Education] Student loan terms to be made clearer in England](./2026-09-12-Education-student-loan-terms-to-be-made-clearer-in-england.md)
+* [2026-09-12 - [Arts] Diljit Dosanjh makes history under the famous Wembley arch](./2026-09-12-Arts-diljit-dosanjh-makes-history-under-the-famous-wemb.md)
 * [2026-09-11 - [Science] Battle to save the tiny, gooey snail only found in one lake in the UK](./2026-09-11-Science-battle-to-save-the-tiny--gooey-snail-only-found-in.md)
 * [2026-09-12 - [Technology] PlayStation gambles with 18-rated Wolverine game - will it pay off?](./2026-09-12-Technology-playstation-gambles-with-18-rated-wolverine-game--.md)
 * [2026-09-11 - [Arts] Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp](./2026-09-11-Arts-stacey-solomon-and-alesha-dixon-to-host-the-voice-.md)
