@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-13 - [Science] The Himalayas are melting faster - and India's economy is 'at risk'](./2026-09-13-Science-the-himalayas-are-melting-faster---and-india-s-eco.md)
+* [2026-09-13 - [Technology] Trump downplays warnings of AI risks, citing rivalry with China](./2026-09-13-Technology-trump-downplays-warnings-of-ai-risks--citing-rival.md)
+* [2026-09-13 - [Education] Deep-fried food banned under new school dinner rules in England](./2026-09-13-Education-deep-fried-food-banned-under-new-school-dinner-rul.md)
 * [2026-09-12 - [Science] Five night sky events to look out for this autumn](./2026-09-12-Science-five-night-sky-events-to-look-out-for-this-autumn.md)
 * [2026-09-12 - [Technology] Anthropic boss Dario Amodei calls for AI development to slow down](./2026-09-12-Technology-anthropic-boss-dario-amodei-calls-for-ai-developme.md)
 * [2026-09-12 - [Education] Student loan terms to be made clearer in England](./2026-09-12-Education-student-loan-terms-to-be-made-clearer-in-england.md)
