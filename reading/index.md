@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-16 - [Science] Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers ](./2026-09-16-Science-third-heathrow-runway-should-only-go-ahead-if-airl.md)
+* [2026-09-16 - [Technology] OpenAI boss says world 'right to be afraid' but 'should trust' AI firms](./2026-09-16-Technology-openai-boss-says-world--right-to-be-afraid--but--s.md)
+* [2026-09-15 - [Arts] All support acts on Ed Sheeran's US tour quit after Macklemore dropped](./2026-09-15-Arts-all-support-acts-on-ed-sheeran-s-us-tour-quit-afte.md)
 * [2026-09-15 - [Science] Mass nesting brings swarms of turtles to Mexican beach](./2026-09-15-Science-mass-nesting-brings-swarms-of-turtles-to-mexican-b.md)
 * [2026-09-14 - [Technology] Pubs in England and Wales to allow digital ID apps to prove age](./2026-09-14-Technology-pubs-in-england-and-wales-to-allow-digital-id-apps.md)
 * [2026-09-14 - [Education] Deep-fried food banned under new school dinner rules in England](./2026-09-14-Education-deep-fried-food-banned-under-new-school-dinner-rul.md)
