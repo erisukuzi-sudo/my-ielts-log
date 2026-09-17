@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-16 - [Science] Part-human part-mouse brain developed in science breakthrough](./2026-09-16-Science-part-human-part-mouse-brain-developed-in-science-b.md)
+* [2026-09-16 - [Technology] Snapchat 'willing to implement' daily time limits for teens, boss tells BBC](./2026-09-16-Technology-snapchat--willing-to-implement--daily-time-limits-.md)
+* [2026-09-16 - [Education] Snapchat 'willing to implement' daily time limits for teens, boss tells BBC](./2026-09-16-Education-snapchat--willing-to-implement--daily-time-limits-.md)
+* [2026-09-16 - [Arts] How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career](./2026-09-16-Arts-how-being-music-s-mr-nice-guy-contributed-to-bigge.md)
 * [2026-09-16 - [Science] Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers ](./2026-09-16-Science-third-heathrow-runway-should-only-go-ahead-if-airl.md)
 * [2026-09-16 - [Technology] OpenAI boss says world 'right to be afraid' but 'should trust' AI firms](./2026-09-16-Technology-openai-boss-says-world--right-to-be-afraid--but--s.md)
 * [2026-09-15 - [Arts] All support acts on Ed Sheeran's US tour quit after Macklemore dropped](./2026-09-15-Arts-all-support-acts-on-ed-sheeran-s-us-tour-quit-afte.md)
