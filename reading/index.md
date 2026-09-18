@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-17 - [Science] New wild cat species discovered - with only one known living member](./2026-09-17-Science-new-wild-cat-species-discovered---with-only-one-kn.md)
+* [2026-09-17 - [Technology] The virtual worlds where robots are trained](./2026-09-17-Technology-the-virtual-worlds-where-robots-are-trained.md)
+* [2026-09-16 - [Education] Schools in England get extra £500m in bid to avoid teachers' pay strike](./2026-09-16-Education-schools-in-england-get-extra--500m-in-bid-to-avoid.md)
+* [2026-09-17 - [Arts] Stadium owner Robert Kraft says Ed Sheeran asked him to donate $2m in aid after Macklemore backlash](./2026-09-17-Arts-stadium-owner-robert-kraft-says-ed-sheeran-asked-h.md)
 * [2026-09-16 - [Science] Part-human part-mouse brain developed in science breakthrough](./2026-09-16-Science-part-human-part-mouse-brain-developed-in-science-b.md)
 * [2026-09-16 - [Technology] Snapchat 'willing to implement' daily time limits for teens, boss tells BBC](./2026-09-16-Technology-snapchat--willing-to-implement--daily-time-limits-.md)
 * [2026-09-16 - [Education] Snapchat 'willing to implement' daily time limits for teens, boss tells BBC](./2026-09-16-Education-snapchat--willing-to-implement--daily-time-limits-.md)
