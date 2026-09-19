@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-18 - [Science] When a beloved tree began withering away, locals suspected a killer in their midst](./2026-09-18-Science-when-a-beloved-tree-began-withering-away--locals-s.md)
+* [2026-09-18 - [Technology] Would Australians support a smart glasses ban?](./2026-09-18-Technology-would-australians-support-a-smart-glasses-ban-.md)
+* [2026-09-18 - [Arts] Tenko and Coronation Street actress Stephanie Cole dies aged 84](./2026-09-18-Arts-tenko-and-coronation-street-actress-stephanie-cole.md)
 * [2026-09-17 - [Science] New wild cat species discovered - with only one known living member](./2026-09-17-Science-new-wild-cat-species-discovered---with-only-one-kn.md)
 * [2026-09-17 - [Technology] The virtual worlds where robots are trained](./2026-09-17-Technology-the-virtual-worlds-where-robots-are-trained.md)
 * [2026-09-16 - [Education] Schools in England get extra £500m in bid to avoid teachers' pay strike](./2026-09-16-Education-schools-in-england-get-extra--500m-in-bid-to-avoid.md)
