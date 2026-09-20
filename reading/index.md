@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-19 - [Science] Trump says US will form 'AI Force' and appoint an artificial intelligence tsar](./2026-09-19-Science-trump-says-us-will-form--ai-force--and-appoint-an-.md)
+* [2026-09-19 - [Technology] Not all AI workers think the tech could kill everyone](./2026-09-19-Technology-not-all-ai-workers-think-the-tech-could-kill-every.md)
+* [2026-09-18 - [Arts] Daisy Edgar-Jones: I try and bury my emotion when it comes to love](./2026-09-18-Arts-daisy-edgar-jones--i-try-and-bury-my-emotion-when-.md)
 * [2026-09-18 - [Science] When a beloved tree began withering away, locals suspected a killer in their midst](./2026-09-18-Science-when-a-beloved-tree-began-withering-away--locals-s.md)
 * [2026-09-18 - [Technology] Would Australians support a smart glasses ban?](./2026-09-18-Technology-would-australians-support-a-smart-glasses-ban-.md)
 * [2026-09-18 - [Arts] Tenko and Coronation Street actress Stephanie Cole dies aged 84](./2026-09-18-Arts-tenko-and-coronation-street-actress-stephanie-cole.md)
