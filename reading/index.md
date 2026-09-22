@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-21 - [Science] Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert](./2026-09-21-Science-typhoon-dujuan-tracking-close-to-tokyo-triggers-ra.md)
+* [2026-09-22 - [Education] Schools not ready for AI and 'crying out' for government guidance, report warns](./2026-09-22-Education-schools-not-ready-for-ai-and--crying-out--for-gove.md)
+* [2026-09-21 - [Arts] London Fashion Week 2026: The five trends we'll see in spring](./2026-09-21-Arts-london-fashion-week-2026--the-five-trends-we-ll-se.md)
 * [2026-09-20 - [Science] What food items should you stock up on in case of an emergency?](./2026-09-20-Science-what-food-items-should-you-stock-up-on-in-case-of-.md)
 * [2026-09-20 - [Education] Union calls for halt to graded Ofsted inspections over health concerns](./2026-09-20-Education-union-calls-for-halt-to-graded-ofsted-inspections-.md)
 * [2026-09-20 - [Arts] Ed Sheeran admits 'mistakes' at first show since Macklemore controversy](./2026-09-20-Arts-ed-sheeran-admits--mistakes--at-first-show-since-m.md)
