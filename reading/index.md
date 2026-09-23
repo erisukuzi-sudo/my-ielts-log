@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-22 - [Science] India is producing more green energy - but wasting a lot of it](./2026-09-22-Science-india-is-producing-more-green-energy---but-wasting.md)
+* [2026-09-22 - [Technology] Will a switch to light speed cut power use at data centres?](./2026-09-22-Technology-will-a-switch-to-light-speed-cut-power-use-at-data.md)
+* [2026-09-22 - [Education] Fresh bedsheets and dusk walks: Expert tips for sleep-deprived freshers](./2026-09-22-Education-fresh-bedsheets-and-dusk-walks--expert-tips-for-sl.md)
+* [2026-09-22 - [Arts] Booker Prize judges reveal shortlisted novels after selection 'tussle'](./2026-09-22-Arts-booker-prize-judges-reveal-shortlisted-novels-afte.md)
 * [2026-09-21 - [Science] Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert](./2026-09-21-Science-typhoon-dujuan-tracking-close-to-tokyo-triggers-ra.md)
 * [2026-09-22 - [Education] Schools not ready for AI and 'crying out' for government guidance, report warns](./2026-09-22-Education-schools-not-ready-for-ai-and--crying-out--for-gove.md)
 * [2026-09-21 - [Arts] London Fashion Week 2026: The five trends we'll see in spring](./2026-09-21-Arts-london-fashion-week-2026--the-five-trends-we-ll-se.md)
