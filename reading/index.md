@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-23 - [Science] 'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn](./2026-09-23-Science--perfect-storm--could-lead-to-rubbish-piling-up-on.md)
+* [2026-09-24 - [Technology] OpenAI agent 'infiltrated' Australian government website, PM says](./2026-09-24-Technology-openai-agent--infiltrated--australian-government-w.md)
+* [2026-09-23 - [Education] Teenagers to be offered new vocational GCSE subjects in school](./2026-09-23-Education-teenagers-to-be-offered-new-vocational-gcse-subjec.md)
+* [2026-09-23 - [Arts] Singer Michael Kiwanuka reveals he is recovering from a stroke](./2026-09-23-Arts-singer-michael-kiwanuka-reveals-he-is-recovering-f.md)
 * [2026-09-22 - [Science] India is producing more green energy - but wasting a lot of it](./2026-09-22-Science-india-is-producing-more-green-energy---but-wasting.md)
 * [2026-09-22 - [Technology] Will a switch to light speed cut power use at data centres?](./2026-09-22-Technology-will-a-switch-to-light-speed-cut-power-use-at-data.md)
 * [2026-09-22 - [Education] Fresh bedsheets and dusk walks: Expert tips for sleep-deprived freshers](./2026-09-22-Education-fresh-bedsheets-and-dusk-walks--expert-tips-for-sl.md)
