@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-24 - [Science] Just how hot and dry was your summer? Use our postcode lookup to find out](./2026-09-24-Science-just-how-hot-and-dry-was-your-summer--use-our-post.md)
+* [2026-09-24 - [Technology] X-planes: Are they needed in the new era of drones?](./2026-09-24-Technology-x-planes--are-they-needed-in-the-new-era-of-drones.md)
+* [2026-09-24 - [Education] Teenagers to be offered new vocational GCSE subjects in school](./2026-09-24-Education-teenagers-to-be-offered-new-vocational-gcse-subjec.md)
+* [2026-09-24 - [Arts] Greek PM urges Burnham to return Elgin Marbles permanently](./2026-09-24-Arts-greek-pm-urges-burnham-to-return-elgin-marbles-per.md)
 * [2026-09-23 - [Science] 'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn](./2026-09-23-Science--perfect-storm--could-lead-to-rubbish-piling-up-on.md)
 * [2026-09-24 - [Technology] OpenAI agent 'infiltrated' Australian government website, PM says](./2026-09-24-Technology-openai-agent--infiltrated--australian-government-w.md)
 * [2026-09-23 - [Education] Teenagers to be offered new vocational GCSE subjects in school](./2026-09-23-Education-teenagers-to-be-offered-new-vocational-gcse-subjec.md)
