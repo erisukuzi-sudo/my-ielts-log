@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-25 - [Science] The treasured 'eternal snow' on this tropical island is about to disappear forever](./2026-09-25-Science-the-treasured--eternal-snow--on-this-tropical-isla.md)
+* [2026-09-26 - [Technology] OpenAI investigating 'dozens' of instances of agents acting improperly ](./2026-09-26-Technology-openai-investigating--dozens--of-instances-of-agen.md)
+* [2026-09-25 - [Education] US backs Elon Musk's bid to overturn €120m EU fine against X](./2026-09-25-Education-us-backs-elon-musk-s-bid-to-overturn--120m-eu-fine.md)
+* [2026-09-25 - [Arts] Ed Sheeran's next US concerts cancelled due to storm warning](./2026-09-25-Arts-ed-sheeran-s-next-us-concerts-cancelled-due-to-sto.md)
 * [2026-09-24 - [Science] Just how hot and dry was your summer? Use our postcode lookup to find out](./2026-09-24-Science-just-how-hot-and-dry-was-your-summer--use-our-post.md)
 * [2026-09-24 - [Technology] X-planes: Are they needed in the new era of drones?](./2026-09-24-Technology-x-planes--are-they-needed-in-the-new-era-of-drones.md)
 * [2026-09-24 - [Education] Teenagers to be offered new vocational GCSE subjects in school](./2026-09-24-Education-teenagers-to-be-offered-new-vocational-gcse-subjec.md)
