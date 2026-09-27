@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-26 - [Science] The young women guiding tourists through India's night sky](./2026-09-26-Science-the-young-women-guiding-tourists-through-india-s-n.md)
+* [2026-09-26 - [Technology] OpenAI bots meddled with multiple US government agency sites](./2026-09-26-Technology-openai-bots-meddled-with-multiple-us-government-ag.md)
 * [2026-09-25 - [Science] The treasured 'eternal snow' on this tropical island is about to disappear forever](./2026-09-25-Science-the-treasured--eternal-snow--on-this-tropical-isla.md)
 * [2026-09-26 - [Technology] OpenAI investigating 'dozens' of instances of agents acting improperly ](./2026-09-26-Technology-openai-investigating--dozens--of-instances-of-agen.md)
 * [2026-09-25 - [Education] US backs Elon Musk's bid to overturn €120m EU fine against X](./2026-09-25-Education-us-backs-elon-musk-s-bid-to-overturn--120m-eu-fine.md)
