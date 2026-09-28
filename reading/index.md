@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-28 - [Science] Shipwreck found on Nantucket beach during storm](./2026-09-28-Science-shipwreck-found-on-nantucket-beach-during-storm.md)
+* [2026-09-26 - [Arts] Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?](./2026-09-26-Arts-celebrity-traitors-2-cast--who-are-this-year-s--bi.md)
 * [2026-09-26 - [Science] The young women guiding tourists through India's night sky](./2026-09-26-Science-the-young-women-guiding-tourists-through-india-s-n.md)
 * [2026-09-26 - [Technology] OpenAI bots meddled with multiple US government agency sites](./2026-09-26-Technology-openai-bots-meddled-with-multiple-us-government-ag.md)
 * [2026-09-25 - [Science] The treasured 'eternal snow' on this tropical island is about to disappear forever](./2026-09-25-Science-the-treasured--eternal-snow--on-this-tropical-isla.md)
