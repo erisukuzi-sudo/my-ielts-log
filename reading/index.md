@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-28 - [Science] Hurricane Polo unleashes threatening winds as it approaches Mexico](./2026-09-28-Science-hurricane-polo-unleashes-threatening-winds-as-it-a.md)
+* [2026-09-29 - [Technology] OpenAI scraps rollout of new model over safety concerns](./2026-09-29-Technology-openai-scraps-rollout-of-new-model-over-safety-con.md)
+* [2026-09-28 - [Arts] Slipknot fans hit back after Marilyn Manson announced as support act for UK show ](./2026-09-28-Arts-slipknot-fans-hit-back-after-marilyn-manson-announ.md)
 * [2026-09-28 - [Science] Shipwreck found on Nantucket beach during storm](./2026-09-28-Science-shipwreck-found-on-nantucket-beach-during-storm.md)
 * [2026-09-26 - [Arts] Celebrity Traitors 2 cast: Who are this year's 'big dogs' and dark horses?](./2026-09-26-Arts-celebrity-traitors-2-cast--who-are-this-year-s--bi.md)
 * [2026-09-26 - [Science] The young women guiding tourists through India's night sky](./2026-09-26-Science-the-young-women-guiding-tourists-through-india-s-n.md)
