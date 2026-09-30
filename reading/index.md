@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-09-30 - [Science] How AI is creating a UK super-museum and revealing our planet's history](./2026-09-30-Science-how-ai-is-creating-a-uk-super-museum-and-revealing.md)
+* [2026-09-29 - [Technology] OpenAI unveils AI assistant 'dots' while safety worries delay new model](./2026-09-29-Technology-openai-unveils-ai-assistant--dots--while-safety-wo.md)
+* [2026-09-30 - [Education] Antisemitism on the rise at universities, charity warns](./2026-09-30-Education-antisemitism-on-the-rise-at-universities--charity-.md)
+* [2026-09-29 - [Arts] National museums to stay free for all visitors ](./2026-09-29-Arts-national-museums-to-stay-free-for-all-visitors-.md)
 * [2026-09-28 - [Science] Hurricane Polo unleashes threatening winds as it approaches Mexico](./2026-09-28-Science-hurricane-polo-unleashes-threatening-winds-as-it-a.md)
 * [2026-09-29 - [Technology] OpenAI scraps rollout of new model over safety concerns](./2026-09-29-Technology-openai-scraps-rollout-of-new-model-over-safety-con.md)
 * [2026-09-28 - [Arts] Slipknot fans hit back after Marilyn Manson announced as support act for UK show ](./2026-09-28-Arts-slipknot-fans-hit-back-after-marilyn-manson-announ.md)
