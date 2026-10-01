@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-01 - [Science] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies](./2026-10-01-Science-swiss-glaciers-suffer--disastrous--year-of-ice-los.md)
+* [2026-09-30 - [Technology] Tiny image sparks big backlash in Nikon photo contest](./2026-09-30-Technology-tiny-image-sparks-big-backlash-in-nikon-photo-cont.md)
+* [2026-09-30 - [Education] Employers should teach primary-age children about work, says Milburn](./2026-09-30-Education-employers-should-teach-primary-age-children-about-.md)
+* [2026-10-01 - [Arts] Veteran broadcaster Dame Esther Rantzen dies aged 86](./2026-10-01-Arts-veteran-broadcaster-dame-esther-rantzen-dies-aged-.md)
 * [2026-09-30 - [Science] How AI is creating a UK super-museum and revealing our planet's history](./2026-09-30-Science-how-ai-is-creating-a-uk-super-museum-and-revealing.md)
 * [2026-09-29 - [Technology] OpenAI unveils AI assistant 'dots' while safety worries delay new model](./2026-09-29-Technology-openai-unveils-ai-assistant--dots--while-safety-wo.md)
 * [2026-09-30 - [Education] Antisemitism on the rise at universities, charity warns](./2026-09-30-Education-antisemitism-on-the-rise-at-universities--charity-.md)
