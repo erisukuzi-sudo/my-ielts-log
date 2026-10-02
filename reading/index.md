@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-01 - [Science] Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding](./2026-10-01-Science-prince-of-wales-tells-villagers--holistic--approac.md)
+* [2026-10-02 - [Technology] OpenAI fires three workers over mishandling 'sensitive information'](./2026-10-02-Technology-openai-fires-three-workers-over-mishandling--sensi.md)
+* [2026-10-01 - [Education] Employers should teach primary-age children about work, says Milburn](./2026-10-01-Education-employers-should-teach-primary-age-children-about-.md)
+* [2026-10-01 - [Arts] Chaos, coffins and 'Claudiapatra' steal the show in Celebrity Traitors](./2026-10-01-Arts-chaos--coffins-and--claudiapatra--steal-the-show-i.md)
 * [2026-10-01 - [Science] Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies](./2026-10-01-Science-swiss-glaciers-suffer--disastrous--year-of-ice-los.md)
 * [2026-09-30 - [Technology] Tiny image sparks big backlash in Nikon photo contest](./2026-09-30-Technology-tiny-image-sparks-big-backlash-in-nikon-photo-cont.md)
 * [2026-09-30 - [Education] Employers should teach primary-age children about work, says Milburn](./2026-09-30-Education-employers-should-teach-primary-age-children-about-.md)
