@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-02 - [Science] Could El Niño mean there are no Atlantic hurricanes this year?](./2026-10-02-Science-could-el-ni-o-mean-there-are-no-atlantic-hurricane.md)
+* [2026-10-02 - [Technology] OpenAI fires workers for 'mishandling sensitive information'](./2026-10-02-Technology-openai-fires-workers-for--mishandling-sensitive-in.md)
+* [2026-10-02 - [Arts] Traitors claim their first victim as Richard E Grant tries to save his skin](./2026-10-02-Arts-traitors-claim-their-first-victim-as-richard-e-gra.md)
 * [2026-10-01 - [Science] Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding](./2026-10-01-Science-prince-of-wales-tells-villagers--holistic--approac.md)
 * [2026-10-02 - [Technology] OpenAI fires three workers over mishandling 'sensitive information'](./2026-10-02-Technology-openai-fires-three-workers-over-mishandling--sensi.md)
 * [2026-10-01 - [Education] Employers should teach primary-age children about work, says Milburn](./2026-10-01-Education-employers-should-teach-primary-age-children-about-.md)
