@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-03 - [Science] I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise](./2026-10-03-Science-i-m-a-wildlife-cameraman-but--special--rare-sighti.md)
+* [2026-10-03 - [Education] Tories pledge to scrap £100,000 childcare 'cliff edge'](./2026-10-03-Education-tories-pledge-to-scrap--100-000-childcare--cliff-e.md)
+* [2026-10-04 - [Arts] The Celebrity Traitors connections that might surprise you](./2026-10-04-Arts-the-celebrity-traitors-connections-that-might-surp.md)
 * [2026-10-02 - [Science] Could El Niño mean there are no Atlantic hurricanes this year?](./2026-10-02-Science-could-el-ni-o-mean-there-are-no-atlantic-hurricane.md)
 * [2026-10-02 - [Technology] OpenAI fires workers for 'mishandling sensitive information'](./2026-10-02-Technology-openai-fires-workers-for--mishandling-sensitive-in.md)
 * [2026-10-02 - [Arts] Traitors claim their first victim as Richard E Grant tries to save his skin](./2026-10-02-Arts-traitors-claim-their-first-victim-as-richard-e-gra.md)
