@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-04 - [Science] Students blast off to US for Nasa robotics competition](./2026-10-04-Science-students-blast-off-to-us-for-nasa-robotics-competi.md)
+* [2026-10-05 - [Technology] Trump announces 'Super Intelligence Force' to oversee AI policy](./2026-10-05-Technology-trump-announces--super-intelligence-force--to-over.md)
+* [2026-10-04 - [Education] Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference](./2026-10-04-Education-badenoch-unveils-plan-to-end--100-000-childcare--c.md)
+* [2026-10-04 - [Arts] Glastonbury 2027 tickets sell out in 42 minutes](./2026-10-04-Arts-glastonbury-2027-tickets-sell-out-in-42-minutes.md)
 * [2026-10-03 - [Science] I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise](./2026-10-03-Science-i-m-a-wildlife-cameraman-but--special--rare-sighti.md)
 * [2026-10-03 - [Education] Tories pledge to scrap £100,000 childcare 'cliff edge'](./2026-10-03-Education-tories-pledge-to-scrap--100-000-childcare--cliff-e.md)
 * [2026-10-04 - [Arts] The Celebrity Traitors connections that might surprise you](./2026-10-04-Arts-the-celebrity-traitors-connections-that-might-surp.md)
