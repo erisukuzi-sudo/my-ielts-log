@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-05 - [Science] Why are data centres such a big deal in Scotland?](./2026-10-05-Science-why-are-data-centres-such-a-big-deal-in-scotland-.md)
+* [2026-10-05 - [Technology] Pentagon stops using Anthropic AI tools after blacklisting company, BBC told](./2026-10-05-Technology-pentagon-stops-using-anthropic-ai-tools-after-blac.md)
+* [2026-10-05 - [Education] Potty training scheme to roll out to 20 more areas](./2026-10-05-Education-potty-training-scheme-to-roll-out-to-20-more-areas.md)
+* [2026-10-05 - [Arts] Author and former politician Jeffrey Archer dies aged 86](./2026-10-05-Arts-author-and-former-politician-jeffrey-archer-dies-a.md)
 * [2026-10-04 - [Science] Students blast off to US for Nasa robotics competition](./2026-10-04-Science-students-blast-off-to-us-for-nasa-robotics-competi.md)
 * [2026-10-05 - [Technology] Trump announces 'Super Intelligence Force' to oversee AI policy](./2026-10-05-Technology-trump-announces--super-intelligence-force--to-over.md)
 * [2026-10-04 - [Education] Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference](./2026-10-04-Education-badenoch-unveils-plan-to-end--100-000-childcare--c.md)
