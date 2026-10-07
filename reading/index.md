@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-06 - [Science] A beautiful Himalayan bird is changing its voice due to human activity, research shows](./2026-10-06-Science-a-beautiful-himalayan-bird-is-changing-its-voice-d.md)
+* [2026-10-06 - [Technology] Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'](./2026-10-06-Technology-braid-creator-jonathan-blow-on-making-the--biggest.md)
+* [2026-10-06 - [Education] Ofcom investigates Meta over Instagram Instants feature](./2026-10-06-Education-ofcom-investigates-meta-over-instagram-instants-fe.md)
+* [2026-10-06 - [Arts] Queen pays tribute to 'irrepressible' Jeffrey Archer](./2026-10-06-Arts-queen-pays-tribute-to--irrepressible--jeffrey-arch.md)
 * [2026-10-05 - [Science] Why are data centres such a big deal in Scotland?](./2026-10-05-Science-why-are-data-centres-such-a-big-deal-in-scotland-.md)
 * [2026-10-05 - [Technology] Pentagon stops using Anthropic AI tools after blacklisting company, BBC told](./2026-10-05-Technology-pentagon-stops-using-anthropic-ai-tools-after-blac.md)
 * [2026-10-05 - [Education] Potty training scheme to roll out to 20 more areas](./2026-10-05-Education-potty-training-scheme-to-roll-out-to-20-more-areas.md)
