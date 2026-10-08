@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-07 - [Science] Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026](./2026-10-07-Science-tropical-storm-isaias-forecast-to-become-first-atl.md)
+* [2026-10-08 - [Technology] AI chip boom pushes Samsung profits to record $80bn](./2026-10-08-Technology-ai-chip-boom-pushes-samsung-profits-to-record--80b.md)
+* [2026-10-07 - [Arts] Oscar-winning actress Eva Marie Saint dies aged 102](./2026-10-07-Arts-oscar-winning-actress-eva-marie-saint-dies-aged-10.md)
 * [2026-10-06 - [Science] A beautiful Himalayan bird is changing its voice due to human activity, research shows](./2026-10-06-Science-a-beautiful-himalayan-bird-is-changing-its-voice-d.md)
 * [2026-10-06 - [Technology] Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'](./2026-10-06-Technology-braid-creator-jonathan-blow-on-making-the--biggest.md)
 * [2026-10-06 - [Education] Ofcom investigates Meta over Instagram Instants feature](./2026-10-06-Education-ofcom-investigates-meta-over-instagram-instants-fe.md)
