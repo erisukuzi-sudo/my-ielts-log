@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-08 - [Science] Why are more roofs not made of solar tiles?](./2026-10-08-Science-why-are-more-roofs-not-made-of-solar-tiles-.md)
+* [2026-10-08 - [Technology] Why are more roofs not made of solar tiles?](./2026-10-08-Technology-why-are-more-roofs-not-made-of-solar-tiles-.md)
+* [2026-10-08 - [Arts] Emotions run high at the round table as Celebrity Traitors banish two players](./2026-10-08-Arts-emotions-run-high-at-the-round-table-as-celebrity-.md)
 * [2026-10-07 - [Science] Tropical Storm Isaias forecast to become first Atlantic hurricane of 2026](./2026-10-07-Science-tropical-storm-isaias-forecast-to-become-first-atl.md)
 * [2026-10-08 - [Technology] AI chip boom pushes Samsung profits to record $80bn](./2026-10-08-Technology-ai-chip-boom-pushes-samsung-profits-to-record--80b.md)
 * [2026-10-07 - [Arts] Oscar-winning actress Eva Marie Saint dies aged 102](./2026-10-07-Arts-oscar-winning-actress-eva-marie-saint-dies-aged-10.md)
