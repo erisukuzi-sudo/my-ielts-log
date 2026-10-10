@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-10 - [Science] Life-threatening Hurricane Isaias makes landfall in Florida](./2026-10-10-Science-life-threatening-hurricane-isaias-makes-landfall-i.md)
+* [2026-10-09 - [Technology] Prize-winning image which sparked backlash was AI-generated, Nikon rules](./2026-10-09-Technology-prize-winning-image-which-sparked-backlash-was-ai-.md)
+* [2026-10-09 - [Education] Ofsted faces fresh calls to halt graded school inspections in England](./2026-10-09-Education-ofsted-faces-fresh-calls-to-halt-graded-school-ins.md)
+* [2026-10-09 - [Arts] Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up](./2026-10-09-Arts-screams--haunting-scenes-and-deadly-hide-and-seek-.md)
 * [2026-10-08 - [Science] Why are more roofs not made of solar tiles?](./2026-10-08-Science-why-are-more-roofs-not-made-of-solar-tiles-.md)
 * [2026-10-08 - [Technology] Why are more roofs not made of solar tiles?](./2026-10-08-Technology-why-are-more-roofs-not-made-of-solar-tiles-.md)
 * [2026-10-08 - [Arts] Emotions run high at the round table as Celebrity Traitors banish two players](./2026-10-08-Arts-emotions-run-high-at-the-round-table-as-celebrity-.md)
