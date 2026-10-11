@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-10 - [Science] Four dead and thousands without power after Hurricane Isaias lashes US](./2026-10-10-Science-four-dead-and-thousands-without-power-after-hurric.md)
+* [2026-10-10 - [Technology] King warns malicious online actors are evolving tactics](./2026-10-10-Technology-king-warns-malicious-online-actors-are-evolving-ta.md)
+* [2026-10-10 - [Arts] Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted](./2026-10-10-Arts-inside-the-room--what-it-was-like-to-be-with-black.md)
 * [2026-10-10 - [Science] Life-threatening Hurricane Isaias makes landfall in Florida](./2026-10-10-Science-life-threatening-hurricane-isaias-makes-landfall-i.md)
 * [2026-10-09 - [Technology] Prize-winning image which sparked backlash was AI-generated, Nikon rules](./2026-10-09-Technology-prize-winning-image-which-sparked-backlash-was-ai-.md)
 * [2026-10-09 - [Education] Ofsted faces fresh calls to halt graded school inspections in England](./2026-10-09-Education-ofsted-faces-fresh-calls-to-halt-graded-school-ins.md)
