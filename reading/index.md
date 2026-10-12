@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-11 - [Science] Watch: Endangered orangutans released back into the wild after Borneo fires](./2026-10-11-Science-watch--endangered-orangutans-released-back-into-th.md)
+* [2026-10-11 - [Technology] AI is less regulated than milk, says Microsoft president](./2026-10-11-Technology-ai-is-less-regulated-than-milk--says-microsoft-pre.md)
 * [2026-10-10 - [Science] Four dead and thousands without power after Hurricane Isaias lashes US](./2026-10-10-Science-four-dead-and-thousands-without-power-after-hurric.md)
 * [2026-10-10 - [Technology] King warns malicious online actors are evolving tactics](./2026-10-10-Technology-king-warns-malicious-online-actors-are-evolving-ta.md)
 * [2026-10-10 - [Arts] Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted](./2026-10-10-Arts-inside-the-room--what-it-was-like-to-be-with-black.md)
