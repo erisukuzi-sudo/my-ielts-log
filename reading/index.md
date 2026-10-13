@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-12 - [Science] Crew searching for Amelia Earhart arrives at crab-infested island](./2026-10-12-Science-crew-searching-for-amelia-earhart-arrives-at-crab-.md)
+* [2026-10-13 - [Technology] Bumble shares soar after report dating firm in $1bn takeover talks](./2026-10-13-Technology-bumble-shares-soar-after-report-dating-firm-in--1b.md)
+* [2026-10-13 - [Arts] Breaking Bad actor RJ Mitte dies aged 34](./2026-10-13-Arts-breaking-bad-actor-rj-mitte-dies-aged-34.md)
 * [2026-10-11 - [Science] Watch: Endangered orangutans released back into the wild after Borneo fires](./2026-10-11-Science-watch--endangered-orangutans-released-back-into-th.md)
 * [2026-10-11 - [Technology] AI is less regulated than milk, says Microsoft president](./2026-10-11-Technology-ai-is-less-regulated-than-milk--says-microsoft-pre.md)
 * [2026-10-10 - [Science] Four dead and thousands without power after Hurricane Isaias lashes US](./2026-10-10-Science-four-dead-and-thousands-without-power-after-hurric.md)
