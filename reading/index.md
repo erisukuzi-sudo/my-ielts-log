@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-13 - [Science] Gales and heavy rain to impact UK as yellow wind warning issued](./2026-10-13-Science-gales-and-heavy-rain-to-impact-uk-as-yellow-wind-w.md)
+* [2026-10-13 - [Technology] How long will humans be needed for translation?](./2026-10-13-Technology-how-long-will-humans-be-needed-for-translation-.md)
+* [2026-10-13 - [Education] Cut screen time in classrooms to avoid long-term health issues, clinicians urge](./2026-10-13-Education-cut-screen-time-in-classrooms-to-avoid-long-term-h.md)
+* [2026-10-13 - [Arts] Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder](./2026-10-13-Arts-ex-gang-boss-sentenced-to-40-years-for-orchestrati.md)
 * [2026-10-12 - [Science] Crew searching for Amelia Earhart arrives at crab-infested island](./2026-10-12-Science-crew-searching-for-amelia-earhart-arrives-at-crab-.md)
 * [2026-10-13 - [Technology] Bumble shares soar after report dating firm in $1bn takeover talks](./2026-10-13-Technology-bumble-shares-soar-after-report-dating-firm-in--1b.md)
 * [2026-10-13 - [Arts] Breaking Bad actor RJ Mitte dies aged 34](./2026-10-13-Arts-breaking-bad-actor-rj-mitte-dies-aged-34.md)
