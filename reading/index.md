@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-14 - [Science] Dog that hunts invasive 'sea vomit' honoured as animal of the year](./2026-10-14-Science-dog-that-hunts-invasive--sea-vomit--honoured-as-an.md)
+* [2026-10-15 - [Technology] Anthropic revenue surges to $16.8bn ahead of stock market listing](./2026-10-15-Technology-anthropic-revenue-surges-to--16-8bn-ahead-of-stock.md)
+* [2026-10-14 - [Arts] Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins](./2026-10-14-Arts-russell-brand-was-a--sexual-predator---prosecution.md)
 * [2026-10-13 - [Science] Gales and heavy rain to impact UK as yellow wind warning issued](./2026-10-13-Science-gales-and-heavy-rain-to-impact-uk-as-yellow-wind-w.md)
 * [2026-10-13 - [Technology] How long will humans be needed for translation?](./2026-10-13-Technology-how-long-will-humans-be-needed-for-translation-.md)
 * [2026-10-13 - [Education] Cut screen time in classrooms to avoid long-term health issues, clinicians urge](./2026-10-13-Education-cut-screen-time-in-classrooms-to-avoid-long-term-h.md)
