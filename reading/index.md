@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-15 - [Science] Living with a stink? Technology might help](./2026-10-15-Science-living-with-a-stink--technology-might-help.md)
+* [2026-10-15 - [Technology] Porn showing choking or incest to be banned from early November, government says](./2026-10-15-Technology-porn-showing-choking-or-incest-to-be-banned-from-e.md)
+* [2026-10-15 - [Arts] Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march](./2026-10-15-Arts-sparks-fly-at-the-celebrity-traitors-round-table-a.md)
 * [2026-10-14 - [Science] Dog that hunts invasive 'sea vomit' honoured as animal of the year](./2026-10-14-Science-dog-that-hunts-invasive--sea-vomit--honoured-as-an.md)
 * [2026-10-15 - [Technology] Anthropic revenue surges to $16.8bn ahead of stock market listing](./2026-10-15-Technology-anthropic-revenue-surges-to--16-8bn-ahead-of-stock.md)
 * [2026-10-14 - [Arts] Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins](./2026-10-14-Arts-russell-brand-was-a--sexual-predator---prosecution.md)
