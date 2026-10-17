@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-16 - [Technology] Toxic algorithms wouldn't let them go - now Australia wants an off switch](./2026-10-16-Technology-toxic-algorithms-wouldn-t-let-them-go---now-austra.md)
+* [2026-10-16 - [Arts] Woman says she was left 'bewildered and confused' by alleged Russell Brand assault](./2026-10-16-Arts-woman-says-she-was-left--bewildered-and-confused--.md)
 * [2026-10-15 - [Science] Living with a stink? Technology might help](./2026-10-15-Science-living-with-a-stink--technology-might-help.md)
 * [2026-10-15 - [Technology] Porn showing choking or incest to be banned from early November, government says](./2026-10-15-Technology-porn-showing-choking-or-incest-to-be-banned-from-e.md)
 * [2026-10-15 - [Arts] Sparks fly at the Celebrity Traitors round table and a 'terrifying' death march](./2026-10-15-Arts-sparks-fly-at-the-celebrity-traitors-round-table-a.md)
