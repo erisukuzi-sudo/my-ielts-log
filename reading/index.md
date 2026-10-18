@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-17 - [Science] Fast-moving California wildfire burns homes as people are ordered to leave](./2026-10-17-Science-fast-moving-california-wildfire-burns-homes-as-peo.md)
+* [2026-10-17 - [Technology] No further action against government adviser's wife over Palestine Action post, police say](./2026-10-17-Technology-no-further-action-against-government-adviser-s-wif.md)
+* [2026-10-17 - [Arts] Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors](./2026-10-17-Arts-miranda-s-tears--joy-and-dance-moves-steal-show-as.md)
 * [2026-10-16 - [Technology] Toxic algorithms wouldn't let them go - now Australia wants an off switch](./2026-10-16-Technology-toxic-algorithms-wouldn-t-let-them-go---now-austra.md)
 * [2026-10-16 - [Arts] Woman says she was left 'bewildered and confused' by alleged Russell Brand assault](./2026-10-16-Arts-woman-says-she-was-left--bewildered-and-confused--.md)
 * [2026-10-15 - [Science] Living with a stink? Technology might help](./2026-10-15-Science-living-with-a-stink--technology-might-help.md)
