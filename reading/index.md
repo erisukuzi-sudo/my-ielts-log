@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-18 - [Science] Mission set to blast off for Mars to grab a piece of its moon](./2026-10-18-Science-mission-set-to-blast-off-for-mars-to-grab-a-piece-.md)
+* [2026-10-18 - [Technology] Don't fall for this - how to protect yourself from AI scams](./2026-10-18-Technology-don-t-fall-for-this---how-to-protect-yourself-from.md)
+* [2026-10-18 - [Arts] Cindy Crawford 'beyond heartbroken' after death of son Presley at 27](./2026-10-18-Arts-cindy-crawford--beyond-heartbroken--after-death-of.md)
 * [2026-10-17 - [Science] Fast-moving California wildfire burns homes as people are ordered to leave](./2026-10-17-Science-fast-moving-california-wildfire-burns-homes-as-peo.md)
 * [2026-10-17 - [Technology] No further action against government adviser's wife over Palestine Action post, police say](./2026-10-17-Technology-no-further-action-against-government-adviser-s-wif.md)
 * [2026-10-17 - [Arts] Miranda's tears, joy and dance moves steal show as deadly boredom sets in on The Celebrity Traitors](./2026-10-17-Arts-miranda-s-tears--joy-and-dance-moves-steal-show-as.md)
