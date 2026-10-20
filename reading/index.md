@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-19 - [Science] Five ways El Niño is affecting the weather around the world](./2026-10-19-Science-five-ways-el-ni-o-is-affecting-the-weather-around-.md)
+* [2026-10-19 - [Technology] Ex-OpenAI worker accused of planting device had Saudi support, says court filing](./2026-10-19-Technology-ex-openai-worker-accused-of-planting-device-had-sa.md)
+* [2026-10-19 - [Arts] Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape](./2026-10-19-Arts-woman-says-she--closed-eyes-and-tried-not-to-be-th.md)
 * [2026-10-18 - [Science] Mission set to blast off for Mars to grab a piece of its moon](./2026-10-18-Science-mission-set-to-blast-off-for-mars-to-grab-a-piece-.md)
 * [2026-10-18 - [Technology] Don't fall for this - how to protect yourself from AI scams](./2026-10-18-Technology-don-t-fall-for-this---how-to-protect-yourself-from.md)
 * [2026-10-18 - [Arts] Cindy Crawford 'beyond heartbroken' after death of son Presley at 27](./2026-10-18-Arts-cindy-crawford--beyond-heartbroken--after-death-of.md)
