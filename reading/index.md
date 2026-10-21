@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-20 - [Science] Huge fin whale filmed off Welsh coast](./2026-10-20-Science-huge-fin-whale-filmed-off-welsh-coast.md)
+* [2026-10-20 - [Technology] Elon Musk says Tesla-SpaceX merger being considered](./2026-10-20-Technology-elon-musk-says-tesla-spacex-merger-being-considere.md)
+* [2026-10-20 - [Arts] BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close](./2026-10-20-Arts-bbc-three--bbc-scotland-and-radio-4-extra-broadcas.md)
 * [2026-10-19 - [Science] Five ways El Niño is affecting the weather around the world](./2026-10-19-Science-five-ways-el-ni-o-is-affecting-the-weather-around-.md)
 * [2026-10-19 - [Technology] Ex-OpenAI worker accused of planting device had Saudi support, says court filing](./2026-10-19-Technology-ex-openai-worker-accused-of-planting-device-had-sa.md)
 * [2026-10-19 - [Arts] Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape](./2026-10-19-Arts-woman-says-she--closed-eyes-and-tried-not-to-be-th.md)
