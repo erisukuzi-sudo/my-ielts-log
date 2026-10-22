@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-21 - [Science] Why is a peat fire so bad? BBC is in Indonesia to find out](./2026-10-21-Science-why-is-a-peat-fire-so-bad--bbc-is-in-indonesia-to-.md)
+* [2026-10-21 - [Technology] Trump's green card curbs test Indian tech workers' American dream](./2026-10-21-Technology-trump-s-green-card-curbs-test-indian-tech-workers-.md)
+* [2026-10-21 - [Education] Only one female scientist named in GCSEs, research finds](./2026-10-21-Education-only-one-female-scientist-named-in-gcses--research.md)
+* [2026-10-21 - [Arts] Don't Stop Believin'! - high school musical Glee set for reboot](./2026-10-21-Arts-don-t-stop-believin-----high-school-musical-glee-s.md)
 * [2026-10-20 - [Science] Huge fin whale filmed off Welsh coast](./2026-10-20-Science-huge-fin-whale-filmed-off-welsh-coast.md)
 * [2026-10-20 - [Technology] Elon Musk says Tesla-SpaceX merger being considered](./2026-10-20-Technology-elon-musk-says-tesla-spacex-merger-being-considere.md)
 * [2026-10-20 - [Arts] BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close](./2026-10-20-Arts-bbc-three--bbc-scotland-and-radio-4-extra-broadcas.md)
