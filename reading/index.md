@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-23 - [Science] Amber warning in place as Storm Austen hits parts of UK](./2026-10-23-Science-amber-warning-in-place-as-storm-austen-hits-parts-.md)
+* [2026-10-22 - [Technology] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](./2026-10-22-Technology-zuckerberg-wins-meta-deal-to-help-him-foot-bill-fo.md)
+* [2026-10-23 - [Arts] Raye wins the Mercury Prize with This Music May Contain Hope](./2026-10-23-Arts-raye-wins-the-mercury-prize-with-this-music-may-co.md)
 * [2026-10-21 - [Science] Why is a peat fire so bad? BBC is in Indonesia to find out](./2026-10-21-Science-why-is-a-peat-fire-so-bad--bbc-is-in-indonesia-to-.md)
 * [2026-10-21 - [Technology] Trump's green card curbs test Indian tech workers' American dream](./2026-10-21-Technology-trump-s-green-card-curbs-test-indian-tech-workers-.md)
 * [2026-10-21 - [Education] Only one female scientist named in GCSEs, research finds](./2026-10-21-Education-only-one-female-scientist-named-in-gcses--research.md)
