@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-23 - [Science] Storm Austen brings power cuts and travel disruption as more wind and rain forecast](./2026-10-23-Science-storm-austen-brings-power-cuts-and-travel-disrupti.md)
+* [2026-10-24 - [Technology] UK to invest £100m in 'world first' AI Biosecurity Lab](./2026-10-24-Technology-uk-to-invest--100m-in--world-first--ai-biosecurity.md)
+* [2026-10-23 - [Arts] Celebrity Traitors left on a knife edge after a trip to the field of screams](./2026-10-23-Arts-celebrity-traitors-left-on-a-knife-edge-after-a-tr.md)
 * [2026-10-23 - [Science] Amber warning in place as Storm Austen hits parts of UK](./2026-10-23-Science-amber-warning-in-place-as-storm-austen-hits-parts-.md)
 * [2026-10-22 - [Technology] Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax](./2026-10-22-Technology-zuckerberg-wins-meta-deal-to-help-him-foot-bill-fo.md)
 * [2026-10-23 - [Arts] Raye wins the Mercury Prize with This Music May Contain Hope](./2026-10-23-Arts-raye-wins-the-mercury-prize-with-this-music-may-co.md)
