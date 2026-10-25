@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-24 - [Science] Rosebank: Life on the oil field at the centre of a political storm](./2026-10-24-Science-rosebank--life-on-the-oil-field-at-the-centre-of-a.md)
+* [2026-10-24 - [Arts] Why the charts are full of old songs - and so are your playlists](./2026-10-24-Arts-why-the-charts-are-full-of-old-songs---and-so-are-.md)
 * [2026-10-23 - [Science] Storm Austen brings power cuts and travel disruption as more wind and rain forecast](./2026-10-23-Science-storm-austen-brings-power-cuts-and-travel-disrupti.md)
 * [2026-10-24 - [Technology] UK to invest £100m in 'world first' AI Biosecurity Lab](./2026-10-24-Technology-uk-to-invest--100m-in--world-first--ai-biosecurity.md)
 * [2026-10-23 - [Arts] Celebrity Traitors left on a knife edge after a trip to the field of screams](./2026-10-23-Arts-celebrity-traitors-left-on-a-knife-edge-after-a-tr.md)
