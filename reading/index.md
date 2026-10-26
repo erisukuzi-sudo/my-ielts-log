@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-26 - [Science] From agriculture to AI-griculture: How tech is changing farming](./2026-10-26-Science-from-agriculture-to-ai-griculture--how-tech-is-cha.md)
+* [2026-10-25 - [Technology] Data centre debate heats up ahead of US midterms - here's what you need to know](./2026-10-25-Technology-data-centre-debate-heats-up-ahead-of-us-midterms--.md)
 * [2026-10-24 - [Science] Rosebank: Life on the oil field at the centre of a political storm](./2026-10-24-Science-rosebank--life-on-the-oil-field-at-the-centre-of-a.md)
 * [2026-10-24 - [Arts] Why the charts are full of old songs - and so are your playlists](./2026-10-24-Arts-why-the-charts-are-full-of-old-songs---and-so-are-.md)
 * [2026-10-23 - [Science] Storm Austen brings power cuts and travel disruption as more wind and rain forecast](./2026-10-23-Science-storm-austen-brings-power-cuts-and-travel-disrupti.md)
