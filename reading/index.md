@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-26 - [Science] New weather warnings as third storm set to hit Scotland](./2026-10-26-Science-new-weather-warnings-as-third-storm-set-to-hit-sco.md)
+* [2026-10-27 - [Technology] Apple says it will replace iPhone Duo handsets with screen problems](./2026-10-27-Technology-apple-says-it-will-replace-iphone-duo-handsets-wit.md)
+* [2026-10-26 - [Arts] Busted's James Bourne says 'hero' brother saved his life with kidney donation](./2026-10-26-Arts-busted-s-james-bourne-says--hero--brother-saved-hi.md)
 * [2026-10-26 - [Science] From agriculture to AI-griculture: How tech is changing farming](./2026-10-26-Science-from-agriculture-to-ai-griculture--how-tech-is-cha.md)
 * [2026-10-25 - [Technology] Data centre debate heats up ahead of US midterms - here's what you need to know](./2026-10-25-Technology-data-centre-debate-heats-up-ahead-of-us-midterms--.md)
 * [2026-10-24 - [Science] Rosebank: Life on the oil field at the centre of a political storm](./2026-10-24-Science-rosebank--life-on-the-oil-field-at-the-centre-of-a.md)
