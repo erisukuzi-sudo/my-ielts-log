@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-27 - [Science] Weather warning lifted as third storm to hit Scotland eases off](./2026-10-27-Science-weather-warning-lifted-as-third-storm-to-hit-scotl.md)
+* [2026-10-28 - [Technology] 'An annoying buzz': The search for stealthier drones](./2026-10-28-Technology--an-annoying-buzz---the-search-for-stealthier-dron.md)
+* [2026-10-27 - [Arts] Meghan to co-host Junior MasterChef Australia](./2026-10-27-Arts-meghan-to-co-host-junior-masterchef-australia.md)
 * [2026-10-26 - [Science] New weather warnings as third storm set to hit Scotland](./2026-10-26-Science-new-weather-warnings-as-third-storm-set-to-hit-sco.md)
 * [2026-10-27 - [Technology] Apple says it will replace iPhone Duo handsets with screen problems](./2026-10-27-Technology-apple-says-it-will-replace-iphone-duo-handsets-wit.md)
 * [2026-10-26 - [Arts] Busted's James Bourne says 'hero' brother saved his life with kidney donation](./2026-10-26-Arts-busted-s-james-bourne-says--hero--brother-saved-hi.md)
