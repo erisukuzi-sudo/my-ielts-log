@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-28 - [Science] Building boom puts 300,000 people in the path of potential Himalayan disasters](./2026-10-28-Science-building-boom-puts-300-000-people-in-the-path-of-p.md)
+* [2026-10-29 - [Technology] Details of thousands of US immigration agents leaked in major hack](./2026-10-29-Technology-details-of-thousands-of-us-immigration-agents-leak.md)
+* [2026-10-29 - [Arts] Family row over George Michael items up for auction - including Faith guitar](./2026-10-29-Arts-family-row-over-george-michael-items-up-for-auctio.md)
 * [2026-10-27 - [Science] Weather warning lifted as third storm to hit Scotland eases off](./2026-10-27-Science-weather-warning-lifted-as-third-storm-to-hit-scotl.md)
 * [2026-10-28 - [Technology] 'An annoying buzz': The search for stealthier drones](./2026-10-28-Technology--an-annoying-buzz---the-search-for-stealthier-dron.md)
 * [2026-10-27 - [Arts] Meghan to co-host Junior MasterChef Australia](./2026-10-27-Arts-meghan-to-co-host-junior-masterchef-australia.md)
