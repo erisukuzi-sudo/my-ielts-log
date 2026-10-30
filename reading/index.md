@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-30 - [Science] From workshops to the catwalk - why mended clothes are going mainstream](./2026-10-30-Science-from-workshops-to-the-catwalk---why-mended-clothes.md)
+* [2026-10-30 - [Technology] Crypto worth billions frozen after suspected Binance hack](./2026-10-30-Technology-crypto-worth-billions-frozen-after-suspected-binan.md)
+* [2026-10-29 - [Education] Ofcom outlines age check methods ahead of social media ban for under-16s](./2026-10-29-Education-ofcom-outlines-age-check-methods-ahead-of-social-m.md)
+* [2026-10-30 - [Arts] Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare](./2026-10-30-Arts-sir-patrick-stewart--actor-who-moved-effortlessly-.md)
 * [2026-10-28 - [Science] Building boom puts 300,000 people in the path of potential Himalayan disasters](./2026-10-28-Science-building-boom-puts-300-000-people-in-the-path-of-p.md)
 * [2026-10-29 - [Technology] Details of thousands of US immigration agents leaked in major hack](./2026-10-29-Technology-details-of-thousands-of-us-immigration-agents-leak.md)
 * [2026-10-29 - [Arts] Family row over George Michael items up for auction - including Faith guitar](./2026-10-29-Arts-family-row-over-george-michael-items-up-for-auctio.md)
