@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-31 - [Science] Global nature talks reach deal but money remains an issue](./2026-10-31-Science-global-nature-talks-reach-deal-but-money-remains-a.md)
+* [2026-10-30 - [Technology] US tech stocks see sharp falls as AI spending nears $1tn](./2026-10-30-Technology-us-tech-stocks-see-sharp-falls-as-ai-spending-near.md)
+* [2026-10-30 - [Arts] Celebrity Traitors comes to a climax in nail-biting final](./2026-10-30-Arts-celebrity-traitors-comes-to-a-climax-in-nail-bitin.md)
 * [2026-10-30 - [Science] From workshops to the catwalk - why mended clothes are going mainstream](./2026-10-30-Science-from-workshops-to-the-catwalk---why-mended-clothes.md)
 * [2026-10-30 - [Technology] Crypto worth billions frozen after suspected Binance hack](./2026-10-30-Technology-crypto-worth-billions-frozen-after-suspected-binan.md)
 * [2026-10-29 - [Education] Ofcom outlines age check methods ahead of social media ban for under-16s](./2026-10-29-Education-ofcom-outlines-age-check-methods-ahead-of-social-m.md)
