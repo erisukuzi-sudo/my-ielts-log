@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-10-31 - [Science] 'Fascinating' rare beetle found in Wales again after 60 years ](./2026-10-31-Science--fascinating--rare-beetle-found-in-wales-again-aft.md)
+* [2026-11-01 - [Technology] These firms you've never heard of are feeding fears the AI bubble could burst](./2026-11-01-Technology-these-firms-you-ve-never-heard-of-are-feeding-fear.md)
+* [2026-10-31 - [Arts] 'It's been killing me!' Celebrity Traitors winners relieved the secret is out](./2026-10-31-Arts--it-s-been-killing-me---celebrity-traitors-winners.md)
 * [2026-10-31 - [Science] Global nature talks reach deal but money remains an issue](./2026-10-31-Science-global-nature-talks-reach-deal-but-money-remains-a.md)
 * [2026-10-30 - [Technology] US tech stocks see sharp falls as AI spending nears $1tn](./2026-10-30-Technology-us-tech-stocks-see-sharp-falls-as-ai-spending-near.md)
 * [2026-10-30 - [Arts] Celebrity Traitors comes to a climax in nail-biting final](./2026-10-30-Arts-celebrity-traitors-comes-to-a-climax-in-nail-bitin.md)
