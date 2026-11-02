@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-01 - [Science] 'Fascinating' rare beetle found in Wales again after 60 years ](./2026-11-01-Science--fascinating--rare-beetle-found-in-wales-again-aft.md)
+* [2026-11-02 - [Technology] Binance users withdraw $3.6bn after record crypto hack](./2026-11-02-Technology-binance-users-withdraw--3-6bn-after-record-crypto-.md)
+* [2026-11-01 - [Arts] Who are the real winners of Celebrity Traitors?](./2026-11-01-Arts-who-are-the-real-winners-of-celebrity-traitors-.md)
 * [2026-10-31 - [Science] 'Fascinating' rare beetle found in Wales again after 60 years ](./2026-10-31-Science--fascinating--rare-beetle-found-in-wales-again-aft.md)
 * [2026-11-01 - [Technology] These firms you've never heard of are feeding fears the AI bubble could burst](./2026-11-01-Technology-these-firms-you-ve-never-heard-of-are-feeding-fear.md)
 * [2026-10-31 - [Arts] 'It's been killing me!' Celebrity Traitors winners relieved the secret is out](./2026-10-31-Arts--it-s-been-killing-me---celebrity-traitors-winners.md)
