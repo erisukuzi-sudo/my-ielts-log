@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-03 - [Science] From scooters to shampoo - the people saving hundreds from dumpster diving](./2026-11-03-Science-from-scooters-to-shampoo---the-people-saving-hundr.md)
+* [2026-11-03 - [Technology] North Korea denies being behind record $6.3bn Binance hack](./2026-11-03-Technology-north-korea-denies-being-behind-record--6-3bn-bina.md)
+* [2026-11-03 - [Arts] 'Mogging' is Collins' word of the year... but do you know what it means?](./2026-11-03-Arts--mogging--is-collins--word-of-the-year----but-do-y.md)
 * [2026-11-01 - [Science] 'Fascinating' rare beetle found in Wales again after 60 years ](./2026-11-01-Science--fascinating--rare-beetle-found-in-wales-again-aft.md)
 * [2026-11-02 - [Technology] Binance users withdraw $3.6bn after record crypto hack](./2026-11-02-Technology-binance-users-withdraw--3-6bn-after-record-crypto-.md)
 * [2026-11-01 - [Arts] Who are the real winners of Celebrity Traitors?](./2026-11-01-Arts-who-are-the-real-winners-of-celebrity-traitors-.md)
