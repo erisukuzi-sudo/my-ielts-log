@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-03 - [Science] Prince William says UK faces terrifying risk of more wildfires due to climate change](./2026-11-03-Science-prince-william-says-uk-faces-terrifying-risk-of-mo.md)
+* [2026-11-04 - [Technology] Graduates are managing AI - but are they learning much else?](./2026-11-04-Technology-graduates-are-managing-ai---but-are-they-learning-.md)
+* [2026-11-04 - [Arts] Why Kim Kardashian came back to 'the worst TV drama ever'](./2026-11-04-Arts-why-kim-kardashian-came-back-to--the-worst-tv-dram.md)
 * [2026-11-03 - [Science] From scooters to shampoo - the people saving hundreds from dumpster diving](./2026-11-03-Science-from-scooters-to-shampoo---the-people-saving-hundr.md)
 * [2026-11-03 - [Technology] North Korea denies being behind record $6.3bn Binance hack](./2026-11-03-Technology-north-korea-denies-being-behind-record--6-3bn-bina.md)
 * [2026-11-03 - [Arts] 'Mogging' is Collins' word of the year... but do you know what it means?](./2026-11-03-Arts--mogging--is-collins--word-of-the-year----but-do-y.md)
