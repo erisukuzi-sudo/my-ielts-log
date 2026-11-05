@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-04 - [Science] Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'](./2026-11-04-Science-typhoons-batter-east-asia-as-el-ni-o-makes-pacific.md)
+* [2026-11-04 - [Technology] Elon Musk's millions failed to deliver Republican wins in fierce midterms](./2026-11-04-Technology-elon-musk-s-millions-failed-to-deliver-republican-.md)
+* [2026-11-04 - [Education] Children spending too long on maths app TT Rockstars, MP warns](./2026-11-04-Education-children-spending-too-long-on-maths-app-tt-rocksta.md)
+* [2026-11-04 - [Arts] Celebrity hairstylist John Frieda dies aged 75](./2026-11-04-Arts-celebrity-hairstylist-john-frieda-dies-aged-75.md)
 * [2026-11-03 - [Science] Prince William says UK faces terrifying risk of more wildfires due to climate change](./2026-11-03-Science-prince-william-says-uk-faces-terrifying-risk-of-mo.md)
 * [2026-11-04 - [Technology] Graduates are managing AI - but are they learning much else?](./2026-11-04-Technology-graduates-are-managing-ai---but-are-they-learning-.md)
 * [2026-11-04 - [Arts] Why Kim Kardashian came back to 'the worst TV drama ever'](./2026-11-04-Arts-why-kim-kardashian-came-back-to--the-worst-tv-dram.md)
