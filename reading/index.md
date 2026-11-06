@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-06 - [Science] Could the earliest weakening of the polar vortex on record bring UK snow?](./2026-11-06-Science-could-the-earliest-weakening-of-the-polar-vortex-o.md)
+* [2026-11-06 - [Technology] Global tech stocks plunge as US midterms add to AI slowdown fears](./2026-11-06-Technology-global-tech-stocks-plunge-as-us-midterms-add-to-ai.md)
+* [2026-11-06 - [Arts] Russell Brand found guilty of rape and sexual assault](./2026-11-06-Arts-russell-brand-found-guilty-of-rape-and-sexual-assa.md)
 * [2026-11-04 - [Science] Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'](./2026-11-04-Science-typhoons-batter-east-asia-as-el-ni-o-makes-pacific.md)
 * [2026-11-04 - [Technology] Elon Musk's millions failed to deliver Republican wins in fierce midterms](./2026-11-04-Technology-elon-musk-s-millions-failed-to-deliver-republican-.md)
 * [2026-11-04 - [Education] Children spending too long on maths app TT Rockstars, MP warns](./2026-11-04-Education-children-spending-too-long-on-maths-app-tt-rocksta.md)
