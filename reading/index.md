@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-07 - [Science] One of the year's most prolific meteor showers to light up the night sky this weekend](./2026-11-07-Science-one-of-the-year-s-most-prolific-meteor-showers-to-.md)
+* [2026-11-06 - [Technology] Elon Musk appears to signal the end of the road for Cybertruck](./2026-11-06-Technology-elon-musk-appears-to-signal-the-end-of-the-road-fo.md)
+* [2026-11-06 - [Education] 'Misleading' student loans information left out examples of higher-salary repayments](./2026-11-06-Education--misleading--student-loans-information-left-out-ex.md)
+* [2026-11-06 - [Arts] Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction](./2026-11-06-Arts-katherine-ryan-says-she-feels--grief-and-relief--a.md)
 * [2026-11-06 - [Science] Could the earliest weakening of the polar vortex on record bring UK snow?](./2026-11-06-Science-could-the-earliest-weakening-of-the-polar-vortex-o.md)
 * [2026-11-06 - [Technology] Global tech stocks plunge as US midterms add to AI slowdown fears](./2026-11-06-Technology-global-tech-stocks-plunge-as-us-midterms-add-to-ai.md)
 * [2026-11-06 - [Arts] Russell Brand found guilty of rape and sexual assault](./2026-11-06-Arts-russell-brand-found-guilty-of-rape-and-sexual-assa.md)
