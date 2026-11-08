@@ -1,6 +1,8 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-08 - [Technology] Can the Zelda remake capture the magic of the original?](./2026-11-08-Technology-can-the-zelda-remake-capture-the-magic-of-the-orig.md)
+* [2026-11-07 - [Arts] Monty Don bids 'final goodbye' to Gardeners' World after two decades](./2026-11-07-Arts-monty-don-bids--final-goodbye--to-gardeners--world.md)
 * [2026-11-07 - [Science] One of the year's most prolific meteor showers to light up the night sky this weekend](./2026-11-07-Science-one-of-the-year-s-most-prolific-meteor-showers-to-.md)
 * [2026-11-06 - [Technology] Elon Musk appears to signal the end of the road for Cybertruck](./2026-11-06-Technology-elon-musk-appears-to-signal-the-end-of-the-road-fo.md)
 * [2026-11-06 - [Education] 'Misleading' student loans information left out examples of higher-salary repayments](./2026-11-06-Education--misleading--student-loans-information-left-out-ex.md)
