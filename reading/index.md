@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-09 - [Science] A glimmer of good news for Britain's sleepy dormouse](./2026-11-09-Science-a-glimmer-of-good-news-for-britain-s-sleepy-dormou.md)
+* [2026-11-08 - [Technology] Government 'looking seriously' at banning under-16s from Vinted and eBay](./2026-11-08-Technology-government--looking-seriously--at-banning-under-16.md)
+* [2026-11-09 - [Education] Society needs to act to help white working-class pupils, inquiry says](./2026-11-09-Education-society-needs-to-act-to-help-white-working-class-p.md)
+* [2026-11-07 - [Arts] Relief, tears and sadness: Married at First Sight UK cast react to show being axed](./2026-11-07-Arts-relief--tears-and-sadness--married-at-first-sight-.md)
 * [2026-11-08 - [Technology] Can the Zelda remake capture the magic of the original?](./2026-11-08-Technology-can-the-zelda-remake-capture-the-magic-of-the-orig.md)
 * [2026-11-07 - [Arts] Monty Don bids 'final goodbye' to Gardeners' World after two decades](./2026-11-07-Arts-monty-don-bids--final-goodbye--to-gardeners--world.md)
 * [2026-11-07 - [Science] One of the year's most prolific meteor showers to light up the night sky this weekend](./2026-11-07-Science-one-of-the-year-s-most-prolific-meteor-showers-to-.md)
