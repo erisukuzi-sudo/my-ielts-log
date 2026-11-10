@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-10 - [Science] The superpower battle over energy – and what it means for your bills](./2026-11-10-Science-the-superpower-battle-over-energy---and-what-it-me.md)
+* [2026-11-10 - [Technology] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy](./2026-11-10-Technology-trump-says-fbi-investigating-nvidia-boss-s-affair-.md)
+* [2026-11-09 - [Education] Phones to be banned from pupils' bags or pockets under stricter rules for schools in England](./2026-11-09-Education-phones-to-be-banned-from-pupils--bags-or-pockets-u.md)
+* [2026-11-09 - [Arts] Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault](./2026-11-09-Arts-russell-brand-sentenced-to-10-and-a-half-years-in-.md)
 * [2026-11-09 - [Science] A glimmer of good news for Britain's sleepy dormouse](./2026-11-09-Science-a-glimmer-of-good-news-for-britain-s-sleepy-dormou.md)
 * [2026-11-08 - [Technology] Government 'looking seriously' at banning under-16s from Vinted and eBay](./2026-11-08-Technology-government--looking-seriously--at-banning-under-16.md)
 * [2026-11-09 - [Education] Society needs to act to help white working-class pupils, inquiry says](./2026-11-09-Education-society-needs-to-act-to-help-white-working-class-p.md)

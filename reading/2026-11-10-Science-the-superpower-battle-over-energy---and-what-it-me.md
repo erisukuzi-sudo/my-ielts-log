@@ -1,0 +1,12 @@
+---
+title: "The superpower battle over energy – and what it means for your bills"
+date: 2026-11-10
+category: Science
+---
+# The superpower battle over energy – and what it means for your bills
+
+**Category:** Science
+
+[Original Article](https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss)
+
+A tug-of-war between China and the US could have a big impact on energy costs, but who will win?
