@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-11 - [Science] Duchy tenants may have to buy farms or leave as Prince William plans sell-off](./2026-11-11-Science-duchy-tenants-may-have-to-buy-farms-or-leave-as-pr.md)
+* [2026-11-11 - [Technology] Robot vessels take on the dangerous work of mine hunting](./2026-11-11-Technology-robot-vessels-take-on-the-dangerous-work-of-mine-h.md)
+* [2026-11-11 - [Education] Students passing university assessments in minutes using AI, regulator warns](./2026-11-11-Education-students-passing-university-assessments-in-minutes.md)
+* [2026-11-10 - [Arts] David Walliams accused of sexual misconduct after losing injunction bid](./2026-11-10-Arts-david-walliams-accused-of-sexual-misconduct-after-.md)
 * [2026-11-10 - [Science] The superpower battle over energy – and what it means for your bills](./2026-11-10-Science-the-superpower-battle-over-energy---and-what-it-me.md)
 * [2026-11-10 - [Technology] Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy](./2026-11-10-Technology-trump-says-fbi-investigating-nvidia-boss-s-affair-.md)
 * [2026-11-09 - [Education] Phones to be banned from pupils' bags or pockets under stricter rules for schools in England](./2026-11-09-Education-phones-to-be-banned-from-pupils--bags-or-pockets-u.md)
