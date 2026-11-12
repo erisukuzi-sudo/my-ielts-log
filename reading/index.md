@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-12 - [Science] Significant drop in levels of toxic 'forever' chemicals in England's rivers](./2026-11-12-Science-significant-drop-in-levels-of-toxic--forever--chem.md)
+* [2026-11-11 - [Technology] New Indian mega library rocked by scandal over 'AI-generated books'](./2026-11-11-Technology-new-indian-mega-library-rocked-by-scandal-over--ai.md)
+* [2026-11-11 - [Arts] Author says there were 'real concerns' about David Walliams within publishing industry](./2026-11-11-Arts-author-says-there-were--real-concerns--about-david.md)
 * [2026-11-11 - [Science] Duchy tenants may have to buy farms or leave as Prince William plans sell-off](./2026-11-11-Science-duchy-tenants-may-have-to-buy-farms-or-leave-as-pr.md)
 * [2026-11-11 - [Technology] Robot vessels take on the dangerous work of mine hunting](./2026-11-11-Technology-robot-vessels-take-on-the-dangerous-work-of-mine-h.md)
 * [2026-11-11 - [Education] Students passing university assessments in minutes using AI, regulator warns](./2026-11-11-Education-students-passing-university-assessments-in-minutes.md)
