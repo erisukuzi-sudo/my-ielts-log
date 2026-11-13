@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-12 - [Science] Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return](./2026-11-12-Science-flood-victim--95--lived-in-wetherspoons-after-her-.md)
+* [2026-11-13 - [Technology] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil](./2026-11-13-Technology-scandal-hit-nvidia-ceo-jensen-huang-quits--plungin.md)
+* [2026-11-12 - [Arts] Schools, libraries and parents face 'difficult decision' over David Walliams books](./2026-11-12-Arts-schools--libraries-and-parents-face--difficult-dec.md)
 * [2026-11-12 - [Science] Significant drop in levels of toxic 'forever' chemicals in England's rivers](./2026-11-12-Science-significant-drop-in-levels-of-toxic--forever--chem.md)
 * [2026-11-11 - [Technology] New Indian mega library rocked by scandal over 'AI-generated books'](./2026-11-11-Technology-new-indian-mega-library-rocked-by-scandal-over--ai.md)
 * [2026-11-11 - [Arts] Author says there were 'real concerns' about David Walliams within publishing industry](./2026-11-11-Arts-author-says-there-were--real-concerns--about-david.md)
