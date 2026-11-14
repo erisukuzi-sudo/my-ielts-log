@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-14 - [Science] Bluetongue virus confirmed on County Down farm](./2026-11-14-Science-bluetongue-virus-confirmed-on-county-down-farm.md)
+* [2026-11-14 - [Technology] Even Grand Theft Auto's original creators haven't been able to play GTA 6](./2026-11-14-Technology-even-grand-theft-auto-s-original-creators-haven-t-.md)
+* [2026-11-14 - [Arts] Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?](./2026-11-14-Arts-brand--walliams-and-mafs--is-this-a-reckoning-for-.md)
 * [2026-11-12 - [Science] Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return](./2026-11-12-Science-flood-victim--95--lived-in-wetherspoons-after-her-.md)
 * [2026-11-13 - [Technology] Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil](./2026-11-13-Technology-scandal-hit-nvidia-ceo-jensen-huang-quits--plungin.md)
 * [2026-11-12 - [Arts] Schools, libraries and parents face 'difficult decision' over David Walliams books](./2026-11-12-Arts-schools--libraries-and-parents-face--difficult-dec.md)
