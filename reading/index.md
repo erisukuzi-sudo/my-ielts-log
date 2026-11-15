@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-14 - [Science] SpaceX successfully catches top of huge Starship rocket for first time](./2026-11-14-Science-spacex-successfully-catches-top-of-huge-starship-r.md)
+* [2026-11-14 - [Technology] Italy fines Meta €805m over accessing users' photos](./2026-11-14-Technology-italy-fines-meta--805m-over-accessing-users--photo.md)
+* [2026-11-15 - [Arts] Holly Humberstone: People can't connect to a pop star who's 'too polished'](./2026-11-15-Arts-holly-humberstone--people-can-t-connect-to-a-pop-s.md)
 * [2026-11-14 - [Science] Bluetongue virus confirmed on County Down farm](./2026-11-14-Science-bluetongue-virus-confirmed-on-county-down-farm.md)
 * [2026-11-14 - [Technology] Even Grand Theft Auto's original creators haven't been able to play GTA 6](./2026-11-14-Technology-even-grand-theft-auto-s-original-creators-haven-t-.md)
 * [2026-11-14 - [Arts] Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?](./2026-11-14-Arts-brand--walliams-and-mafs--is-this-a-reckoning-for-.md)
