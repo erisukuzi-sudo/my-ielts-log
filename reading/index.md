@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-15 - [Science] How to spot November's planetary parade in the pre-dawn sky](./2026-11-15-Science-how-to-spot-november-s-planetary-parade-in-the-pre.md)
+* [2026-11-16 - [Technology] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ](./2026-11-16-Technology-suspected-china-spy-linked-to-nvidia-s-ex-boss-lef.md)
+* [2026-11-15 - [Education] Tories pledge to halt screen-based school exams and cut coursework](./2026-11-15-Education-tories-pledge-to-halt-screen-based-school-exams-an.md)
 * [2026-11-14 - [Science] SpaceX successfully catches top of huge Starship rocket for first time](./2026-11-14-Science-spacex-successfully-catches-top-of-huge-starship-r.md)
 * [2026-11-14 - [Technology] Italy fines Meta €805m over accessing users' photos](./2026-11-14-Technology-italy-fines-meta--805m-over-accessing-users--photo.md)
 * [2026-11-15 - [Arts] Holly Humberstone: People can't connect to a pop star who's 'too polished'](./2026-11-15-Arts-holly-humberstone--people-can-t-connect-to-a-pop-s.md)
