@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-17 - [Science] Met Office yellow warning in place as snow could disrupt Tuesday morning travel](./2026-11-17-Science-met-office-yellow-warning-in-place-as-snow-could-d.md)
+* [2026-11-17 - [Technology] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO](./2026-11-17-Technology-nvidia-dismisses--bring-jensen-back--campaign-as-t.md)
+* [2026-11-16 - [Education] 'Complete system reset' needed to get 440,000 young people into work, says major review ](./2026-11-16-Education--complete-system-reset--needed-to-get-440-000-youn.md)
+* [2026-11-17 - [Arts] Robert Pattinson to replace Daniel Craig as James Bond](./2026-11-17-Arts-robert-pattinson-to-replace-daniel-craig-as-james-.md)
 * [2026-11-15 - [Science] How to spot November's planetary parade in the pre-dawn sky](./2026-11-15-Science-how-to-spot-november-s-planetary-parade-in-the-pre.md)
 * [2026-11-16 - [Technology] Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says ](./2026-11-16-Technology-suspected-china-spy-linked-to-nvidia-s-ex-boss-lef.md)
 * [2026-11-15 - [Education] Tories pledge to halt screen-based school exams and cut coursework](./2026-11-15-Education-tories-pledge-to-halt-screen-based-school-exams-an.md)
