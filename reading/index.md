@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-18 - [Science] Government risks missing climate targets if EV rules weakened, adviser warns](./2026-11-18-Science-government-risks-missing-climate-targets-if-ev-rul.md)
+* [2026-11-18 - [Technology] Waymo pulls driverless taxis from all US freeways](./2026-11-18-Technology-waymo-pulls-driverless-taxis-from-all-us-freeways.md)
+* [2026-11-17 - [Education] Out of work and not in college: How quickly could Milburn's plans help you?](./2026-11-17-Education-out-of-work-and-not-in-college--how-quickly-could-.md)
+* [2026-11-17 - [Arts] Batman to James Bond: The clues about what to expect from Robert Pattinson's 007](./2026-11-17-Arts-batman-to-james-bond--the-clues-about-what-to-expe.md)
 * [2026-11-17 - [Science] Met Office yellow warning in place as snow could disrupt Tuesday morning travel](./2026-11-17-Science-met-office-yellow-warning-in-place-as-snow-could-d.md)
 * [2026-11-17 - [Technology] Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO](./2026-11-17-Technology-nvidia-dismisses--bring-jensen-back--campaign-as-t.md)
 * [2026-11-16 - [Education] 'Complete system reset' needed to get 440,000 young people into work, says major review ](./2026-11-16-Education--complete-system-reset--needed-to-get-440-000-youn.md)
