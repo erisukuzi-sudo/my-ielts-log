@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-18 - [Science] The seven Anthropic founders who are about to become multi-billionaires](./2026-11-18-Science-the-seven-anthropic-founders-who-are-about-to-beco.md)
+* [2026-11-19 - [Technology] Elon Musk says record spending on US midterms was 'pretty foolish'](./2026-11-19-Technology-elon-musk-says-record-spending-on-us-midterms-was-.md)
+* [2026-11-18 - [Arts] Harry Styles, Billie Eilish, Sam Fender and Cher to headline Glastonbury 2027](./2026-11-18-Arts-harry-styles--billie-eilish--sam-fender-and-cher-t.md)
 * [2026-11-18 - [Science] Government risks missing climate targets if EV rules weakened, adviser warns](./2026-11-18-Science-government-risks-missing-climate-targets-if-ev-rul.md)
 * [2026-11-18 - [Technology] Waymo pulls driverless taxis from all US freeways](./2026-11-18-Technology-waymo-pulls-driverless-taxis-from-all-us-freeways.md)
 * [2026-11-17 - [Education] Out of work and not in college: How quickly could Milburn's plans help you?](./2026-11-17-Education-out-of-work-and-not-in-college--how-quickly-could-.md)

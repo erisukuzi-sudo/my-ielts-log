@@ -1,0 +1,12 @@
+---
+title: "The seven Anthropic founders who are about to become multi-billionaires"
+date: 2026-11-18
+category: Science
+---
+# The seven Anthropic founders who are about to become multi-billionaires
+
+**Category:** Science
+
+[Original Article](https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss)
+
+The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.
