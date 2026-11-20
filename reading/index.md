@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-20 - [Science] More climate money for Africa? Europe says use what's already pledged](./2026-11-20-Science-more-climate-money-for-africa--europe-says-use-wha.md)
+* [2026-11-20 - [Technology] GTA 6 breaks records as sales top $2bn - industry estimate](./2026-11-20-Technology-gta-6-breaks-records-as-sales-top--2bn---industry-.md)
+* [2026-11-19 - [Arts] Ella Langley sweeps Country Music Awards as Taylor Swift performs](./2026-11-19-Arts-ella-langley-sweeps-country-music-awards-as-taylor.md)
 * [2026-11-18 - [Science] The seven Anthropic founders who are about to become multi-billionaires](./2026-11-18-Science-the-seven-anthropic-founders-who-are-about-to-beco.md)
 * [2026-11-19 - [Technology] Elon Musk says record spending on US midterms was 'pretty foolish'](./2026-11-19-Technology-elon-musk-says-record-spending-on-us-midterms-was-.md)
 * [2026-11-18 - [Arts] Harry Styles, Billie Eilish, Sam Fender and Cher to headline Glastonbury 2027](./2026-11-18-Arts-harry-styles--billie-eilish--sam-fender-and-cher-t.md)
