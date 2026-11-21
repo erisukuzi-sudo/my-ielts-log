@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-20 - [Science] Birds killed in blaze at one of the largest foie gras farms in the US](./2026-11-20-Science-birds-killed-in-blaze-at-one-of-the-largest-foie-g.md)
+* [2026-11-21 - [Technology] Can AI really help spot Black Friday deals? We put it to the test](./2026-11-21-Technology-can-ai-really-help-spot-black-friday-deals--we-put.md)
+* [2026-11-20 - [Arts] New Hunger Games cast say joining the franchise is 'nerve-racking' ](./2026-11-20-Arts-new-hunger-games-cast-say-joining-the-franchise-is.md)
 * [2026-11-20 - [Science] More climate money for Africa? Europe says use what's already pledged](./2026-11-20-Science-more-climate-money-for-africa--europe-says-use-wha.md)
 * [2026-11-20 - [Technology] GTA 6 breaks records as sales top $2bn - industry estimate](./2026-11-20-Technology-gta-6-breaks-records-as-sales-top--2bn---industry-.md)
 * [2026-11-19 - [Arts] Ella Langley sweeps Country Music Awards as Taylor Swift performs](./2026-11-19-Arts-ella-langley-sweeps-country-music-awards-as-taylor.md)

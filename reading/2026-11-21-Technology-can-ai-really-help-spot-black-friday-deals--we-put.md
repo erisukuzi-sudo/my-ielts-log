@@ -1,0 +1,12 @@
+---
+title: "Can AI really help spot Black Friday deals? We put it to the test"
+date: 2026-11-21
+category: Technology
+---
+# Can AI really help spot Black Friday deals? We put it to the test
+
+**Category:** Technology
+
+[Original Article](https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss)
+
+We put four AI models to the test to see if they could save us money on a new TV.
