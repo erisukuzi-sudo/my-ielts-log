@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-23 - [Science] COP31 fails to reach major climate deal as talks expose deep divisions](./2026-11-23-Science-cop31-fails-to-reach-major-climate-deal-as-talks-e.md)
+* [2026-11-23 - [Technology] San Francisco is enjoying an AI boom, but worries about a crash are growing](./2026-11-23-Technology-san-francisco-is-enjoying-an-ai-boom--but-worries-.md)
+* [2026-11-22 - [Arts] BBC apologises for 'any offence caused' by Strictly noise disruption ](./2026-11-22-Arts-bbc-apologises-for--any-offence-caused--by-strictl.md)
 * [2026-11-21 - [Science] Will COP31 end with a new global climate deal?](./2026-11-21-Science-will-cop31-end-with-a-new-global-climate-deal-.md)
 * [2026-11-21 - [Arts] Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?](./2026-11-21-Arts-who-will-be-robert-pattinson-s--bond-girl----and-d.md)
 * [2026-11-20 - [Science] Birds killed in blaze at one of the largest foie gras farms in the US](./2026-11-20-Science-birds-killed-in-blaze-at-one-of-the-largest-foie-g.md)
