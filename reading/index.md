@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-23 - [Science] What failure of COP31 reveals about a divided world](./2026-11-23-Science-what-failure-of-cop31-reveals-about-a-divided-worl.md)
+* [2026-11-23 - [Technology] US to blacklist Asian AI firm Megaspeed after Nvidia scandal](./2026-11-23-Technology-us-to-blacklist-asian-ai-firm-megaspeed-after-nvid.md)
+* [2026-11-23 - [Arts] US rapper postpones two arena shows after Manchester evacuation](./2026-11-23-Arts-us-rapper-postpones-two-arena-shows-after-manchest.md)
 * [2026-11-23 - [Science] COP31 fails to reach major climate deal as talks expose deep divisions](./2026-11-23-Science-cop31-fails-to-reach-major-climate-deal-as-talks-e.md)
 * [2026-11-23 - [Technology] San Francisco is enjoying an AI boom, but worries about a crash are growing](./2026-11-23-Technology-san-francisco-is-enjoying-an-ai-boom--but-worries-.md)
 * [2026-11-22 - [Arts] BBC apologises for 'any offence caused' by Strictly noise disruption ](./2026-11-22-Arts-bbc-apologises-for--any-offence-caused--by-strictl.md)
