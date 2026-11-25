@@ -1,6 +1,9 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-25 - [Science] China's Shenzhou-24 carries Pakistan's first astronaut into space](./2026-11-25-Science-china-s-shenzhou-24-carries-pakistan-s-first-astro.md)
+* [2026-11-25 - [Technology] US attorney general dodges questions about Nvidia investigation](./2026-11-25-Technology-us-attorney-general-dodges-questions-about-nvidia-.md)
+* [2026-11-24 - [Arts] Substance released at concert could be linked to robberies, police say](./2026-11-24-Arts-substance-released-at-concert-could-be-linked-to-r.md)
 * [2026-11-23 - [Science] What failure of COP31 reveals about a divided world](./2026-11-23-Science-what-failure-of-cop31-reveals-about-a-divided-worl.md)
 * [2026-11-23 - [Technology] US to blacklist Asian AI firm Megaspeed after Nvidia scandal](./2026-11-23-Technology-us-to-blacklist-asian-ai-firm-megaspeed-after-nvid.md)
 * [2026-11-23 - [Arts] US rapper postpones two arena shows after Manchester evacuation](./2026-11-23-Arts-us-rapper-postpones-two-arena-shows-after-manchest.md)
