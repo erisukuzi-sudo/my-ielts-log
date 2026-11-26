@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-26 - [Science] California warns of flooding as King Tides peak over Thanksgiving](./2026-11-26-Science-california-warns-of-flooding-as-king-tides-peak-ov.md)
+* [2026-11-25 - [Technology] Huawei found guilty of stealing US trade secrets but acquitted of racketeering](./2026-11-25-Technology-huawei-found-guilty-of-stealing-us-trade-secrets-b.md)
+* [2026-11-25 - [Education] Badenoch challenges Burnham over university fees for EU students](./2026-11-25-Education-badenoch-challenges-burnham-over-university-fees-f.md)
+* [2026-11-25 - [Arts] Duran Duran guitarist Andy Taylor dies aged 65](./2026-11-25-Arts-duran-duran-guitarist-andy-taylor-dies-aged-65.md)
 * [2026-11-25 - [Science] China's Shenzhou-24 carries Pakistan's first astronaut into space](./2026-11-25-Science-china-s-shenzhou-24-carries-pakistan-s-first-astro.md)
 * [2026-11-25 - [Technology] US attorney general dodges questions about Nvidia investigation](./2026-11-25-Technology-us-attorney-general-dodges-questions-about-nvidia-.md)
 * [2026-11-24 - [Arts] Substance released at concert could be linked to robberies, police say](./2026-11-24-Arts-substance-released-at-concert-could-be-linked-to-r.md)
