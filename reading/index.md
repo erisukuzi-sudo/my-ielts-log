@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-27 - [Science] Watch: Truck hangs in the balance after losing control in wet conditions](./2026-11-27-Science-watch--truck-hangs-in-the-balance-after-losing-con.md)
+* [2026-11-27 - [Technology] Why is there a shortage of 'wizard' elevator mechanics?](./2026-11-27-Technology-why-is-there-a-shortage-of--wizard--elevator-mecha.md)
+* [2026-11-26 - [Education] Schools given emergency action plans for power outages and extreme weather](./2026-11-26-Education-schools-given-emergency-action-plans-for-power-out.md)
+* [2026-11-26 - [Arts] Tributes for Duran Duran guitarist Andy Taylor after his death aged 65](./2026-11-26-Arts-tributes-for-duran-duran-guitarist-andy-taylor-aft.md)
 * [2026-11-26 - [Science] California warns of flooding as King Tides peak over Thanksgiving](./2026-11-26-Science-california-warns-of-flooding-as-king-tides-peak-ov.md)
 * [2026-11-25 - [Technology] Huawei found guilty of stealing US trade secrets but acquitted of racketeering](./2026-11-25-Technology-huawei-found-guilty-of-stealing-us-trade-secrets-b.md)
 * [2026-11-25 - [Education] Badenoch challenges Burnham over university fees for EU students](./2026-11-25-Education-badenoch-challenges-burnham-over-university-fees-f.md)
