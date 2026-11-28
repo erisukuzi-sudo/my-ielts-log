@@ -1,6 +1,10 @@
 # 🌍 Extensive Reading Library
 Welcome to your daily BBC archive.
 
+* [2026-11-28 - [Science] Hundreds of thousands still without power a day after US slammed with Thanksgiving storms](./2026-11-28-Science-hundreds-of-thousands-still-without-power-a-day-af.md)
+* [2026-11-28 - [Technology] How gamers are using AI and leaked files to clone Grand Theft Auto 6](./2026-11-28-Technology-how-gamers-are-using-ai-and-leaked-files-to-clone-.md)
+* [2026-11-28 - [Education] Set time aside for children to read for pleasure, schools to be told](./2026-11-28-Education-set-time-aside-for-children-to-read-for-pleasure--.md)
+* [2026-11-27 - [Arts] 'We have no interest in hearing from Huw Edwards', Downing Street says](./2026-11-27-Arts--we-have-no-interest-in-hearing-from-huw-edwards--.md)
 * [2026-11-27 - [Science] Watch: Truck hangs in the balance after losing control in wet conditions](./2026-11-27-Science-watch--truck-hangs-in-the-balance-after-losing-con.md)
 * [2026-11-27 - [Technology] Why is there a shortage of 'wizard' elevator mechanics?](./2026-11-27-Technology-why-is-there-a-shortage-of--wizard--elevator-mecha.md)
 * [2026-11-26 - [Education] Schools given emergency action plans for power outages and extreme weather](./2026-11-26-Education-schools-given-emergency-action-plans-for-power-out.md)
